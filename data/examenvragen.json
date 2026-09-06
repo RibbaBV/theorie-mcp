@@ -1,0 +1,1144 @@
+{
+ "gemaakt": "2026-09-02",
+ "aantal": 18,
+ "vragen": [
+  {
+   "vraag": "Wat doe je?",
+   "situatie": "Je nadert een brug. De bruglichten knipperen rood.",
+   "antwoorden": [
+    "Je stopt voor de brug.",
+    "Je rijdt door, want er is geen scheepvaart te zien.",
+    "Je rijdt stapvoets door, want het licht knippert alleen."
+   ],
+   "juist": 0,
+   "uitleg": "Rood licht of rood knipperlicht bij bruglichten betekent stop. Dat geldt altijd, ook als je geen beweging ziet. Doorrijden is dan niet toegestaan.",
+   "artikelen": [
+    "RVV 72"
+   ],
+   "toetst": "betekenis van rood (knipper)licht bij bruglichten en verplicht stoppen",
+   "scene": "",
+   "scene_eisen": [],
+   "borden": [],
+   "onderwerp": "verkeerstekens-en-aanwijzingen",
+   "soort": "inzicht",
+   "vorm": "meerkeuze-3",
+   "id": "61f55908ef",
+   "standpunt": "geen",
+   "beeld": null,
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 2,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": null,
+    "blind": [
+     {
+      "antwoord": 0,
+      "waarom": "Knipperend rood bij een brug betekent stop: je mag niet doorrijden, ook niet stapvoets, ongeacht zicht op scheepvaart."
+     },
+     {
+      "antwoord": 0,
+      "waarom": "Rood knipperlicht bij een beweegbare brug is een stopteken: je moet vóór de brug (bij de stopstreep/slagbomen) stoppen, ook als je geen scheepvaart ziet."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Wanneer rijd jij een kruispunt op?",
+   "situatie": "",
+   "antwoorden": [
+    "Pas als je het kruispunt vrij kunt houden.",
+    "Zodra het licht groen is, ook als je op het kruispunt moet wachten.",
+    "Als je voorrang hebt, mag je op het kruispunt wachten."
+   ],
+   "juist": 0,
+   "uitleg": "Je mag een kruispunt niet blokkeren. Je rijdt het pas op als je het vrij kunt houden. Groen licht of voorrang hebben verandert dat niet.",
+   "artikelen": [
+    "RVV 14"
+   ],
+   "toetst": "niet blokkeren van een kruispunt",
+   "scene": "",
+   "scenes": [],
+   "scene_eisen": [],
+   "borden": [],
+   "onderwerp": "voorrang-en-voor-laten-gaan",
+   "soort": "kennis",
+   "vorm": "meerkeuze-3",
+   "id": "531d9810a4",
+   "standpunt": "geen",
+   "beeld": null,
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 3,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": null,
+    "blind": [
+     {
+      "antwoord": 0,
+      "waarom": "Je mag een kruispunt niet oprijden als je het niet vrij kunt houden; groen licht of voorrang geeft geen recht om het kruispunt te blokkeren."
+     },
+     {
+      "antwoord": 0,
+      "waarom": "Je mag een kruispunt alleen oprijden als je het niet blokkeert; groen licht of voorrang verandert dat niet."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Je rijdt in de rode auto. Moet je de tram eerst laten gaan?",
+   "situatie": "",
+   "antwoorden": [
+    "Ja",
+    "Nee"
+   ],
+   "juist": 0,
+   "uitleg": "Ja. Op kruispunten verlenen bestuurders voorrang aan bestuurders van een tram (RVV 15 lid 2b). De rechtsregel geldt hier dus niet; je laat de tram eerst gaan. ‘Nee’ is onjuist.",
+   "artikelen": [
+    "RVV 15"
+   ],
+   "toetst": "tram gaat voor op een gelijkwaardig kruispunt",
+   "scene": "Standpunt: schuin van boven en schuin van achteren op de rode auto, circa 10 meter hoog onder 45 graden, alle vier takken van het kruispunt in beeld. Woonstraat met bestrate, verharde rijbaan, geen middenstreep. Geen verkeerslichten, geen verkeersregelaar. Geen voorrangsborden, geen haaientanden. In de lengterichting van links naar rechts ligt een trambaan (sporen in de rijbaan) die het kruispunt kruist. Een gele lagevloertram nadert van links en rijdt rechtdoor over het kruispunt richting rechts. Onderaan in beeld nadert de rode personenauto rechtdoor het kruispunt, nog vóór de stopstreep van de kruisende trambaan (er is géén stopstreep of overwegaanduiding, enkel de kruising). Geen voetgangers op de rijbaan. Overdag, droog weer, goed zicht. Bebouwing en bomen op de achtergrond om woonstraat te tonen.",
+   "scenes": [],
+   "scene_eisen": [
+    "Gelijkwaardig kruispunt: geen borden die voorrang regelen en geen verkeerslichten.",
+    "Een duidelijk herkenbare tram op een trambaan komt van links en kruist de rijrichting van de rode auto.",
+    "De rode auto rijdt rechtdoor en is nog voor de kruising.",
+    "De tram is dicht genoeg genaderd dat een voorrangskeuze nodig is."
+   ],
+   "borden": [],
+   "onderwerp": "voorrang-en-voor-laten-gaan",
+   "soort": "kennis",
+   "vorm": "ja-nee",
+   "id": "e63c4caf1f",
+   "standpunt": "vogelvlucht",
+   "beeld": "/examenvragen/e63c4caf1f.webp",
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 1,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": {
+     "goed": true,
+     "gezien": "Schuin van boven op een woonstraatkruispunt zonder voorrangstekens of lichten: een gele tram rijdt van links naar rechts over sporen, terwijl een rode auto van onderen komt en nog vóór de kruising rechtdoor wil.",
+     "feiten": [
+      {
+       "eis": "Gelijkwaardig kruispunt: geen borden die voorrang regelen en geen verkeerslichten.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Een duidelijk herkenbare tram op een trambaan komt van links en kruist de rijrichting van de rode auto.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "De rode auto rijdt rechtdoor en is nog voor de kruising.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "De tram is dicht genoeg genaderd dat een voorrangskeuze nodig is.",
+       "zichtbaar": true
+      }
+     ],
+     "bezwaar": ""
+    },
+    "blind": [
+     {
+      "antwoord": 0,
+      "waarom": "Dit lijkt een gelijkwaardige kruising zonder borden of lichten. Op zo’n kruising heeft de tram voorrang, ongeacht de richting."
+     },
+     {
+      "antwoord": 0,
+      "waarom": "Onverregelde kruising: trams hebben voorrang op al het overige verkeer. Er zijn geen borden of lichten die dit veranderen."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Geldt de voorrang van rechts op kruispunten voor voetgangers?",
+   "situatie": "",
+   "antwoorden": [
+    "Ja",
+    "Nee"
+   ],
+   "juist": 1,
+   "uitleg": "De regel van rechts geldt alleen voor bestuurders (RVV 15). Een voetganger is geen bestuurder, dus hij krijgt geen voorrang van rechts. Wel laat je voetgangers op een zebrapad voor gaan (RVV 49).",
+   "artikelen": [
+    "RVV 15",
+    "RVV 49"
+   ],
+   "toetst": "voorrang van rechts geldt alleen tussen bestuurders",
+   "scene": "",
+   "scenes": [],
+   "scene_eisen": [],
+   "borden": [],
+   "onderwerp": "voorrang-en-voor-laten-gaan",
+   "soort": "kennis",
+   "vorm": "ja-nee",
+   "id": "abd090e05d",
+   "standpunt": "geen",
+   "beeld": null,
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 1,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": null,
+    "blind": [
+     {
+      "antwoord": 1,
+      "waarom": "Nee. De regel ‘voorrang van rechts’ op gelijkwaardige kruispunten geldt alleen tussen bestuurders; voetgangers zijn geen bestuurders."
+     },
+     {
+      "antwoord": 1,
+      "waarom": "De regel ‘rechts heeft voorrang’ geldt alleen tussen bestuurders op een gelijkwaardig kruispunt; voetgangers vallen daar niet onder."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Mag jij nu rijden met deze ademtest-uitslag?",
+   "situatie": "",
+   "antwoorden": [
+    "Ja",
+    "Nee",
+    "Alleen stapvoets"
+   ],
+   "juist": 1,
+   "uitleg": "Boven 220 microgram alcohol per liter uitgeademde lucht mag je niet rijden. De meter toont 260 µg/L, dus je rijdt niet. Voor beginnende bestuurders ligt de grens nog lager.",
+   "artikelen": [
+    "WVW 8 lid 2"
+   ],
+   "toetst": "kennis van de ademalcohollimiet en het juiste besluit",
+   "scene": "Blik vanuit de bestuurdersstoel van een stilstaande personenauto, overdag. Onderrand van het dashboard en een stukje motorkap zichtbaar. Op de middenconsole ligt een draagbare blaastester met een duidelijk verlicht scherm waarop in grote cijfers staat: 260 µg/L. Sleutel in het contact, motor uit.",
+   "scenes": [],
+   "scene_eisen": [
+    "Het display toont 260 µg alcohol per liter uitgeademde lucht",
+    "De eenheid µg/L is duidelijk leesbaar op het scherm"
+   ],
+   "borden": [],
+   "onderwerp": "verantwoorde-verkeersdeelname",
+   "soort": "kennis",
+   "vorm": "meerkeuze-3",
+   "id": "b47cd63e7b",
+   "standpunt": "bestuurder",
+   "beeld": "/examenvragen/b47cd63e7b.webp",
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 3,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": {
+     "goed": true,
+     "gezien": "Blik vanuit de bestuurdersstoel overdag; op de middenconsole ligt een blaastester met duidelijk display 260 µg/L; sleutel in het contact; auto staat stil in een woonstraat.",
+     "feiten": [
+      {
+       "eis": "Het display toont 260 µg alcohol per liter uitgeademde lucht",
+       "zichtbaar": true
+      },
+      {
+       "eis": "De eenheid µg/L is duidelijk leesbaar op het scherm",
+       "zichtbaar": true
+      }
+     ],
+     "bezwaar": ""
+    },
+    "blind": [
+     {
+      "antwoord": 1,
+      "waarom": "De uitslag is 260 µg/L; dit is boven de wettelijke limiet (220 µg/L voor ervaren bestuurders en 88 µg/L voor beginnende). Rijden is dan verboden; ‘alleen stapvoets’ bestaat niet."
+     },
+     {
+      "antwoord": 1,
+      "waarom": "De ademtest toont 260 µg/l; de wettelijke grens is 220 µg/l (en voor beginners 88 µg/l). Rijden is dus verboden; ‘alleen stapvoets’ bestaat niet."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Moet je hier een gevarendriehoek plaatsen?",
+   "situatie": "Net na een onoverzichtelijke bocht staat je auto stil met knipperend waarschuwingslicht.",
+   "antwoorden": [
+    "Ja",
+    "Nee"
+   ],
+   "juist": 1,
+   "uitleg": "De gevarendriehoek is verplicht bij een onverwacht obstakel dat niet tijdig zichtbaar is. Die plicht geldt niet wanneer je knipperend waarschuwingslicht voert. Daarom is Nee juist.",
+   "artikelen": [
+    "RVV 58"
+   ],
+   "toetst": "plicht gevarendriehoek en uitzondering bij waarschuwingslichten",
+   "scene": "Ooghoogte, 4 meter achter een stilstaande personenauto op een smalle landweg. Direct vóór de auto een onoverzichtelijke bocht met dichte begroeiing. De auto staat deels op de rijbaan met de rechterwielen in de berm. Beide achterste richtingaanwijzers branden tegelijk oranje (waarschuwingslichten aan). Geen gevarendriehoek op de weg. Overdag, droog weer, geen andere voertuigen nabij.",
+   "scenes": [],
+   "scene_eisen": [
+    "Beide achterste richtingaanwijzers knipperen tegelijk (waarschuwingslichten aan).",
+    "Auto staat stil net na een onoverzichtelijke bocht.",
+    "Er staat nog geen gevarendriehoek op de weg."
+   ],
+   "borden": [],
+   "onderwerp": "veilig-rijden-en-noodsituaties",
+   "soort": "kennis",
+   "vorm": "ja-nee",
+   "id": "c2de2f2252",
+   "standpunt": "zijkant",
+   "beeld": "/examenvragen/c2de2f2252.webp",
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 1,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": {
+     "goed": true,
+     "gezien": "Personenauto deels in de berm op een smalle landweg, direct na een onoverzichtelijke bocht met dichte begroeiing; beide achterste oranje richtingaanwijzers branden tegelijk; geen gevarendriehoek zichtbaar op de weg.",
+     "feiten": [
+      {
+       "eis": "Beide achterste richtingaanwijzers knipperen tegelijk (waarschuwingslichten aan).",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Auto staat stil net na een onoverzichtelijke bocht.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Er staat nog geen gevarendriehoek op de weg.",
+       "zichtbaar": true
+      }
+     ],
+     "bezwaar": ""
+    },
+    "blind": [
+     {
+      "antwoord": 1,
+      "waarom": "Nee: met werkende waarschuwingslichten ben je in Nederland niet verplicht een gevarendriehoek te plaatsen; die is alleen verplicht als de alarmlichten niet werken of ontbreken."
+     },
+     {
+      "antwoord": 1,
+      "waarom": "In Nederland is een gevarendriehoek niet verplicht; met werkende waarschuwingslichten volstaat het, ook na een onoverzichtelijke bocht."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Je rijdt in de rode auto. Geldt dit rode buslicht voor jou?",
+   "situatie": "",
+   "antwoorden": [
+    "Ja",
+    "Nee"
+   ],
+   "juist": 1,
+   "uitleg": "Tram/buslichten gelden voor trams, lijnbussen en voor bestuurders die de busbaan of busstrook gebruiken. Jij rijdt op de gewone rijstrook en volgt je eigen verkeerslicht. Het buslicht geldt dus niet voor jou.",
+   "artikelen": [
+    "RVV 70"
+   ],
+   "toetst": "reikwijdte van tram/buslichten en busstrookgebruik",
+   "scene": "Kruispunt in de bebouwde kom, alle vier de takken verhard en even breed. Zonnig, droog, overdag. Standpunt circa 10 meter hoog, 45 graden schuin van achter de rode auto, zodat het hele kruispunt zichtbaar is. Onderin beeld nadert een rode personenauto op de rechter van twee gewone rijstroken. Helemaal rechts daarnaast ligt een aparte busstrook met witte tekst 'BUS' op het wegdek en een doorgetrokken scheidingslijn naar de gewone rijstroken. Voor de busstrook staat een eigen buslicht (tram/bussein) dat rood toont. Boven de gewone rijstroken hangt een regulier driekleurig verkeerslicht dat groen toont voor rechtdoor. Op de busstrook nadert een lijnbus het kruispunt. Geen hoogteverschillen of onverharde wegen.",
+   "scenes": [],
+   "scene_eisen": [
+    "Er is een aparte busstrook met duidelijke BUS-markering.",
+    "Het buslicht voor de busstrook toont rood.",
+    "De rode auto rijdt niet op de busstrook.",
+    "Het gewone verkeerslicht voor de rode auto staat op groen."
+   ],
+   "borden": [],
+   "onderwerp": "verkeerstekens-en-aanwijzingen",
+   "soort": "kennis",
+   "vorm": "ja-nee",
+   "id": "80cc237829",
+   "standpunt": "vogelvlucht",
+   "beeld": "/examenvragen/80cc237829.webp",
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 1,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": {
+     "goed": true,
+     "gezien": "Stedelijk kruispunt met twee gewone rijstroken en rechts een aparte, met ‘BUS’ gemarkeerde busstrook met doorgetrokken lijn; een lijnbus nadert op de busstrook, een rode auto rijdt op de rechter gewone rijstrook; het buslicht rechts staat rood terwijl de reguliere verkeerslichten boven de gewone rijstroken groen tonen.",
+     "feiten": [
+      {
+       "eis": "Er is een aparte busstrook met duidelijke BUS-markering.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Het buslicht voor de busstrook toont rood.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "De rode auto rijdt niet op de busstrook.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Het gewone verkeerslicht voor de rode auto staat op groen.",
+       "zichtbaar": true
+      }
+     ],
+     "bezwaar": ""
+    },
+    "blind": [
+     {
+      "antwoord": 1,
+      "waarom": "Buslichten gelden alleen voor de busstrook; jij rijdt op de rijstrook ernaast met groen licht."
+     },
+     {
+      "antwoord": 1,
+      "waarom": "Buslichten gelden alleen voor voertuigen op de busbaan; jij rijdt in een gewone auto op de naastliggende rijstrook met groen licht."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Krijg je zonder aanvraag en betaling ooit een rijbewijs?",
+   "situatie": "",
+   "antwoorden": [
+    "Ja",
+    "Nee"
+   ],
+   "juist": 1,
+   "uitleg": "Een rijbewijs wordt alleen op aanvraag en tegen betaling afgegeven. Zonder aanvraag en betaling krijg je het niet.",
+   "artikelen": [
+    "WVW 111"
+   ],
+   "toetst": "afgifte alleen na aanvraag en betaling",
+   "scene": "",
+   "scenes": [],
+   "scene_eisen": [],
+   "borden": [],
+   "onderwerp": "wetgeving",
+   "soort": "kennis",
+   "vorm": "ja-nee",
+   "id": "181cff7abb",
+   "standpunt": "geen",
+   "beeld": null,
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 2,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": null,
+    "blind": [
+     {
+      "antwoord": 1,
+      "waarom": "In Nederland wordt een rijbewijs alleen afgegeven na een aanvraag bij de gemeente en betaling van leges, ook na slagen of bij omwisseling. Zonder aanvraag en betaling krijg je geen rijbewijs."
+     },
+     {
+      "antwoord": 1,
+      "waarom": "In Nederland krijg je een rijbewijs alleen na een aanvraag bij de gemeente en het betalen van leges; er is geen automatische of gratis afgifte."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Mag je hier kort stilstaan om uit te stappen?",
+   "situatie": "Je wilt je passagier direct laten uitstappen.",
+   "antwoorden": [
+    "Ja",
+    "Nee"
+   ],
+   "juist": 0,
+   "uitleg": "De streep langs de stoeprand is geel en onderbroken. Dat verbiedt parkeren, niet kort stilstaan voor direct in- of uitstappen (RVV 24). Stilstaan is alleen verboden bij een gele doorgetrokken streep (RVV 23).",
+   "artikelen": [
+    "RVV 23",
+    "RVV 24"
+   ],
+   "toetst": "onderscheid gele onderbroken versus doorgetrokken streep: parkeren versus stilstaan",
+   "scene": "Standpunt vanuit de bestuurdersstoel van een personenauto; onderin een strook dashboard en een stukje motorkap zichtbaar. Smalle winkelstraat in daglicht, droog weer. Rechts een trottoir met hoge stoeprand; langs de stoeprand een duidelijk gele onderbroken streep (korte strepen met gelijke tussenruimtes). Geen bushaltebord, geen zebrapad en geen geblokte halte-markering in beeld. Voorbij het rechtervoorportier een winkelpui met een passagier die de rechterachterdeur opendoet om uit te stappen. Geen gele doorgetrokken streep zichtbaar, geen busstrook of andere verbodsborden.",
+   "scene_eisen": [
+    "Gele onderbroken streep langs de stoeprand rechts.",
+    "Geen gele doorgetrokken streep aanwezig.",
+    "Geen bushaltebord of zebrapad binnen 5 meter.",
+    "Passagier rechts klaar om direct uit te stappen."
+   ],
+   "borden": [],
+   "onderwerp": "verkeerstekens-en-aanwijzingen",
+   "soort": "inzicht",
+   "vorm": "ja-nee",
+   "id": "879dba5898",
+   "standpunt": "bestuurder",
+   "beeld": "/examenvragen/879dba5898.webp",
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 1,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": {
+     "goed": true,
+     "gezien": "Bestuurderszicht in een smalle winkelstraat; rechts een trottoir met hoge stoeprand met een gele onderbroken streep; geen bushaltebord of zebrapad zichtbaar; bij een rechts geparkeerde auto staat een passagier bij de geopende rechterachterdeur om uit te stappen.",
+     "feiten": [
+      {
+       "eis": "Gele onderbroken streep langs de stoeprand rechts.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Geen gele doorgetrokken streep aanwezig.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Geen bushaltebord of zebrapad binnen 5 meter.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Passagier rechts klaar om direct uit te stappen.",
+       "zichtbaar": true
+      }
+     ],
+     "bezwaar": ""
+    },
+    "blind": [
+     {
+      "antwoord": 0,
+      "waarom": "Er staat een onderbroken gele streep langs de stoeprand: dat betekent parkeerverbod, maar kort stilstaan om iemand te laten in- of uitstappen mag."
+     },
+     {
+      "antwoord": 0,
+      "waarom": "De gele onderbroken streep betekent parkeerverbod, geen stopverbod. Kort stilstaan om iemand te laten uitstappen mag, zolang je het verkeer niet hindert."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Gebruik je hier een parkeerschijf?",
+   "situatie": "",
+   "antwoorden": [
+    "Ja",
+    "Nee",
+    "Alleen overdag"
+   ],
+   "juist": 0,
+   "uitleg": "Dit is een parkeerschijf-zone met blauwe streep. Met een auto mag je hier alleen parkeren met een duidelijk zichtbare parkeerschijf, achter de voorruit.",
+   "artikelen": [
+    "RVV 25"
+   ],
+   "toetst": "parkeren in parkeerschijf-zone en op blauwe streep",
+   "scene": "Blik vanuit de bestuurdersstoel van een personenauto. Onderaan een strook dashboard en een stukje motorkap. Rechts langs de straat parallelle parkeervakken met een doorlopende blauwe streep langs de stoeprand. Aan het begin van de straat staat rechts een paal met bord E10 (parkeerschijf-zone), zonder onderbord met tijden. Enkele geparkeerde auto's in de vakken. Droog weer, daglicht, stedelijke omgeving.",
+   "scenes": [],
+   "scene_eisen": [
+    "Bord E10 parkeerschijf-zone duidelijk zichtbaar",
+    "Geen onderbord met dagen of tijden zichtbaar",
+    "Blauwe streep langs de stoeprand bij de parkeervakken zichtbaar",
+    "Bestuurdersblik uit een personenauto (dashboard en voorruit zichtbaar)"
+   ],
+   "borden": [
+    "E10"
+   ],
+   "onderwerp": "gebruik-van-de-weg",
+   "soort": "inzicht",
+   "vorm": "meerkeuze-3",
+   "id": "e0fabcf155",
+   "standpunt": "bestuurder",
+   "beeld": "/examenvragen/e0fabcf155.webp",
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 2,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": {
+     "goed": true,
+     "gezien": "Bestuurdersblik door de voorruit met onderaan het dashboard; rechts parallelle parkeervakken met een doorlopende blauwe streep en een paal met bord E10 (parkeerschijf-zone) zonder apart onderbord; enkele auto's geparkeerd in een stedelijke straat bij droog daglicht.",
+     "feiten": [
+      {
+       "eis": "Bord E10 parkeerschijf-zone duidelijk zichtbaar",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Geen onderbord met dagen of tijden zichtbaar",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Blauwe streep langs de stoeprand bij de parkeervakken zichtbaar",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Bestuurdersblik uit een personenauto (dashboard en voorruit zichtbaar)",
+       "zichtbaar": true
+      }
+     ],
+     "bezwaar": ""
+    },
+    "blind": [
+     {
+      "antwoord": 0,
+      "waarom": "Er staat een parkeerschijfzone (bord met P en schijf) met ‘max 2h’ en géén tijdsaanduiding; dus altijd parkeren met parkeerschijf. De blauwe kantstreep bevestigt dit."
+     },
+     {
+      "antwoord": 0,
+      "waarom": "Zonebord P met parkeerschijf-symbool en 'max 2h' zonder tijden betekent blauwe zone: parkeren alleen met parkeerschijf, max. 2 uur."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Naar wie gaat je ingevorderde rijbewijs?",
+   "situatie": "",
+   "antwoorden": [
+    "Officier van justitie",
+    "Burgemeester",
+    "Korpschef"
+   ],
+   "juist": 0,
+   "uitleg": "Volgens WVW 164 lid 4 worden ingevorderde rijbewijzen met het proces-verbaal onverwijld opgezonden aan de officier van justitie. De burgemeester en de korpschef ontvangen het niet.",
+   "artikelen": [
+    "WVW 164 lid 4"
+   ],
+   "toetst": "wie het ingevorderde rijbewijs ontvangt",
+   "scene": "",
+   "scenes": [],
+   "scene_eisen": [],
+   "borden": [],
+   "onderwerp": "wetgeving",
+   "soort": "kennis",
+   "vorm": "meerkeuze-3",
+   "id": "2f12e59ad5",
+   "standpunt": "geen",
+   "beeld": null,
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 1,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": null,
+    "blind": [
+     {
+      "antwoord": 0,
+      "waarom": "Bij invordering moet de politie het rijbewijs zo snel mogelijk naar de officier van justitie sturen (art. 164 WVW). Niet naar de burgemeester of korpschef."
+     },
+     {
+      "antwoord": 0,
+      "waarom": "Bij invordering draagt de politie het rijbewijs zo spoedig mogelijk over aan de officier van justitie, die beslist over inhouding. Niet aan de burgemeester of de korpschef."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Je rijdt in de rode auto. Rijd je ertussen door?",
+   "situatie": "",
+   "antwoorden": [
+    "Ja.",
+    "Nee.",
+    "Alleen stapvoets."
+   ],
+   "juist": 1,
+   "uitleg": "Je mag een uitvaartstoet of militaire colonne niet doorsnijden. Je wacht tot de hele stoet voorbij is; ertussen door rijden mag niet.",
+   "artikelen": [
+    "RVV 16"
+   ],
+   "toetst": "niet doorsnijden van een uitvaartstoet of militaire colonne",
+   "scene": "Blik schuin van boven en schuin van achteren op een gelijkwaardig, vierarmig stedelijk kruispunt. Hoogte circa 10 meter, kijkhoek 45 graden. Daglicht, droog wegdek. Alle wegen verhard en even breed, geen markeringen, geen verkeerslichten, geen borden. Onderin beeld nadert een rode personenauto het kruispunt rechtdoor. Van links naar rechts kruist een herkenbare uitvaartstoet: voorop een zwarte rouwwagen, gevolgd door meerdere zwarte personenauto’s met dimlicht aan en kleine ‘UITVAART’-bordjes/vaantjes. Tussen de tweede en derde volgauto is een gat van ongeveer twee autolengtes waar je theoretisch door zou kunnen. Geen voetgangersoversteekplaats. Parkeerde auto’s langs de randen hinderen het zicht niet.",
+   "scenes": [],
+   "scene_eisen": [
+    "Het is een uitvaartstoet van motorvoertuigen.",
+    "De stoet rijdt van links naar rechts over het kruispunt.",
+    "Er is een zichtbaar gat tussen twee volgauto’s.",
+    "De rode auto nadert het kruispunt en zou door het gat moeten om door te rijden.",
+    "Geen verkeerslichten of voorrangsborden aanwezig.",
+    "Alle wegen zijn verhard en even breed.",
+    "Geen voetgangersoversteekplaats in beeld."
+   ],
+   "borden": [],
+   "onderwerp": "voorrang-en-voor-laten-gaan",
+   "soort": "inzicht",
+   "vorm": "meerkeuze-3",
+   "id": "1be6c279e7",
+   "standpunt": "vogelvlucht",
+   "beeld": "/examenvragen/1be6c279e7.webp",
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 1,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": {
+     "goed": true,
+     "gezien": "Schuin-van-boven zicht op een gelijkwaardig, vierarmig woonstraat-kruispunt met gelijke, verharde wegen zonder borden/markeringen; een uitvaartstoet met rouwwagen en zwarte volgauto’s rijdt van links naar rechts met een duidelijk gat tussen twee volgauto’s, terwijl onderin een rode auto het kruispunt nadert rechtdoor; geen zebrapad zichtbaar.",
+     "feiten": [
+      {
+       "eis": "Het is een uitvaartstoet van motorvoertuigen.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "De stoet rijdt van links naar rechts over het kruispunt.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Er is een zichtbaar gat tussen twee volgauto’s.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "De rode auto nadert het kruispunt en zou door het gat moeten om door te rijden.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Geen verkeerslichten of voorrangsborden aanwezig.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Alle wegen zijn verhard en even breed.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Geen voetgangersoversteekplaats in beeld.",
+       "zichtbaar": true
+      }
+     ],
+     "bezwaar": ""
+    },
+    "blind": [
+     {
+      "antwoord": 1,
+      "waarom": "Dit is een uitvaartstoet; die mag je volgens de regels niet doorsnijden, ook niet stapvoets."
+     },
+     {
+      "antwoord": 1,
+      "waarom": "Het is een uitvaartstoet; die mag je niet doorsnijden. Wachten tot de hele stoet is gepasseerd."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Geldt hier al een verbod op deze rijstrook?",
+   "situatie": "",
+   "antwoorden": [
+    "Ja",
+    "Nee"
+   ],
+   "juist": 1,
+   "uitleg": "De witte pijl is een voorwaarschuwing voor een rood kruis. Een verbod geldt pas bij een rood kruis. Kies wel zo snel mogelijk een rijstrook met een groene pijl of een maximumsnelheid.",
+   "artikelen": [
+    "RVV 73"
+   ],
+   "toetst": "betekenis van de witte pijl bij rijstrooklichten",
+   "scene": "Daglicht, droog weer. Perspectief vanuit de bestuurdersstoel van een personenauto op een drie- of vierstrooks autosnelweg. Onderin een strook dashboard en een stukje motorkap zichtbaar. Boven elke rijstrook hangt een matrixbord. Boven de middelste rijstrook, waar de auto rijdt, staat in het rijstrooklicht een witte pijl omlaag. Boven de linkerrijstrook staat een groene pijl omlaag. Boven de rechterrijstrook staat een weergegeven maximumsnelheid in de stijl van bord A3, bijvoorbeeld 90. Geen rood kruis zichtbaar. Enkele auto’s op de andere rijstroken op afstand, die de signalering niet blokkeren.",
+   "verschil": "",
+   "scene_eisen": [
+    "Boven jouw rijstrook toont het rijstrooklicht een witte pijl omlaag.",
+    "Er is geen rood kruis boven jouw rijstrook.",
+    "Boven de linkerrijstrook staat een groene pijl.",
+    "Boven de rechterrijstrook staat een A3 maximumsnelheid."
+   ],
+   "borden": [
+    "A3"
+   ],
+   "onderwerp": "verkeerstekens-en-aanwijzingen",
+   "soort": "kennis",
+   "vorm": "ja-nee",
+   "id": "a8f1e0e9c0",
+   "standpunt": "bestuurder",
+   "beeld": "/examenvragen/a8f1e0e9c0.webp",
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 1,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": {
+     "goed": true,
+     "gezien": "Overdag en droog vanaf de bestuurdersstoel op een driestrooks autosnelweg; onderin een strook dashboard/ motorkap zichtbaar; boven de linkerstrook een groene pijl, boven de middelste rijstrook (eigen) een witte pijl omlaag en boven de rechterstrook een snelheid ‘70’; geen rood kruis; enkele auto’s op afstand.",
+     "feiten": [
+      {
+       "eis": "Boven jouw rijstrook toont het rijstrooklicht een witte pijl omlaag.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Er is geen rood kruis boven jouw rijstrook.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Boven de linkerrijstrook staat een groene pijl.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Boven de rechterrijstrook staat een A3 maximumsnelheid.",
+       "zichtbaar": true
+      }
+     ],
+     "bezwaar": ""
+    },
+    "blind": [
+     {
+      "antwoord": 1,
+      "waarom": "De diagonale witte pijl boven deze rijstrook betekent: rijstrook gaat verderop dicht, zo snel mogelijk naar links. Het verbod geldt pas bij een rood kruis, dat is hier nog niet te zien."
+     },
+     {
+      "antwoord": 1,
+      "waarom": "De witte neerwaartse pijl betekent: verlaat deze rijstrook (zo spoedig mogelijk), maar er is nog geen verbod; dat geldt pas bij een rood kruis."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Mag jij bij rood hier rechtsaf slaan?",
+   "situatie": "",
+   "antwoorden": [
+    "Ja",
+    "Nee"
+   ],
+   "juist": 1,
+   "uitleg": "Het onderbord ‘Rechtsaf voor fietsers vrij’ geldt alleen voor fietsers en bestuurders van een gehandicaptenvoertuig. Voor jou als automobilist geldt het rode licht: stoppen.",
+   "artikelen": [
+    "RVV 68"
+   ],
+   "toetst": "werking van ‘Rechtsaf voor fietsers vrij’ bij rood licht",
+   "scene": "Zicht vanuit de bestuurdersstoel van een personenauto op een stedelijk kruispunt. Voor je hangt een regulier driekleurig verkeerslicht dat rood toont. Direct onder het licht hangt een wit onderbord met zwarte tekst: “Rechtsaf voor fietsers vrij”. Je auto staat op de rechterrijstrook met op het wegdek een pijl die alleen naar rechts wijst. Het is overdag, droog weer, normaal verkeer op afstand, geen bijzondere afleiding.",
+   "verschil": "",
+   "scene_eisen": [
+    "Driekleurig verkeerslicht toont rood.",
+    "Onder het verkeerslicht hangt een bord met de tekst ‘Rechtsaf voor fietsers vrij’.",
+    "Je bevindt je in een personenauto.",
+    "De rijstrook heeft een pijl die uitsluitend rechtsaf aangeeft."
+   ],
+   "borden": [],
+   "onderwerp": "verkeerstekens-en-aanwijzingen",
+   "soort": "kennis",
+   "vorm": "ja-nee",
+   "id": "042b0e9bdc",
+   "standpunt": "bestuurder",
+   "beeld": "/examenvragen/042b0e9bdc.webp",
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 1,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": {
+     "goed": true,
+     "gezien": "Uitzicht vanuit een personenauto op een stedelijk kruispunt met een rood driekleurig verkeerslicht en daaronder het bord ‘Rechtsaf voor fietsers vrij’; op de rechterrijstrook staat een pijl die alleen naar rechts wijst.",
+     "feiten": [
+      {
+       "eis": "Driekleurig verkeerslicht toont rood.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Onder het verkeerslicht hangt een bord met de tekst ‘Rechtsaf voor fietsers vrij’.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Je bevindt je in een personenauto.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "De rijstrook heeft een pijl die uitsluitend rechtsaf aangeeft.",
+       "zichtbaar": true
+      }
+     ],
+     "bezwaar": ""
+    },
+    "blind": [
+     {
+      "antwoord": 1,
+      "waarom": "Het licht staat op rood en het onderbord 'Rechtsaf voor fietsers vrij' geldt alleen voor (brom)fietsers, niet voor auto's."
+     },
+     {
+      "antwoord": 1,
+      "waarom": "Het licht is rood en het onderbord 'Rechtsaf voor fietsers vrij' geldt alleen voor fietsers, niet voor een auto."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Je rijdt in de rode auto. Laat je de tegemoetkomende auto voorgaan?",
+   "situatie": "",
+   "antwoorden": [
+    "Ja",
+    "Nee"
+   ],
+   "juist": 0,
+   "uitleg": "Bij linksafslaan laat je verkeer op dezelfde weg voorgaan. Ook een tegemoetkomer die hier rechtsaf gaat. Dit volgt uit RVV 18 lid 1 en 2.",
+   "artikelen": [
+    "RVV 18"
+   ],
+   "toetst": "linksafslaan: tegemoetkomer die rechtsaf slaat voorgaan",
+   "scene": "Blik schuin van boven en schuin van achteren, circa 10 meter hoog, onder 45 graden. Een gelijkwaardig vierarmig kruispunt in een woonstraat, alle wegen verhard asfalt en even breed, geen markeringen behalve stoepbanden, geen haaientanden, geen zebrapaden, geen verkeerslichten, geen borden. Droog weer, daglicht. Onderin beeld rijdt een rode personenauto richting het kruispunt met de linkerrichtingaanwijzer aan, positie iets rechts van het midden van zijn rijstrook, klaar om linksaf te slaan. Bovenin beeld nadert een blauwe personenauto het kruispunt in tegenovergestelde richting met de rechterrichtingaanwijzer aan, duidelijk bezig om op dit kruispunt rechtsaf te slaan. Links en rechts in beeld geen ander verkeer. Geen tram, geen bus.",
+   "verschil": "",
+   "scene_eisen": [
+    "Je slaat linksaf met de rode auto.",
+    "Een tegemoetkomende auto slaat rechtsaf op hetzelfde kruispunt.",
+    "Alle wegen zijn verhard en even breed.",
+    "Er zijn geen verkeerslichten of verkeersborden.",
+    "Er zijn geen haaientanden of stop- of haaiendriehoekmarkeringen.",
+    "Geen tram in beeld.",
+    "Beide voertuigen rijden op dezelfde weg en naderen hetzelfde kruispunt."
+   ],
+   "borden": [],
+   "onderwerp": "voorrang-en-voor-laten-gaan",
+   "soort": "kennis",
+   "vorm": "ja-nee",
+   "id": "5073128565",
+   "standpunt": "vogelvlucht",
+   "beeld": "/examenvragen/5073128565.webp",
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 1,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": {
+     "goed": true,
+     "gezien": "Schuin van boven zie je een gelijkwaardig vierarmig kruispunt in een woonstraat met asfaltwegen; onderin nadert een rode auto met linkerrichtingaanwijzer om linksaf te slaan, bovenin komt een blauwe auto met rechterrichtingaanwijzer om rechtsaf te slaan; geen borden, markeringen, verkeerslichten of ander verkeer.",
+     "feiten": [
+      {
+       "eis": "Je slaat linksaf met de rode auto.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Een tegemoetkomende auto slaat rechtsaf op hetzelfde kruispunt.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Alle wegen zijn verhard en even breed.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Er zijn geen verkeerslichten of verkeersborden.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Er zijn geen haaientanden of stop- of haaiendriehoekmarkeringen.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Geen tram in beeld.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Beide voertuigen rijden op dezelfde weg en naderen hetzelfde kruispunt.",
+       "zichtbaar": true
+      }
+     ],
+     "bezwaar": ""
+    },
+    "blind": [
+     {
+      "antwoord": 0,
+      "waarom": "Je slaat linksaf en op een gelijkwaardige kruising moet een links afslaande bestuurder het tegemoetkomende verkeer dat rechtdoor gaat of rechtsaf slaat voor laten gaan."
+     },
+     {
+      "antwoord": 0,
+      "waarom": "Gelijkwaardige kruising; jij slaat linksaf en moet tegemoetkomend verkeer dat rechtdoor of rechtsaf gaat voor laten gaan."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Moet je hier voetgangers die oversteken voor laten gaan?",
+   "situatie": "",
+   "antwoorden": [
+    "Ja",
+    "Nee"
+   ],
+   "juist": 0,
+   "uitleg": "Bij dit bord is er een voetgangersoversteekplaats. Bestuurders moeten voetgangers die oversteken of duidelijk willen oversteken voor laten gaan.",
+   "artikelen": [
+    "RVV 49"
+   ],
+   "toetst": "voor laten gaan van voetgangers bij een VOP",
+   "scene": "",
+   "verschil": "",
+   "scene_eisen": [],
+   "borden": [
+    "L2"
+   ],
+   "onderwerp": "voorrang-en-voor-laten-gaan",
+   "soort": "kennis",
+   "vorm": "ja-nee",
+   "id": "92ece3e670",
+   "standpunt": "geen",
+   "beeld": "/examenvragen/92ece3e670.webp",
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 1,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": null,
+    "blind": [
+     {
+      "antwoord": 0,
+      "waarom": "Dit bord geeft een voetgangersoversteekplaats aan; daar moet je voetgangers die oversteken (of op het punt staan over te steken) voor laten gaan."
+     },
+     {
+      "antwoord": 0,
+      "waarom": "Dit bord markeert een voetgangersoversteekplaats; daar moet je voetgangers die op de zebra oversteken voorrang geven (RVV art. 49)."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Mag je hier op de rijbaan keren?",
+   "situatie": "",
+   "antwoorden": [
+    "Ja",
+    "Nee"
+   ],
+   "juist": 1,
+   "uitleg": "Op een autosnelweg of autoweg is keren verboden. Dat staat in RVV 43, lid 1. Daarom is Nee juist en Ja onjuist.",
+   "artikelen": [
+    "RVV 43"
+   ],
+   "toetst": "verbod keren op autosnelweg of autoweg",
+   "scene": "Standpunt: vanuit de bestuurdersstoel van een personenauto, onderin een smalle strook dashboard en een stukje motorkap zichtbaar. Weg: autosnelweg met drie rijstroken in dezelfde richting, rechts een vluchtstrook met doorgetrokken streep, in de middenberm een vangrail. Rechts naast de rijbaan staat het blauwe autosnelwegbord G1. Verderop een portaal met A-wegnummer en bestemmingen. Enkele auto’s rijden voor je op de middelste en linker rijstrook. Droog weer, overdag, goed zicht.",
+   "verschil": "",
+   "scene_eisen": [
+    "Blauw autosnelwegbord G1 is duidelijk zichtbaar rechts van de weg.",
+    "De weg heeft drie rijstroken in dezelfde richting.",
+    "Er is rechts een vluchtstrook aanwezig.",
+    "Middenberm met vangrail scheidt de rijrichtingen."
+   ],
+   "borden": [
+    "G1"
+   ],
+   "onderwerp": "bijzondere-wegen-en-manoeuvres",
+   "soort": "kennis",
+   "vorm": "ja-nee",
+   "id": "91dd00e337",
+   "standpunt": "bestuurder",
+   "beeld": "/examenvragen/91dd00e337.webp",
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 1,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": {
+     "goed": true,
+     "gezien": "Uitzicht vanuit de bestuurdersstoel op een autosnelweg met drie rijstroken in dezelfde richting; rechts een vluchtstrook met doorgetrokken streep en het blauwe G1-bord; in de middenberm staat een vangrail; enkele auto’s rijden voor ons; droog en helder overdag.",
+     "feiten": [
+      {
+       "eis": "Blauw autosnelwegbord G1 is duidelijk zichtbaar rechts van de weg.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "De weg heeft drie rijstroken in dezelfde richting.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Er is rechts een vluchtstrook aanwezig.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Middenberm met vangrail scheidt de rijrichtingen.",
+       "zichtbaar": true
+      }
+     ],
+     "bezwaar": ""
+    },
+    "blind": [
+     {
+      "antwoord": 1,
+      "waarom": "Dit is een autosnelweg (bord G1); op autosnelwegen is keren op de rijbaan verboden."
+     },
+     {
+      "antwoord": 1,
+      "waarom": "Dit is een autosnelweg (bord G1/A12); op autosnelwegen is keren op de rijbaan verboden."
+     }
+    ]
+   }
+  },
+  {
+   "vraag": "Hier even stilstaan. Binnen hoeveel meter mag dat niet? (m)",
+   "situatie": "Je wilt kort stoppen om te bellen.",
+   "antwoorden": [
+    "5"
+   ],
+   "juist": 0,
+   "uitleg": "Je mag niet stilstaan op een oversteekplaats of binnen 5 meter daarvan. Dat staat in RVV 23 lid 1c. Daarom houd je hier minimaal 5 meter afstand.",
+   "artikelen": [
+    "RVV 23"
+   ],
+   "toetst": "stilstaan: verbod op of binnen 5 m van een oversteekplaats",
+   "scene": "Blik vanuit de bestuurdersstoel van een personenauto. Stedelijke, rechte weg met één rijstrook per richting, middenstreep onderbroken. Ongeveer 15 meter voor de auto ligt een duidelijk gemarkeerde voetgangersoversteekplaats met witte zebramarkering over de hele weg. Rechts naast de oversteekplaats staat bord L2 op een paal. Geen bushalte, geen gele streep, geen tunnel of spoorwegovergang in beeld. Droog weer, daglicht. Onderaan een strook dashboard en een stukje motorkap zichtbaar.",
+   "verschil": "",
+   "scene_eisen": [
+    "Een duidelijke voetgangersoversteekplaats direct vóór de auto.",
+    "Bord L2 rechts naast de oversteekplaats.",
+    "Geen bushalte of geblokte markering in de buurt.",
+    "Geen gele doorgetrokken streep.",
+    "Geen tunnel of overweg.",
+    "Bestuurdersperspectief met dashboardrand zichtbaar."
+   ],
+   "borden": [
+    "L2"
+   ],
+   "onderwerp": "gebruik-van-de-weg",
+   "soort": "inzicht",
+   "vorm": "invoer",
+   "id": "7929705efa",
+   "standpunt": "bestuurder",
+   "beeld": "/examenvragen/7929705efa.webp",
+   "gemaakt": "2026-09-02",
+   "controle": {
+    "rondes": 3,
+    "wet": {
+     "goed": true,
+     "bezwaar": ""
+    },
+    "beeld": {
+     "goed": true,
+     "gezien": "Bestuurdersperspectief op een rechte stedelijke weg met één rijstrook per richting, onderbroken middenstreep, direct ervoor een zebrapad over de hele weg en rechts daarvan bord L2; droog daglicht, geen bushalte/gele streep/tunnel/overweg zichtbaar, dashboardrand onderin in beeld.",
+     "feiten": [
+      {
+       "eis": "Een duidelijke voetgangersoversteekplaats direct vóór de auto.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Bord L2 rechts naast de oversteekplaats.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Geen bushalte of geblokte markering in de buurt.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Geen gele doorgetrokken streep.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Geen tunnel of overweg.",
+       "zichtbaar": true
+      },
+      {
+       "eis": "Bestuurdersperspectief met dashboardrand zichtbaar.",
+       "zichtbaar": true
+      }
+     ],
+     "bezwaar": ""
+    },
+    "blind": [
+     {
+      "antwoord": 5,
+      "waarom": "Bij een zebrapad mag je niet stilstaan op of binnen 5 meter ervan. Het bord en de markering tonen een voetgangersoversteekplaats."
+     },
+     {
+      "antwoord": 5,
+      "waarom": "Bij een zebrapad (voetgangersoversteekplaats) is stilstaan verboden op het pad en binnen 5 meter ervan (RVV art. 24). Hier zie je duidelijk een zebrapad."
+     }
+    ]
+   }
+  }
+ ]
+}

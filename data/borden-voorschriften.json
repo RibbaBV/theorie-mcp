@@ -1,0 +1,750 @@
+{
+ "A1": {
+  "geldt_voor": [
+   "A1"
+  ],
+  "kop": "30 km/h binnen en buiten de bebouwde kom en 60 km/h buiten de bebouwde kom",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "Bij een rijbaan van meer dan 5 m breed of met twee of meer rijstroken in dezelfde richting, wordt het bord indien mogelijk tevens aan de linkerzijde van die rijbaan geplaatst",
+  "onderborden": "1. Bij voorkeur wordt de reden van een vastgestelde maximumsnelheid bij een gevarenpunt zichtbaar gemaakt door bord A1 te combineren met een bord of onderbord dat de aard van het gevaar of het belang van de maximumsnelheid aangeeft. Categorale maxima\n1. Om een maximumsnelheid aan te geven voor een bepaalde categorie bestuurders wordt die categorie aangegeven op een onderbord, en wel zo mogelijk door het betreffende symbool dat voorkomt in bijlage 1 van het RVV 1990. Indien de maximumsnelheden betrekking hebben op motorvoertuigen die een bepaald maximum toegestane totaalmassa te boven gaan wordt op het onderbord die massa vermeld in het aantal tonnen, aangegeven door cijfers met toevoeging van de letter t"
+ },
+ "A2": {
+  "geldt_voor": [
+   "A2"
+  ],
+  "kop": "",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "Het bord wordt niet toegepast bij de toegang tot een woonerf"
+ },
+ "A3": {
+  "geldt_voor": [
+   "A3"
+  ],
+  "kop": "maximumsnelheid op een elektronisch signaleringsbord",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "Geen andere dan de volgende maximumsnelheden worden vastgesteld op wegvakken op autosnelwegen: 130, 120, 110, 100, 90, 80, 70, 60, 50 km/h",
+  "plaatsing": "1. Dit bord wordt bij plaatsing boven de rijbaan aangebracht boven elke rijstrook. Het bord kan ook rechts van de weg worden geplaatst. In dit geval moet het bord bij een rijbaanbreedte van meer dan 5 m tevens ter linkerzijde worden geplaatst"
+ },
+ "A4": {
+  "geldt_voor": [
+   "A4"
+  ],
+  "kop": "adviessnelheid",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Een adviessnelheid wordt slechts plaatselijk toegepast om aan te geven met welke veilige snelheid een gevarenpunt gepasseerd kan worden, waarvan voor de bestuurder niet goed waarneembaar is dat in aanzienlijke mate snelheid moet worden verminderd.\n2. In recreatiegebieden kan buiten de bebouwde kom een adviessnelheid worden toegepast op verharde wegvakken met gemengd verkeer, mits de wegen waarvan die wegvakken deel uitmaken hun begin- of eindpunt binnen het recreatiegebied hebben en geen lagere snelheid wordt geadviseerd dan 30 km/h.\n3. Zo mogelijk wordt de reden van een vastgestelde adviessnelheid zichtbaar gemaakt door bord A4 te combineren met een bord of onderbord dat de aard van het gevaar of de reden van het advies aangeeft.\n4. Een met bord A4 aan te geven adviessnelheid is tenminste 20 km/h lager dan de snelheidslimiet op het direct daaraan voorafgaande weggedeelte. Voorwaarschuwingsborden\n1. Voor het bord wordt geen voorwaarschuwingsbord geplaatst"
+ },
+ "A5": {
+  "geldt_voor": [
+   "A5"
+  ],
+  "kop": "einde adviessnelheid",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Dit bord wordt niet toegepast: a. indien uit andere verkeerstekens of uit een gedragsregel reeds het einde van de adviessnelheid voortvloeit; b. ter beëindiging van een adviessnelheid bij een gevarenpunt"
+ },
+ "B1": {
+  "geldt_voor": [
+   "B1"
+  ],
+  "kop": "voorrangsweg",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Het bord wordt niet toegepast in erven, op 30 km/h-wegen, in 30 km/h-zones, op 60 km/h-wegen en in 60 km/h-zones",
+  "plaatsing": "1. Binnen de bebouwde kom wordt dit bord geplaatst direct voor zijwegen van de voorrangsweg.\n2. Buiten de bebouwde kom wordt dit bord geplaatst op enige afstand na zijwegen van de voorrangsweg. Op autosnelwegen wordt dit bord na toeritten niet geplaatst. Op autowegen wordt dit bord na vloeiende toeritten niet geplaatst",
+  "onderborden": "1. Het verloop van de voorrangsweg kan op een onderbord worden weergegeven"
+ },
+ "B3": {
+  "geldt_voor": [
+   "B3",
+   "B4",
+   "B5"
+  ],
+  "kop": "voorrangskruispunt",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Het bord wordt slechts toegepast indien op de kruisende weg de voorrang geregeld is door middel van bord B6, B7 en/of door middel van haaientanden",
+  "plaatsing": "1. Het bord mag achterwege blijven, indien het verwarring kan geven ten aanzien van de voorrangsregeling op een volgende, op zeer korte afstand gelegen, kruising of splitsing van wegen. In dit geval worden op de zijweg zowel bord B6 als haaientanden, dan wel bord B7 en een stopstreep toegepast"
+ },
+ "B4": {
+  "geldt_voor": [
+   "B3",
+   "B4",
+   "B5"
+  ],
+  "kop": "voorrangskruispunt",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Het bord wordt slechts toegepast indien op de kruisende weg de voorrang geregeld is door middel van bord B6, B7 en/of door middel van haaientanden",
+  "plaatsing": "1. Het bord mag achterwege blijven, indien het verwarring kan geven ten aanzien van de voorrangsregeling op een volgende, op zeer korte afstand gelegen, kruising of splitsing van wegen. In dit geval worden op de zijweg zowel bord B6 als haaientanden, dan wel bord B7 en een stopstreep toegepast"
+ },
+ "B5": {
+  "geldt_voor": [
+   "B3",
+   "B4",
+   "B5"
+  ],
+  "kop": "voorrangskruispunt",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Het bord wordt slechts toegepast indien op de kruisende weg de voorrang geregeld is door middel van bord B6, B7 en/of door middel van haaientanden",
+  "plaatsing": "1. Het bord mag achterwege blijven, indien het verwarring kan geven ten aanzien van de voorrangsregeling op een volgende, op zeer korte afstand gelegen, kruising of splitsing van wegen. In dit geval worden op de zijweg zowel bord B6 als haaientanden, dan wel bord B7 en een stopstreep toegepast"
+ },
+ "B6": {
+  "geldt_voor": [
+   "B6"
+  ],
+  "kop": "verleen voorrang aan bestuurders op de kruisende weg",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Het bord wordt niet toegepast binnen erven. 2 30 km/h- en 30 km/h-zones Het bord wordt binnen 30 km/h- en 30 km/h-zones slechts toegepast bij rotondes en bij kruispunten met: - een vrijliggende busbaan; - een vrijliggend fietspad; - een vrijliggend fiets/bromfietspad; - een hoofdfietsroute, die duidelijk als zodanig herkenbaar is en waarop slechts een ondergeschikte hoeveelheid gemotoriseerd verkeer voorkomt",
+  "plaatsing": "1. Bij een rijbaanbreedte van meer dan 5 m, wordt het bord buiten de bebouwde kom tevens aan de linkerzijde van de rijbaan geplaatst.\n2. Bij twee of meer rijstroken in dezelfde richting binnen de bebouwde kom wordt het bord tevens aan de linkerzijde van de rijbaan geplaatst.\n3. Dit bord wordt buiten de bebouwde kom tevens geplaatst op een middengeleider.\n4. Indien een fietspad, of fiets/bromfietspad deel uitmaakt van de kruisende weg wordt het bord geplaatst in combinatie met een duidelijke markering van dat pad. Voorwaarschuwingsborden\n1. Op wegen buiten de bebouwde kom wordt een voorwaarschuwing geplaatst, zonodig aangevuld met een voorwaarschuwingsdriehoek op het wegdek",
+  "onderborden": "1. Indien het bord betrekking heeft op een in twee richtingen bereden fietspad dan wel een in twee richtingen bereden fiets/bromfietspad, wordt een onderbord met een fietssymbool en eventueel een bromfietssymbool en twee naar elkaar gerichte horizontale pijlen toegepast"
+ },
+ "B7": {
+  "geldt_voor": [
+   "B7"
+  ],
+  "kop": "stop; verleen voorrang aan bestuurders op de kruisende weg",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Dit bord wordt slechts toegepast op kruispunten en splitsingen van wegen, waar de meeste bestuurders voor het oprijden uit eigen beweging stoppen",
+  "plaatsing": "1. Bij een rijbaanbreedte van meer dan 5 m, wordt het bord buiten de bebouwde kom tevens aan de linkerzijde van de rijbaan geplaatst.\n2. Bij twee of meer rijstroken in dezelfde richting binnen de bebouwde kom wordt het bord tevens aan de linkerzijde van de rijbaan geplaatst.\n3. Dit bord wordt buiten de bebouwde kom tevens geplaatst op een middengeleider. Vooraanduiding\n1. Op wegen buiten de bebouwde kom wordt een vooraanduiding geplaatst. Hiervoor wordt uitsluitend bord B6 gebruikt, met een onderbord waarop een afstandaanduiding en zonodig het woord “stop” wordt vermeld. De vooraanduiding kan ondersteund worden door een voorwaarschuwingsdriehoek op het wegdek"
+ },
+ "C1": {
+  "geldt_voor": [
+   "C1"
+  ],
+  "kop": "gesloten in beide richtingen voor voertuigen, ruiters en geleiders van rij-\n of trekdieren of vee",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Het bord wordt niet toegepast bij T-kruispunten, waar toepassing van bord C4, dan wel D4 of D5 mogelijk is"
+ },
+ "C2": {
+  "geldt_voor": [
+   "G12a",
+   "C2"
+  ],
+  "kop": "",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. De borden G7 tot en met G14 mogen aan de linker- of rechterzijde van de weg worden geplaatst",
+  "uitvoering": "1. Deze borden mogen op zelfstandige paden in parken, duinen en boswegen worden uitgevoerd met geringere afmetingen dan type 0"
+ },
+ "C4": {
+  "geldt_voor": [
+   "C4"
+  ],
+  "kop": "eenrichtingweg",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. Dit bord wordt geplaatst tegenover de zijweg van een T-kruispunt, wanneer er sprake is van eenrichtingverkeer op de doorgaande weg",
+  "toepassing": "1. Dit bord wordt niet toegepast bij een rotonde"
+ },
+ "C5": {
+  "geldt_voor": [
+   "C5"
+  ],
+  "kop": "inrijden toegestaan",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. Om verwarring met naastliggende rijbanen te voorkomen mag het bord aan de linkerzijde van de weg worden geplaatst"
+ },
+ "C19": {
+  "geldt_voor": [
+   "C19"
+  ],
+  "kop": "gesloten voor voertuigen die, met inbegrip van de lading, hoger zijn dan\n op het bord is aangegeven",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Het getal op het bord is niet groter dan 3,9 m.\n2. Het getal op het bord heeft één decimaal en is altijd 0,10 m tot 0,20 m lager dan de gemeten doorrijhoogte",
+  "plaatsing": "1. Dit bord wordt in beginsel boven de rijbaan aangebracht"
+ },
+ "C22": {
+  "geldt_voor": [
+   "C22"
+  ],
+  "kop": "gesloten voor voertuigen met bepaalde gevaarlijke stoffen",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing_en_plaatsing": "1. Het bord wordt geplaatst bij of voor de ingang van tunnels, genoemd in de Regeling vervoer over land van gevaarlijke stoffen , dan wel op wegen die zijn aangewezen op grond van artikel 20, eerste lid, van de Wet vervoer gevaarlijke stoffen .\n2. Het bord wordt bij toepassing voor de onder 1. bedoelde tunnels voorzien van een onderbord, overeenkomstig bijlage 2, hoofdstuk 2, artikel 3, van de Regeling vervoer over land van gevaarlijke stoffen , en bij toepassing op de onder 1. bedoelde aangewezen wegen voorzien van een onderbord waarin dezelfde systematiek als voor tunnels wordt gebruikt dan wel een andere aanduiding van stoffen overeenkomstig internationale regelgeving. Vooraanduiding\n1. Op autosnelwegen en autowegen wordt een vooraanduiding in de vorm van bord L10 geplaatst"
+ },
+ "D1": {
+  "geldt_voor": [
+   "D1"
+  ],
+  "kop": "",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing_en_plaatsing": "1. Dit bord wordt geplaatst op het middeneiland tegenover de toeleidende wegen. Het bord kan tevens worden geplaatst op de toeleidende wegen.\n2. Dit bord wordt slechts toegepast in combinatie met plaatsing van bord B6 en haaientanden bij de aansluiting van toeleidende wegen op de hoofdrijbaan van de rotonde. De vormgeving van de toeleidende wegen is zonodig aangepast aan de voorrangsregeling. Bovenstaande gebeurt op zodanige wijze dat de bestuurders op de toeleidende weg voorrang moeten verlenen aan de bestuurders op de hoofdrijbaan van de rotonde. Vooraanduidingsborden\n1. Dit bord wordt niet als voorwaarschuwingsbord gebruikt. Als vooraanduiding kan uitsluitend bord J9 worden gebruikt"
+ },
+ "D2": {
+  "geldt_voor": [
+   "D2",
+   "D3"
+  ],
+  "kop": "gebod voor alle bestuurders het bord voorbij te gaan aan de zijde die de\n pijl aangeeft bord mag aan beide zijden voorbij worden gegaan",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Op andere plaatsen dan aan het begin van een middengeleider worden deze borden niet toegepast.\n2. Dit bord wordt niet toegepast op het middeneiland bij een rotonde",
+  "plaatsing": "1. Binnen de bebouwde kom wordt dit bord voorzien van een reflecterend gele koker, verticaal onder het bord geplaatst. Indien deze borden bevestigd zijn aan masten van verkeerslichten of verlichting kan de gele koker achterwege blijven"
+ },
+ "D3": {
+  "geldt_voor": [
+   "D2",
+   "D3"
+  ],
+  "kop": "gebod voor alle bestuurders het bord voorbij te gaan aan de zijde die de\n pijl aangeeft bord mag aan beide zijden voorbij worden gegaan",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Op andere plaatsen dan aan het begin van een middengeleider worden deze borden niet toegepast.\n2. Dit bord wordt niet toegepast op het middeneiland bij een rotonde",
+  "plaatsing": "1. Binnen de bebouwde kom wordt dit bord voorzien van een reflecterend gele koker, verticaal onder het bord geplaatst. Indien deze borden bevestigd zijn aan masten van verkeerslichten of verlichting kan de gele koker achterwege blijven"
+ },
+ "E1": {
+  "geldt_voor": [
+   "E1",
+   "E2"
+  ],
+  "kop": "parkeerverbod verbod stil te staan",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. Het einde en het begin van een parkeer- of stopverbod wordt zonodig aangegeven door middel van een onderbord met een pijl in de richting van het wegvak waarvoor het verbod geldt. Dit onderbord wordt evenwijdig aan de wegas aangebracht. Wanneer het einde of het begin van een verbod met een zijweg samenvalt kan het onderbord achterwege blijven. Het einde van deze verboden wordt niet aangegeven indien dit reeds volgt uit een ander verkeersteken of uit een gedragsregel dan wel uit de inrichting van de weg.\n2. Op rijbanen met verkeer in twee richtingen worden deze borden zodanig geplaatst dat de verboden voor verkeer in beide richtingen waarneembaar zijn. Hiertoe mogen de borden, mits voorzien van een onderbord waaruit begin of eind van het parkeerverbod blijkt, evenwijdig aan de wegas worden geplaatst"
+ },
+ "E2": {
+  "geldt_voor": [
+   "E1",
+   "E2"
+  ],
+  "kop": "parkeerverbod verbod stil te staan",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. Het einde en het begin van een parkeer- of stopverbod wordt zonodig aangegeven door middel van een onderbord met een pijl in de richting van het wegvak waarvoor het verbod geldt. Dit onderbord wordt evenwijdig aan de wegas aangebracht. Wanneer het einde of het begin van een verbod met een zijweg samenvalt kan het onderbord achterwege blijven. Het einde van deze verboden wordt niet aangegeven indien dit reeds volgt uit een ander verkeersteken of uit een gedragsregel dan wel uit de inrichting van de weg.\n2. Op rijbanen met verkeer in twee richtingen worden deze borden zodanig geplaatst dat de verboden voor verkeer in beide richtingen waarneembaar zijn. Hiertoe mogen de borden, mits voorzien van een onderbord waaruit begin of eind van het parkeerverbod blijkt, evenwijdig aan de wegas worden geplaatst"
+ },
+ "E5": {
+  "geldt_voor": [
+   "E5"
+  ],
+  "kop": "taxistandplaats; tevens parkeerverbod voor andere voertuigen",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. Dit bord mag evenwijdig aan de weg worden geplaatst"
+ },
+ "E6": {
+  "geldt_voor": [
+   "E6"
+  ],
+  "kop": "gehandicaptenparkeerplaats",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. Dit bord mag evenwijdig aan de weg worden geplaatst",
+  "onderborden": "1. Indien de parkeerplaats is gereserveerd voor een motorvoertuig, wordt een onderbord met het kenteken van dat motorvoertuig aangebracht.\n2. Indien de parkeerplaats is gereserveerd voor een gehandicaptenvoertuig, wordt een onderbord ’gehandicaptenvoertuig’ aangebracht"
+ },
+ "E7": {
+  "geldt_voor": [
+   "E7"
+  ],
+  "kop": "gelegenheid bestemd voor het onmiddellijk laden en lossen van goederen; tevens\n parkeerverbod voor andere voertuigen",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. Het bord mag evenwijdig aan de weg worden geplaatst"
+ },
+ "E8": {
+  "geldt_voor": [
+   "E8"
+  ],
+  "kop": "parkeergelegenheid alleen bestemd voor de voertuigcategorie die op het bord\n is aangegeven; tevens parkeerverbod voor andere voertuigcategorieën",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "uitvoering": "1. Afbeeldingen ter aanduiding van de voertuigcategorieën komen overeen met de afbeeldingen in zijaanzicht op de borden van bijlage 1 van het RVV 1990",
+  "plaatsing": "1. Het bord mag evenwijdig aan de weg worden geplaatst"
+ },
+ "E9": {
+  "geldt_voor": [
+   "E9"
+  ],
+  "kop": "parkeergelegenheid alleen bestemd voor vergunninghouders",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. Dit bord mag evenwijdig aan de weg worden geplaatst"
+ },
+ "E10": {
+  "geldt_voor": [
+   "E10"
+  ],
+  "kop": "Parkeerschijf-zone",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. Dit bord mag evenwijdig aan de weg worden geplaatst.\n2. In een zone, aangeduid met bord E10, worden parkeerplaatsen waar het gebruik van de parkeerschijf niet verplicht is, aangeduid of aangegeven met een P-tegel of een P-bord"
+ },
+ "E12": {
+  "geldt_voor": [
+   "E12"
+  ],
+  "kop": "Parkeergelegenheid voor openbaar-vervoer-reizigers bij een Parkeer en Reis\n halte",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. De afzonderlijke parkeergelegenheid, bestemd voor openbaar vervoer reizigers, moet voldoen aan de volgende eisen: - voldoende (minimaal 40) parkeerplaatsen bevatten; - voorzien zijn van verharding, van een parkeervakindeling en van openbare verlichting.\n2. Een parkeerplaats op deze parkeergelegenheid mag niet verder dan op ongeveer 250 meter loopafstand zijn gelegen van de Parkeer en Reis halte.\n3. Dit bord mag uitsluitend worden toegepast indien het betrokken openbaar vervoer op werkdagen gedurende de spitsuren in ieder geval een frequentie heeft van zes maal per uur voor zoveel het lokaal vervoer betreft en van twee maal per uur voor zoveel het interlokaal vervoer betreft",
+  "plaatsing": "1. Dit bord wordt geplaatst bij de parkeergelegenheid van een Parkeer en Reis halte.\n2. Het bord kan tevens als verwijzing worden toegepast. In dat geval kan het symbool van het bord worden opgenomen in de bewegwijzering, of wordt het bord voorzien van een pijlaanduiding"
+ },
+ "E13": {
+  "geldt_voor": [
+   "E13"
+  ],
+  "kop": "Parkeergelegenheid ten behoeve van carpoolers",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. De parkeergelegenheid ten behoeve van carpoolers moet voorzien zijn van een verharding, een parkeervakindeling en openbare verlichting",
+  "plaatsing": "1. Dit bord wordt geplaatst bij de parkeergelegenheid ten behoeve van carpoolers.\n2. Het bord kan tevens als verwijzing worden toegepast. In dat geval wordt de verwijzing door middel van een pijlaanduiding op het bord aangegeven"
+ },
+ "F1": {
+  "geldt_voor": [
+   "F1"
+  ],
+  "kop": "verbod voor motorvoertuigen om elkaar onderling in te halen",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. De plaatsing van dit bord geschiedt op enige afstand voor het punt of weggedeelte waar het inhalen gevaarlijk of hinderlijk is.\n2. Bij een rijbaanbreedte van meer dan 5 m, wordt het bord tevens aan de linkerzijde van de rijbaan geplaatst"
+ },
+ "F2": {
+  "geldt_voor": [
+   "F2"
+  ],
+  "kop": "einde verbod voor motorvoertuigen om elkaar onderling in te halen",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. De plaatsing van dit bord geschiedt op enige afstand voorbij het punt of weggedeelte waar het inhalen gevaarlijk of hinderlijk is.\n2. Dit bord wordt niet geplaatst indien de beëindiging van het inhaalverbod samenvalt met een geplaatst bord B6 of B7"
+ },
+ "F3": {
+  "geldt_voor": [
+   "F3"
+  ],
+  "kop": "verbod voor vrachtauto’s om motorvoertuigen in te halen",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. De plaatsing van dit bord geschiedt op enige afstand voor het punt of een weggedeelte waar het inhalen gevaarlijk of hinderlijk is.\n2. Bij een rijbaanbreedte van meer dan 5 m, wordt het bord tevens aan de linkerzijde van de rijbaan geplaatst"
+ },
+ "F4": {
+  "geldt_voor": [
+   "F4"
+  ],
+  "kop": "einde verbod voor vrachtauto’s om motorvoertuigen in te halen",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. De plaatsing van dit bord geschiedt op enige afstand voorbij het punt of weggedeelte waar het inhalen gevaarlijk of hinderlijk is.\n2. Dit bord wordt niet geplaatst indien de beëindiging van het inhaalverbod samenvalt met een geplaatst bord B6 of B7"
+ },
+ "F7": {
+  "geldt_voor": [
+   "F7"
+  ],
+  "kop": "keerverbod",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. Dit bord wordt aan de linkerzijde van de rijbaan geplaatst"
+ },
+ "F10": {
+  "geldt_voor": [
+   "F10"
+  ],
+  "kop": "stop. In het bord kan worden aangegeven door wie of waarom het bord wordt\n toegepast",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "uitvoering": "1. In het bord wordt zo mogelijk aangegeven door wie of waarom het bord wordt toegepast. Voorwaarschuwing\n1. Buiten de bebouwde kom wordt een voorwaarschuwing geplaatst"
+ },
+ "F11": {
+  "geldt_voor": [
+   "F11"
+  ],
+  "kop": "verplicht gebruik passeerstrook of passeerbaan",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "Het bord wordt uitsluitend toegepast aan het begin van een passeerstrook of passeerbaan",
+  "plaatsing": "Het bord wordt aan de rechterkant, haaks op de as van de passeerstrook of passeerbaan, aan het begin van deze strook of baan geplaatst",
+  "uitvoering": "Het bord wordt uitgevoerd in minimaal type I"
+ },
+ "F12": {
+  "geldt_voor": [
+   "F12"
+  ],
+  "kop": "einde verplicht gebruik passeerstrook of passeerbaan",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "Het bord wordt uitsluitend toegepast aan het einde van de passeerstrook of passeerbaan"
+ },
+ "F13": {
+  "geldt_voor": [
+   "F13",
+   "F15",
+   "F17"
+  ],
+  "kop": "rijbaan of -strook uitsluitend ten behoeve van lijnbussen,\n respectievelijk trams of lijnbussen en trams",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "De borden worden uitsluitend toegepast aan het begin van een – niet verplicht te gebruiken – lijnbusbaan of trambaan, of lijnbus- en trambaan of -strook",
+  "plaatsing": "De borden worden aan de rechterkant, haaks op de as van de busbaan, of de trambaan, of de bus- en trambaan, aan het begin van deze baan geplaatst",
+  "uitvoering": "Deze borden worden uitgevoerd in minimaal type I"
+ },
+ "F15": {
+  "geldt_voor": [
+   "F13",
+   "F15",
+   "F17"
+  ],
+  "kop": "rijbaan of -strook uitsluitend ten behoeve van lijnbussen,\n respectievelijk trams of lijnbussen en trams",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "De borden worden uitsluitend toegepast aan het begin van een – niet verplicht te gebruiken – lijnbusbaan of trambaan, of lijnbus- en trambaan of -strook",
+  "plaatsing": "De borden worden aan de rechterkant, haaks op de as van de busbaan, of de trambaan, of de bus- en trambaan, aan het begin van deze baan geplaatst",
+  "uitvoering": "Deze borden worden uitgevoerd in minimaal type I"
+ },
+ "F17": {
+  "geldt_voor": [
+   "F13",
+   "F15",
+   "F17"
+  ],
+  "kop": "rijbaan of -strook uitsluitend ten behoeve van lijnbussen,\n respectievelijk trams of lijnbussen en trams",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "De borden worden uitsluitend toegepast aan het begin van een – niet verplicht te gebruiken – lijnbusbaan of trambaan, of lijnbus- en trambaan of -strook",
+  "plaatsing": "De borden worden aan de rechterkant, haaks op de as van de busbaan, of de trambaan, of de bus- en trambaan, aan het begin van deze baan geplaatst",
+  "uitvoering": "Deze borden worden uitgevoerd in minimaal type I"
+ },
+ "F14": {
+  "geldt_voor": [
+   "F14",
+   "F16",
+   "F18"
+  ],
+  "kop": "einde rijbaan of -strook uitsluitend ten behoeve van lijnbussen,\n respectievelijk trams of lijnbussen en trams",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "De borden worden uitsluitend toegepast in die situaties waarin het niet duidelijk is, dat de lijnbusbaan of trambaan of lijnbus- en trambaan of -strook overgaat in een baan of strook waarvoor een ander regiem geldt"
+ },
+ "F16": {
+  "geldt_voor": [
+   "F14",
+   "F16",
+   "F18"
+  ],
+  "kop": "einde rijbaan of -strook uitsluitend ten behoeve van lijnbussen,\n respectievelijk trams of lijnbussen en trams",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "De borden worden uitsluitend toegepast in die situaties waarin het niet duidelijk is, dat de lijnbusbaan of trambaan of lijnbus- en trambaan of -strook overgaat in een baan of strook waarvoor een ander regiem geldt"
+ },
+ "F18": {
+  "geldt_voor": [
+   "F14",
+   "F16",
+   "F18"
+  ],
+  "kop": "einde rijbaan of -strook uitsluitend ten behoeve van lijnbussen,\n respectievelijk trams of lijnbussen en trams",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "De borden worden uitsluitend toegepast in die situaties waarin het niet duidelijk is, dat de lijnbusbaan of trambaan of lijnbus- en trambaan of -strook overgaat in een baan of strook waarvoor een ander regiem geldt"
+ },
+ "F19": {
+  "geldt_voor": [
+   "F19",
+   "F21"
+  ],
+  "kop": "rijbaan of -strook uitsluitend ten behoeve van vrachtauto’s en\n lijnbussen, respectievelijk vrachtauto’s",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "De borden worden uitsluitend toegepast aan het begin van een – niet verplicht te gebruiken – rijbaan of -strook voor vrachtauto’s en lijnbussen, of voor vrachtauto’s",
+  "plaatsing": "Deze borden worden aan de rechterkant, haaks op de as van de rijbaan voor vrachtauto’s en lijnbussen of voor vrachtauto’s, aan het begin van deze rijbaan geplaatst. Ten behoeve van doelgroepstroken mogen deze borden boven de rijbaan of -strook worden geplaatst conform bord L12",
+  "uitvoering": "Deze borden worden uitgevoerd in minimaal type I"
+ },
+ "F21": {
+  "geldt_voor": [
+   "F19",
+   "F21"
+  ],
+  "kop": "rijbaan of -strook uitsluitend ten behoeve van vrachtauto’s en\n lijnbussen, respectievelijk vrachtauto’s",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "De borden worden uitsluitend toegepast aan het begin van een – niet verplicht te gebruiken – rijbaan of -strook voor vrachtauto’s en lijnbussen, of voor vrachtauto’s",
+  "plaatsing": "Deze borden worden aan de rechterkant, haaks op de as van de rijbaan voor vrachtauto’s en lijnbussen of voor vrachtauto’s, aan het begin van deze rijbaan geplaatst. Ten behoeve van doelgroepstroken mogen deze borden boven de rijbaan of -strook worden geplaatst conform bord L12",
+  "uitvoering": "Deze borden worden uitgevoerd in minimaal type I"
+ },
+ "F20": {
+  "geldt_voor": [
+   "F20",
+   "F22"
+  ],
+  "kop": "einde rijbaan of -strook voor vrachtauto’s en lijnbussen, respectievelijk\n vrachtauto’s",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "De borden worden uitsluitend toegepast in die situaties waarin het niet duidelijk is, dat de rijbaan of -strook voor vrachtauto’s en lijnbussen of die voor vrachtauto’s overgaat in een baan of strook welke openstaat voor andere bestuurders"
+ },
+ "F22": {
+  "geldt_voor": [
+   "F20",
+   "F22"
+  ],
+  "kop": "einde rijbaan of -strook voor vrachtauto’s en lijnbussen, respectievelijk\n vrachtauto’s",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "De borden worden uitsluitend toegepast in die situaties waarin het niet duidelijk is, dat de rijbaan of -strook voor vrachtauto’s en lijnbussen of die voor vrachtauto’s overgaat in een baan of strook welke openstaat voor andere bestuurders"
+ },
+ "G1": {
+  "geldt_voor": [
+   "G1"
+  ],
+  "kop": "autosnelweg",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. De weg waarop dit bord wordt geplaatst voldoet aan de volgende eisen: - de lengte van het als autosnelweg aangeduide weggedeelte bedraagt minimaal 2,5 km, - de weg is gelegen buiten de bebouwde kom en de doorgaande rijbaan is aangewezen als voorrangsweg, - de weg heeft ongelijkvloerse kruisingen, gescheiden rijbanen en vloeiend verlopende toe- en afritten"
+ },
+ "G3": {
+  "geldt_voor": [
+   "G3"
+  ],
+  "kop": "autoweg",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. De weg, waarop dit bord wordt geplaatst, voldoet aan de volgende eisen: - de lengte van het als autoweg aangeduide weggedeelte bedraagt minimaal 2,5 km, - de doorgaande rijbaan is aangewezen als voorrangsweg, - de weg heeft geen uitritten, - overpaden zijn slechts bij hoge uitzondering toegelaten en het gebruik is beperkt tot agrarisch verkeer, - de breedte van de wegverharding bedraagt ten minste 7,00 m, - bij kruispunten zijn opstelvakken voor linksafslaand verkeer aanwezig"
+ },
+ "G5": {
+  "geldt_voor": [
+   "G5"
+  ],
+  "kop": "erf",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Het erf moet voornamelijk een verblijfsfunctie hebben. Dit houdt in, voor zover het gemotoriseerd verkeer betreft, dat de wegen binnen een erf slechts een functie mogen hebben voor verkeer dat zijn bestemming of zijn vertrekpunt binnen het erf heeft en de intensiteit van het verkeer het karakter van het erf niet mag aantasten.\n2. De aard en de gesteldheid van de wegen en weggedeelten in het erf moeten zodanig zijn en op of aan die wegen en weggedeelten moeten snelheidsbeperkende voorzieningen zijn aangebracht waardoor stapvoets rijden redelijkerwijze uit die omstandigheden voortvloeit.\n3. De indruk moet worden vermeden dat de weg is verdeeld in een rijbaan en een trottoir. Er mag daarom geen doorlopend hoogteverschil bestaan in het dwarsprofiel van een weg binnen een erf. Voor zover aan het vorenstaande wordt voldaan mag een voorziening voor voetgangers worden gerealiseerd.\n4. De in- en uitgangen van een erf moeten reeds door hun constructie als zodanig duidelijk kenbaar zijn. Voor zover de in- en uitgangen bij een kruisende weg door motorvoertuigen kunnen worden gebruikt moeten zij als in- of uitrit zijn uitgevoerd. Het is toegestaan dat de in- en uitgang van een erf vóór een kruisende weg is gesitueerd, mits op een zodanige afstand, met een minimum van 20 meter, van de kruisende weg dat geen misverstand kan bestaan over de op het kruispunt geldende voorrangsregeling.\n5. De parkeerplaatsen moeten worden aangeduid of aangegeven met een P-tegel of een P-bord. Indien het erf tevens is aangewezen als parkeerschijf-zone moet op de parkeerplaatsen waar de parkeerschijf verplicht is een blauwe streep worden aangebracht"
+ },
+ "G6": {
+  "geldt_voor": [
+   "G6"
+  ],
+  "kop": "",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. Dit bord mag aan de linker- of rechterzijde van de weg worden geplaatst"
+ },
+ "G12a": {
+  "geldt_voor": [
+   "G12a",
+   "C2"
+  ],
+  "kop": "",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. De borden G7 tot en met G14 mogen aan de linker- of rechterzijde van de weg worden geplaatst",
+  "uitvoering": "1. Deze borden mogen op zelfstandige paden in parken, duinen en boswegen worden uitgevoerd met geringere afmetingen dan type 0"
+ },
+ "H1": {
+  "geldt_voor": [
+   "H1",
+   "H2"
+  ],
+  "kop": "bebouwde kom resp. einde bebouwde kom",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. De grens van de bebouwde kom, aangegeven door bord H1 en H2, wordt gekenmerkt door het begin van een langs de weg gelegen aaneengesloten bebouwing van zodanige omvang en dichtheid, dat een voor de weggebruiker duidelijk herkenbaar verschil in het karakter van de wegomgeving aanwezig is met een buiten de bebouwde kom gelegen weg. Ter plaatse van de komgrens moet een zodanige wijziging van wegkenmerken voorkomen dat het verschil in karakter van de weg voor en na bord H1 of H2 aldaar zoveel mogelijk benadrukt wordt"
+ },
+ "H2": {
+  "geldt_voor": [
+   "H2"
+  ],
+  "kop": "",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Dit bord wordt uitsluitend toegepast als vooraanduiding op geruime afstand van een rotonde"
+ },
+ "J15": {
+  "geldt_voor": [
+   "J15"
+  ],
+  "kop": "beweegbare brug",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. Buiten de bebouwde kom wordt dit bord bij aanwezigheid van een voorwaarschuwingssein daaronder geplaatst",
+  "onderborden": "1. Indien automatische afsluitbomen aanwezig zijn wordt een onderbord ’slagbomen dalen automatisch’ geplaatst"
+ },
+ "J16": {
+  "geldt_voor": [
+   "J16"
+  ],
+  "kop": "werk in uitvoering",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Dit bord wordt uitsluitend tijdelijk toegepast"
+ },
+ "J17": {
+  "geldt_voor": [
+   "J17",
+   "J18",
+   "J19"
+  ],
+  "kop": "rijbaanversmalling",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Deze borden worden niet gebruikt om het einde van een rijstrook aan te geven"
+ },
+ "J18": {
+  "geldt_voor": [
+   "J17",
+   "J18",
+   "J19"
+  ],
+  "kop": "rijbaanversmalling",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Deze borden worden niet gebruikt om het einde van een rijstrook aan te geven"
+ },
+ "J19": {
+  "geldt_voor": [
+   "J17",
+   "J18",
+   "J19"
+  ],
+  "kop": "rijbaanversmalling",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Deze borden worden niet gebruikt om het einde van een rijstrook aan te geven"
+ },
+ "J21": {
+  "geldt_voor": [
+   "J21",
+   "J23",
+   "J24"
+  ],
+  "kop": "kinderen voetgangers fietsers en bromfietsers",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Deze borden worden in het algemeen niet toegepast indien de plaats waar wordt overgestoken, ligt bij een kruising of splitsing van wegen",
+  "onderborden": "1. Indien bord J24 waarschuwt voor fietsverkeer in twee richtingen, wordt dit bord voorzien van een onderbord met twee horizontale, naar elkaar gerichte pijlen"
+ },
+ "J23": {
+  "geldt_voor": [
+   "J21",
+   "J23",
+   "J24"
+  ],
+  "kop": "kinderen voetgangers fietsers en bromfietsers",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Deze borden worden in het algemeen niet toegepast indien de plaats waar wordt overgestoken, ligt bij een kruising of splitsing van wegen",
+  "onderborden": "1. Indien bord J24 waarschuwt voor fietsverkeer in twee richtingen, wordt dit bord voorzien van een onderbord met twee horizontale, naar elkaar gerichte pijlen"
+ },
+ "J24": {
+  "geldt_voor": [
+   "J21",
+   "J23",
+   "J24"
+  ],
+  "kop": "kinderen voetgangers fietsers en bromfietsers",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Deze borden worden in het algemeen niet toegepast indien de plaats waar wordt overgestoken, ligt bij een kruising of splitsing van wegen",
+  "onderborden": "1. Indien bord J24 waarschuwt voor fietsverkeer in twee richtingen, wordt dit bord voorzien van een onderbord met twee horizontale, naar elkaar gerichte pijlen"
+ },
+ "J25": {
+  "geldt_voor": [
+   "J25"
+  ],
+  "kop": "losliggende stenen",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Dit bord wordt uitsluitend tijdelijk gebruikt"
+ },
+ "J29": {
+  "geldt_voor": [
+   "J29"
+  ],
+  "kop": "tegenliggers",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. Het bord wordt geplaatst nabij het punt waar twee gescheiden rijbanen overgaan in een rijbaan voor verkeer in twee richtingen.\n2. Het bord wordt geplaatst aan het begin van een wegvak waar de bestuurder geen tegenliggers verwacht"
+ },
+ "J32": {
+  "geldt_voor": [
+   "J32"
+  ],
+  "kop": "verkeerslichten",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Dit bord wordt toegepast in situaties, waar verkeerslichten door bestuurders niet worden verwacht",
+  "uitvoering": "1. Op autosnelwegen wordt dit bord uitgevoerd met twee gele knipperlichten.\n2. Op autowegen buiten de bebouwde kom wordt dit bord uitgevoerd met een geel knipperlicht.\n3. Bij uitvoering van het bord in verschijnuitvoering zijn gele knipperlichten niet vereist, behalve op de autoweg en de autosnelweg",
+  "onderborden": "1. Buiten de bebouwde kom wordt de afstand tot de verkeerslichten op een onderbord vermeld. Verlichting\n1. Op autowegen en autosnelwegen is het bord bij duisternis verlicht door een eigen verlichting"
+ },
+ "J33": {
+  "geldt_voor": [
+   "J33"
+  ],
+  "kop": "file",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "uitvoering": "1. Dit bord wordt als regel uitgevoerd in verschijnuitvoering",
+  "onderborden": "1. Indien het bord niet is uitgevoerd in verschijnuitvoering, dan wordt op een onderbord aangegeven onder welke omstandigheden filevorming optreedt"
+ },
+ "J34": {
+  "geldt_voor": [
+   "J34",
+   "J35",
+   "J36"
+  ],
+  "kop": "ongeval slecht zicht door sneeuw, regen of mist; J36 (ijzel of\n sneeuw",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Deze borden worden uitsluitend tijdelijk toegepast"
+ },
+ "J35": {
+  "geldt_voor": [
+   "J34",
+   "J35",
+   "J36"
+  ],
+  "kop": "ongeval slecht zicht door sneeuw, regen of mist; J36 (ijzel of\n sneeuw",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Deze borden worden uitsluitend tijdelijk toegepast"
+ },
+ "J36": {
+  "geldt_voor": [
+   "J34",
+   "J35",
+   "J36"
+  ],
+  "kop": "ongeval slecht zicht door sneeuw, regen of mist; J36 (ijzel of\n sneeuw",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Deze borden worden uitsluitend tijdelijk toegepast"
+ },
+ "J37": {
+  "geldt_voor": [
+   "J37"
+  ],
+  "kop": "gevaar",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Dit bord wordt alleen toegepast, indien het gevaar niet door een ander bord van bijlage 1 van het RVV 1990 kan worden aangeduid",
+  "onderborden": "1. In alle gevallen wordt de aard van het gevaar op een onderbord aangegeven"
+ },
+ "K14": {
+  "geldt_voor": [
+   "K14"
+  ],
+  "kop": "",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Dit bord wordt toegepast om routes aan te duiden waarop krachtens gemeentelijke verordening het vervoer van gevaarlijke stoffen is toegestaan"
+ },
+ "L1": {
+  "geldt_voor": [
+   "L1"
+  ],
+  "kop": "hoogte onderdoorgang",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Het getal op het bord is niet kleiner dan 4,0 m en niet groter dan 4,4 m.\n2. Het getal op het bord heeft één decimaal en is altijd 0,10 m tot 0,20 m lager dan de gemeten doorrijhoogte",
+  "plaatsing": "1. Dit bord wordt in beginsel boven de rijbaan aangebracht"
+ },
+ "L2": {
+  "geldt_voor": [
+   "L2"
+  ],
+  "kop": "voetgangersoversteekplaats",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Dit bord wordt uitsluitend toegepast bij een zebra",
+  "plaatsing": "1. Bij voorkeur wordt dit bord in een middengeleider dan wel boven de rijbaan aangebracht"
+ },
+ "L4": {
+  "geldt_voor": [
+   "L4"
+  ],
+  "kop": "voorsorteren",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. De plaatsing van een bord L4 geschiedt op enige afstand voor het begin van de voorsorteervakken"
+ },
+ "L5": {
+  "geldt_voor": [
+   "L5"
+  ],
+  "kop": "einde rijstrook",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "plaatsing": "1. De plaatsing van een bord L5 geschiedt voor het einde van de rijstrook of het begin van het verdrijvingsvlak"
+ },
+ "L13": {
+  "geldt_voor": [
+   "L13"
+  ],
+  "kop": "",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "1. Het bord wordt geplaatst voor elke tunnel, langer dan 250 meter. 2. De lengte van de tunnel wordt vermeld in het onderste deel van het bord. 3. De naam van de tunnel kan op het bord of op een onderbord worden aangegeven. 4. Bij tunnels, langer dan 3000 meter, wordt de resterende lengte van de tunnel om de 1000 meter aangegeven",
+  "plaatsing": "Het bord wordt aan elke ingang van de tunnel geplaatst"
+ },
+ "L15": {
+  "geldt_voor": [
+   "L15"
+  ],
+  "kop": "",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "De aanwezigheid van noodtelefoons en brandblusapparaten wordt aangegeven met bord L 18"
+ },
+ "L19": {
+  "geldt_voor": [
+   "L19"
+  ],
+  "kop": "",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing_en_plaatsing": "Het bord wordt om de 25 meter op een hoogte van ten hoogste 1,5 meter boven het wegdek op de tunnelwanden geplaatst om aan te geven waar zich de twee dichtstbijzijnde uitgangen bevinden"
+ },
+ "L20": {
+  "geldt_voor": [
+   "L20",
+   "L21"
+  ],
+  "kop": "uitwijkplaats rechts van de weg uitwijkplaats links van de weg",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "De borden worden uitsluitend toegepast op wegen buiten de bebouwde kom met een breedte van minder dan 4 m",
+  "plaatsing": "Deze borden worden aan de rechterkant, respectievelijk linkerkant, haaks op de as van de rijbaan geplaatst op ca 20 m voor de uitwijkplaats",
+  "uitvoering": "Deze borden worden uitgevoerd in minimaal type 0. Hoofdstuk III",
+  "onderborden": "Toon relaties in LiDO Maak een permanente link Toon wetstechnische informatie ... Druk het regelingonderdeel af Sla het regelingonderdeel op",
+  "toepassing_en_plaatsing": "Voor een verkeerslicht als bedoeld in de artikelen 68 tot en met 72 van het RVV 1990 en voor een bord B7 wordt een stopstreep aangebracht om duidelijk te maken op welke plaats door bestuurders gestopt dient te worden"
+ },
+ "L21": {
+  "geldt_voor": [
+   "L20",
+   "L21"
+  ],
+  "kop": "uitwijkplaats rechts van de weg uitwijkplaats links van de weg",
+  "bron": "https://wetten.overheid.nl/BWBR0009104/2017-07-01",
+  "toepassing": "De borden worden uitsluitend toegepast op wegen buiten de bebouwde kom met een breedte van minder dan 4 m",
+  "plaatsing": "Deze borden worden aan de rechterkant, respectievelijk linkerkant, haaks op de as van de rijbaan geplaatst op ca 20 m voor de uitwijkplaats",
+  "uitvoering": "Deze borden worden uitgevoerd in minimaal type 0. Hoofdstuk III",
+  "onderborden": "Toon relaties in LiDO Maak een permanente link Toon wetstechnische informatie ... Druk het regelingonderdeel af Sla het regelingonderdeel op",
+  "toepassing_en_plaatsing": "Voor een verkeerslicht als bedoeld in de artikelen 68 tot en met 72 van het RVV 1990 en voor een bord B7 wordt een stopstreep aangebracht om duidelijk te maken op welke plaats door bestuurders gestopt dient te worden"
+ }
+}
