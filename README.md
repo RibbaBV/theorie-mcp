@@ -74,6 +74,16 @@ De theorie wordt onderhouden in de website-repo van Ribba. Een kopie ervan zit i
 npm run sync -- ../ribba.app
 ```
 
+## Testen
+
+```bash
+npm install
+npm run build
+npm test
+```
+
+De tests draaien tegen de meegeleverde inhoud, dus zonder netwerk. Naast de gereedschappen zelf controleren ze de samenhang: dat elk bord waar een hoofdstuk naar verwijst bestaat, en dat elke wetsverwijzing in de cursus een echte wettekst oplevert.
+
 ## Zelf draaien
 
 ```bash
@@ -81,6 +91,8 @@ npm install
 npm run build
 node dist/index.js
 ```
+
+De server praat JSON-RPC over stdin en stdout. Handmatig starten is vooral nuttig om de foutuitvoer te zien; normaal doet je MCP-client dit.
 
 ## Licentie
 

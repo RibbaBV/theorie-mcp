@@ -2,22 +2,46 @@
   "name": "@ribba/theorie-mcp",
   "version": "0.1.0",
   "description": "MCP-server met de volledige theorie voor het autorijbewijs B: hoofdstukken, verkeersborden, begrippen, wetsartikelen en oefenvragen.",
-  "keywords": ["mcp", "model-context-protocol", "theorie", "rijbewijs", "verkeersborden", "rvv", "cbr", "nederland"],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "theorie",
+    "rijbewijs",
+    "verkeersborden",
+    "rvv",
+    "cbr",
+    "nederland"
+  ],
   "license": "MIT",
   "author": "Ribba B.V. <team@ribba.nl> (https://ribba.nl)",
   "homepage": "https://github.com/RibbaBV/theorie-mcp#readme",
-  "repository": { "type": "git", "url": "git+https://github.com/RibbaBV/theorie-mcp.git" },
-  "bugs": { "url": "https://github.com/RibbaBV/theorie-mcp/issues" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RibbaBV/theorie-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RibbaBV/theorie-mcp/issues"
+  },
   "type": "module",
-  "bin": { "theorie-mcp": "dist/index.js" },
-  "files": ["dist", "data", "README.md", "LICENSE"],
-  "engines": { "node": ">=20" },
+  "bin": {
+    "theorie-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "data",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "build": "tsc",
     "prepublishOnly": "npm run build",
     "start": "node dist/index.js",
     "typecheck": "tsc --noEmit",
-    "sync": "node scripts/sync.mjs"
+    "sync": "node scripts/sync.mjs",
+    "test": "node --test 'test/**/*.test.mjs'"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.30.0",
