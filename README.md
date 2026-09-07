@@ -58,6 +58,21 @@ Herstart de app daarna. Heb je hem daar al staan en wil je hem ook in Claude Cod
 
 Dezelfde JSON als hierboven, in het configuratiebestand van je client.
 
+## Werkt het?
+
+Vraag je client:
+
+> Wat betekent verkeersbord B6?
+
+Komt er een antwoord met de betekenis en het wetsartikel erbij, dan staat de server. Zo niet:
+
+- **De server staat er niet bij.** De meeste clients lezen hun instellingen alleen bij het opstarten. Sluit hem helemaal af en start opnieuw.
+- **`npx: command not found` of een foutmelding over de Node-versie.** Je hebt Node 20 of nieuwer nodig. Controleer met `node --version`; installeren kan via [nodejs.org](https://nodejs.org).
+- **De eerste keer duurt even.** `npx` haalt het pakket dan nog op, en daar zit de hele theorie in. Daarna start hij meteen, ook zonder internet.
+- **Nog steeds niets?** Start de server met de hand en kijk wat hij zegt: `npx -y @ribba/theorie-mcp`. Hij wacht dan op invoer, wat betekent dat hij werkt; foutmeldingen komen erbij te staan.
+
+Kom je er niet uit, [open een issue](https://github.com/RibbaBV/theorie-mcp/issues) of mail [team@ribba.nl](mailto:team@ribba.nl).
+
 ## Wat je kunt vragen
 
 - Wat betekent bord B6, en waar wordt het het vaakst mee verward?
@@ -93,13 +108,11 @@ Dit is lesstof, geen CBR-examen. De oefenvragen zijn door Ribba geschreven en zi
 
 De afbeeldingen van de verkeersborden zijn de officiële borden uit bijlage 1 van het RVV 1990, overgenomen van wetten.overheid.nl. Elk bord in de uitvoer heeft een `afbeelding`-veld dat naar die afbeelding wijst. Op wetten, besluiten en verordeningen van de openbare macht rust geen auteursrecht (Auteurswet artikel 11).
 
-## De inhoud bijwerken
+## De inhoud
 
-De theorie wordt onderhouden in de website-repo van Ribba. Een kopie ervan zit in `data/`. Bijwerken:
+De theorie in `data/` is een momentopname en gaat mee in het pakket. Verandert er iets aan de cursus, dan verschijnt dat in een nieuwe versie van deze server. `package.json` vertelt welke je hebt; de laatste staat op npm.
 
-```bash
-npm run sync -- ../ribba.app
-```
+Wijkt iets af van wat er op [ribba.nl](https://ribba.nl) staat, dan is die site de bron. Laat het weten via een issue of [team@ribba.nl](mailto:team@ribba.nl), dan zetten we het recht.
 
 ## Testen
 

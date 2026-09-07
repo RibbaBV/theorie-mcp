@@ -1,16 +1,10 @@
 #!/usr/bin/env node
 /**
- * De theorie uit ribba.app hierheen halen.
+ * De theorie in data/ vervangen door een verse kopie.
  *
- * De cursus, de borden, de begrippen en de wetsartikelen worden onderhouden in
- * de website-repo. Deze server draagt er een kopie van, zodat hij werkt zonder
- * netwerk en zonder database. Die kopie moet wel bij te werken zijn zonder acht
- * bestanden met de hand over te tikken, en dat doet dit script.
+ * Onderhoudsscript. Het verwacht één argument: de map met de bronbestanden.
  *
- * Gebruik:
- *   node scripts/sync.mjs [pad-naar-ribba.app]
- *
- * Zonder pad wordt ../ribba.app aangenomen.
+ *   node scripts/sync.mjs <map>
  */
 import { cp, mkdir, stat } from 'node:fs/promises';
 import { dirname, join, resolve } from 'node:path';
@@ -30,13 +24,29 @@ const BESTANDEN = [
   'cbr-woordenlijst.json',
 ];
 
-const bron = resolve(process.argv[2] ?? join(HIER, '..', '..', 'ribba.app'), 'website', 'src', 'data');
+if (!process.argv[2]) {
+  console.error('Geef de map met de bronbestanden mee: node scripts/sync.mjs <map>');
+  process.exit(1);
+}
 
-try {
-  await stat(bron);
-} catch {
-  console.error(`Kan de bron niet vinden: ${bron}`);
-  console.error('Geef het pad naar ribba.app mee: node scripts/sync.mjs ../ribba.app');
+// De bestanden staan onder de bron in website/src/data, of rechtstreeks in de
+// meegegeven map. Zo werkt zowel een checkout als een losse map met JSON.
+const kandidaten = [
+  resolve(process.argv[2], 'website', 'src', 'data'),
+  resolve(process.argv[2]),
+];
+
+let bron = null;
+for (const kandidaat of kandidaten) {
+  try {
+    await stat(join(kandidaat, BESTANDEN[0]));
+    bron = kandidaat;
+    break;
+  } catch { /* volgende proberen */ }
+}
+
+if (!bron) {
+  console.error(`Geen ${BESTANDEN[0]} gevonden in ${kandidaten.join(' of ')}`);
   process.exit(1);
 }
 
