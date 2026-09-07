@@ -4,21 +4,42 @@ Een MCP-server met de volledige theorie voor het autorijbewijs B in Nederland: e
 
 De inhoud zit in het pakket. De server werkt dus zonder netwerk en zonder database.
 
-Gemaakt door [Ribba](https://ribba.nl).
+Gemaakt en onderhouden door **[Ribba](https://ribba.nl)**, de vergelijker voor rijscholen en gratis theorie in Nederland.
 
 ## Installeren
 
-Voeg de server toe aan je MCP-client. Er is geen sleutel nodig.
+Er is geen account en geen sleutel nodig. Elke client hieronder start de server zelf met `npx`, dus je hoeft niets vooraf te installeren behalve Node 20 of nieuwer.
 
 ### Claude Code
 
 ```bash
-claude mcp add theorie -- npx -y @ribba/theorie-mcp
+claude mcp add --scope user theorie -- npx -y @ribba/theorie-mcp
 ```
 
-### Claude Desktop, Cursor, Windsurf en andere clients
+`--scope user` schrijft hem naar `~/.claude.json`, waarmee hij in al je projecten werkt en ook beschikbaar is in het Code-tabblad van de desktop-app. Laat je `--scope` weg, dan geldt hij alleen in de map waar je op dat moment staat. Wil je hem juist met je team delen, gebruik dan `--scope project`: die schrijft naar `.mcp.json` in de repo, en dat bestand hoort in versiebeheer.
 
-In `claude_desktop_config.json` of het equivalent van je client:
+### Codex
+
+```bash
+codex mcp add theorie -- npx -y @ribba/theorie-mcp
+```
+
+Of met de hand in `~/.codex/config.toml`:
+
+```toml
+[mcp_servers.theorie]
+command = "npx"
+args = ["-y", "@ribba/theorie-mcp"]
+```
+
+De Codex-CLI, de IDE-extensie en de ChatGPT-desktopapp lezen alle drie datzelfde bestand, dus één keer instellen is genoeg. Zet je het in `.codex/config.toml` binnen een project, dan geldt het alleen daar.
+
+### Claude Desktop
+
+De chat-app deelt zijn instellingen niet met Claude Code en heeft een eigen bestand:
+
+- macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`
+- Windows: `%APPDATA%\Claude\claude_desktop_config.json`
 
 ```json
 {
@@ -30,6 +51,12 @@ In `claude_desktop_config.json` of het equivalent van je client:
   }
 }
 ```
+
+Herstart de app daarna. Heb je hem daar al staan en wil je hem ook in Claude Code, dan neemt `claude mcp add-from-claude-desktop` hem over.
+
+### Cursor, Windsurf en andere clients
+
+Dezelfde JSON als hierboven, in het configuratiebestand van je client.
 
 ## Wat je kunt vragen
 
@@ -93,6 +120,19 @@ node dist/index.js
 ```
 
 De server praat JSON-RPC over stdin en stdout. Handmatig starten is vooral nuttig om de foutuitvoer te zien; normaal doet je MCP-client dit.
+
+## Deze theorie op het web
+
+Alles wat deze server teruggeeft staat ook als gewone pagina op **[ribba.nl](https://ribba.nl)**, met afbeeldingen, voorbeelden en oefenvragen erbij:
+
+- [Gratis theorie leren](https://ribba.nl/gratis-theorie-leren): de volledige cursus
+- [Alle verkeersborden](https://ribba.nl/verkeersborden) uit bijlage 1 van het RVV 1990
+- [De begrippenlijst](https://ribba.nl/begrippen)
+- [De gids](https://ribba.nl/gids): het theorie-examen van begin tot eind
+
+Wil je de theorie op je eigen site zetten? Dat mag, en het kan met een kant-en-klaar kader: zie [gratis theorie aanbieden](https://ribba.nl/gratis-theorie-aanbieden).
+
+Elk bord, begrip en hoofdstuk in de uitvoer bevat een `pagina`-veld dat naar de bijbehorende pagina wijst.
 
 ## Licentie
 
