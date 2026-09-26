@@ -67,9 +67,9 @@
     },
     {
      "kop": "Lange combinaties en de rijstroken die je mag gebruiken",
-     "kern": "Met een combinatie langer dan 7 meter gebruik je op autosnelwegen met drie of meer rijstroken alleen de twee rechterrijstroken, behalve bij voorsorteren.",
+     "kern": "Met een samenstel van voertuigen dat in totaal langer is dan 7 meter, of met een vrachtauto, gebruik je op een autosnelweg met drie of meer rijstroken in dezelfde rijrichting alleen de twee rechterrijstroken, behalve bij voorsorteren.",
      "tekst": [
-      "Op een autosnelweg met drie of meer rijstroken gebruik je met een aanhangwagen of caravan langer dan 7 meter alleen de twee rechterrijstroken. Je blijft uit de linker rijstrook, omdat zo’n combinatie traag inhaalt en de doorstroming hindert.",
+      "Op een autosnelweg met drie of meer rijstroken in dezelfde rijrichting gebruik je met een samenstel van voertuigen dat in totaal langer is dan 7 meter alleen de twee rechterrijstroken. Het gaat om de lengte van auto én aanhanger samen. Hetzelfde geldt voor een vrachtauto, ongeacht de lengte. Je blijft uit de linker rijstrook, omdat zo’n combinatie traag inhaalt en de doorstroming hindert.",
       "Situatie: je rijdt met caravan op een autosnelweg met drie rijstroken. Rechts rijdt een vrachtauto iets langzamer. Jij gaat naar de middelste rijstrook en haalt rustig in. Waarom: je mag de linker rijstrook niet gebruiken met een combinatie langer dan 7 meter. Zodra het kan ga je weer terug naar rechts.",
       "Voorsorteren (tijdig naar de juiste rijstrook voor je route) mag, maar alleen voor een splitsing of afrit. Niet om sneller in te halen. Twijfel je over je lengte, reken jezelf tot deze regel."
      ],
@@ -110,9 +110,9 @@
     },
     {
      "kop": "Fileverkeer en rechts inhalen in de file",
-     "kern": "In file mag je niet op de meest rechter rijstrook blijven en je mag rechts inhalen.",
+     "kern": "Bij fileverkeer hoef je niet de meest rechtse rijstrook te volgen. Je mag rechts inhalen.",
      "tekst": [
-      "Autosnelweg met drie rijstroken in dezelfde richting, verkeer staat stil. Jij blijft rechts en passeert links langzaam. Dat mag, omdat dit fileverkeer is, je niet op de meest rechter rijstrook hoeft te blijven en rechts inhalen is toegestaan.",
+      "Autosnelweg met drie rijstroken in dezelfde richting, verkeer staat stil. Jij blijft op de rechterrijstrook en passeert langzaam de voertuigen op de rijstrook links van je. Dat mag, omdat dit fileverkeer is en je een file rechts mag inhalen.",
       "Verwarring ontstaat tussen file en langzaam verkeer. Zonder file, zonder lange rij die stil of stapvoets gaat, geen rechts inhalen. Rijbaan en rijstrook niet verwarren.",
       "Aan het begin van een tunnel met drie rijstroken staat het verkeer vast. Je blijft op de rechterstrook en rijdt stapvoets door, terwijl links stilstaat. Zo passeer je voertuigen links van je rechts. Dat mag, want dit is fileverkeer op rijstroken in dezelfde richting, dus rechts inhalen is toegestaan. Verwissel dit niet met gewoon langzaam verkeer zonder lange rij; dan mag het niet."
      ],
@@ -124,25 +124,26 @@
      "kop": "Maximumsnelheid binnen de bebouwde kom",
      "kern": "Binnen de bebouwde kom is de maximumsnelheid voor motorvoertuigen 50 km per uur.",
      "tekst": [
-      "Binnen de bebouwde kom is je maximumsnelheid met een motorvoertuig 50 km per uur. Rijd je met andere voertuigen of op paden? Binnen de bebouwde kom gelden specifieke maxima uit de regels.",
+      "Binnen de bebouwde kom is je maximumsnelheid met een motorvoertuig 50 km per uur. Dit is de algemene limiet voor motorvoertuigen; verkeersborden en bijzondere voertuiglimieten kunnen een andere snelheid voorschrijven. Een maximum is geen voorgeschreven rijsnelheid. Rijd je met andere voertuigen of op paden? Binnen de bebouwde kom gelden specifieke maxima uit de regels.",
       "Langs een woonstraat met een fiets/bromfietspad rijd je op een bromfiets, naast verkeer op de rijbaan. Je houdt 30 op het fiets/bromfietspad, omdat bromfietsen daar binnen de kom 30 mogen en motorvoertuigen op de rijbaan 50.",
-      "Je denkt snel dat 50 overal geldt. Niet zo. Voor bromfietsen 30 op het fiets/bromfietspad, 45 op de rijbaan. Op trottoir of voetpad 6 voor snorfietsen en gehandicaptenvoertuigen met motor.",
+      "Je denkt snel dat 50 overal geldt. Niet zo. Voor bromfietsen 30 op het fiets/bromfietspad, 45 op de rijbaan. Op trottoir of voetpad 6 voor een gehandicaptenvoertuig met motor.",
       "Ter hoogte van een wijkweg zonder fiets/bromfietspad rijd je op een bromfiets op de rijbaan. Je houdt 45. Want bromfietsen op de rijbaan binnen de kom mogen 45.",
-      "Snorfiets en bromfiets worden door elkaar gehaald. Snorfiets op trottoir of voetpad 6, bromfiets op fiets/bromfietspad 30, rijbaan 45."
+      "Snorfiets en bromfiets worden door elkaar gehaald. Een snorfiets rijdt maximaal 25. Een bromfiets rijdt binnen de kom 30 op het fiets/bromfietspad en 45 op de rijbaan."
      ],
      "artikelen": [
-      "RVV 20"
+      "RVV 20",
+      "RVV 22"
      ]
     },
     {
      "kop": "Maximumsnelheid buiten de bebouwde kom",
-     "kern": "Buiten de bebouwde kom rij je met een personenauto maximaal 130 op autosnelwegen en 100 op autowegen. Op andere wegen 80, in km per uur.",
+     "kern": "Buiten de bebouwde kom rij je met een personenauto maximaal 130 op autosnelwegen en 100 op autowegen. Op andere wegen 80, in km per uur. Volg altijd de aangegeven maximumsnelheid en eventuele tijdvensters. Op veel autosnelwegen geldt overdag 100 km/u. Er zijn ook trajecten met andere limieten. Een lagere geldende limiet gaat voor.",
      "tekst": [
-      "Op autosnelwegen geldt 130, op autowegen 100 en op andere wegen 80 km per uur, voor motorvoertuigen. Dat zijn de maxima. Sommige voertuigsoorten en combinaties hebben een eigen maximumsnelheid.",
-      "Buiten de bebouwde kom op een autoweg rijdt een auto voor je met 120. Jij komt vanaf een invoegstrook en sluit aan. Je versnelt tot 100 en blijft daar. Dat doe je omdat voor motorvoertuigen op autowegen 100 geldt buiten de bebouwde kom.",
-      "Autoweg en autosnelweg haal je door elkaar; buiten de bebouwde kom geldt 130 alleen op de autosnelweg.",
-      "Buiten de bebouwde kom rijd je op een weg zonder autosnelweg- of autowegbord. Een bestelauto achter je dringt aan. Jij houdt 80 aan en laat je niet opjagen. Dat doe je omdat op ‘andere wegen’ 80 geldt.",
-      "Soms haal je 100 en 130 door elkaar. 130 geldt alleen op de autosnelweg. Tankstations, parkeerplaatsen en bushaltes ernaast horen daar niet bij."
+      "Wettelijk geldt voor motorvoertuigen op autosnelwegen 130, op autowegen 100 en op andere wegen 80 km per uur. Dat zijn de maxima; borden kunnen een lagere limiet aangeven. Sommige voertuigsoorten en combinaties hebben een eigen maximumsnelheid.",
+      "Buiten de bebouwde kom op een autoweg rijdt een auto voor je met 120. Jij komt vanaf een invoegstrook en sluit aan. Je versnelt tot 100 en blijft daar. Dat doe je omdat voor motorvoertuigen op autowegen 100 geldt buiten de bebouwde kom, tenzij een bord een lagere snelheid aangeeft.",
+      "Autoweg en autosnelweg haal je door elkaar; 130 kan buiten de bebouwde kom alleen op de autosnelweg gelden, en ook daar alleen als de borden het toestaan.",
+      "Buiten de bebouwde kom rijd je op een weg zonder autosnelweg- of autowegbord. Een bestelauto achter je dringt aan. Jij houdt 80 aan en laat je niet opjagen. Dat doe je omdat op ‘andere wegen’ 80 geldt, zolang geen bord iets anders aangeeft.",
+      "Soms haal je 100 en 130 door elkaar. 130 is alleen op de autosnelweg mogelijk, en op veel autosnelwegen geldt overdag 100. Tankstations, parkeerplaatsen en bushaltes ernaast horen daar niet bij."
      ],
      "artikelen": [
       "RVV 21"
@@ -162,16 +163,16 @@
      ]
     },
     {
-     "kop": "Minimumsnelheid op de autoweg en de autosnelweg",
-     "kern": "Op de autoweg rijd je minimaal 50 km/u en op de autosnelweg minimaal 60 km/u; kun of mag je dat niet, dan ga je daar niet rijden.",
+     "kop": "Wanneer mag je de autoweg of autosnelweg op?",
+     "kern": "Je motorvoertuig moet voor een autoweg minstens 50 km/u kunnen én mogen rijden. Voor een autosnelweg is dat 60 km/u.",
      "tekst": [
-      "Op de autoweg rijd je minimaal 50 km/u. Op de autosnelweg minimaal 60 km/u. Haalt of mag jouw voertuig dat niet, dan ga je daar niet rijden. De ondergrens voorkomt grote snelheidsverschillen. Te langzaam tussen snel verkeer is gevaarlijk.",
-      "Je rijdt in een brommobiel buiten de bebouwde kom. Je nadert een oprit van een autoweg. Jij rijdt niet de oprit op, maar volgt de gewone weg. Je doet dat omdat je daar minstens 50 km/u moet kunnen rijden. Jij kiest een route zonder autoweg.",
-      "Hier gaat het vaak mis op het examen. Je verwart de 50 en 60, of het soort weg. Je denkt dat je bij rustig verkeer wel langzamer mag. Nee, je blijft boven het minimum of je gaat die weg niet op."
+      "Deze getallen zijn toegangseisen. Ze schrijven niet voor dat je altijd minstens 50 of 60 km/u moet rijden. In een file, bij slecht zicht of bij gevaar pas je je snelheid aan en stop je zo nodig. Er bestaat geen algemene minimumrijsnelheid voor het wegverkeer. Je mag het verkeer wel niet onnodig hinderen of gevaar veroorzaken.",
+      "Je rijdt in een brommobiel buiten de bebouwde kom. Je nadert een oprit van een autoweg. Jij rijdt niet de oprit op, maar volgt de gewone weg. Een gewone brommobiel mag maximaal 45 km/u en mag daarom de autoweg of autosnelweg niet op. Kies een andere route.",
+      "Hier gaat het vaak mis op het examen. Je verwart de 50 en 60, of het soort weg. Of je denkt dat je op deze wegen altijd minstens zo hard moet rijden. Het gaat erom wat je voertuig kan én mag."
      ],
      "artikelen": [
       "RVV 22",
-      "RVV 43"
+      "RVV 42"
      ]
     },
     {
@@ -222,7 +223,7 @@
       "In een parkeerschijf-zone parkeer je alleen op aangewezen plekken of bij een blauwe streep.",
       "Op een blauwe streep parkeer je met een motorvoertuig op meer dan twee wielen alleen met een duidelijk zichtbare parkeerschijf. Leg de schijf dan achter de voorruit.",
       "Een parkeerschijf toont aan één kant kalenderuren en zet het begin van het parkeren in hele of halve uren. Automatische schijven die tijdens het parkeren doorschuiven zijn niet toegestaan.",
-      "Rond het aankomsttijdstip af naar het volgende hele of halve uur. De toegestane parkeerduur mag niet verlopen zijn.",
+      "Je mag het aankomsttijdstip naar boven afronden op het eerstvolgende hele of halve uur. Bijvoorbeeld: aankomst 14.10 uur, dan stel je 14.30 uur in. De toegestane parkeerduur mag niet verlopen zijn. Controleer de toegestane duur en de geldende dagen en uren.",
       "Als op een onderbord dagen of uren staan, gelden deze regels alleen in die periode."
      ],
      "artikelen": [
@@ -398,7 +399,9 @@
       "Langs een spoorwegovergang op een buitenweg wacht een rij auto's. Je bent met de auto; de bellen klinken en de bomen zakken. Jij remt en stopt voor de overweg. Een fietser probeert door te rijden; dat is fout, want de weg is gesloten. Jij blijft wachten tot de bomen volledig open zijn, want een geslotenverklaring betekent dat je die weg niet gebruikt.",
       "Verwar de geslotenverklaring niet met voorrang. Het gaat niet om wie eerst mag, maar om dat je die weg even niet gebruikt. Dat geldt ook voor fietsers."
      ],
-     "artikelen": []
+     "artikelen": [
+      "RVV 15a"
+     ]
     },
     {
      "kop": "Overstekende kinderen",
