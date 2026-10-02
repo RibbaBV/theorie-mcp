@@ -67,9 +67,9 @@
     },
     {
      "kop": "Lange combinaties en de rijstroken die je mag gebruiken",
-     "kern": "Met een combinatie langer dan 7 meter gebruik je op autosnelwegen met drie of meer rijstroken alleen de twee rechterrijstroken, behalve bij voorsorteren.",
+     "kern": "Met een samenstel van voertuigen dat in totaal langer is dan 7 meter, of met een vrachtauto, gebruik je op een autosnelweg met drie of meer rijstroken in dezelfde rijrichting alleen de twee rechterrijstroken, behalve bij voorsorteren.",
      "tekst": [
-      "Op een autosnelweg met drie of meer rijstroken gebruik je met een aanhangwagen of caravan langer dan 7 meter alleen de twee rechterrijstroken. Je blijft uit de linker rijstrook, omdat zo’n combinatie traag inhaalt en de doorstroming hindert.",
+      "Op een autosnelweg met drie of meer rijstroken in dezelfde rijrichting gebruik je met een samenstel van voertuigen dat in totaal langer is dan 7 meter alleen de twee rechterrijstroken. Het gaat om de lengte van auto én aanhanger samen. Hetzelfde geldt voor een vrachtauto, ongeacht de lengte. Je blijft uit de linker rijstrook, omdat zo’n combinatie traag inhaalt en de doorstroming hindert.",
       "Situatie: je rijdt met caravan op een autosnelweg met drie rijstroken. Rechts rijdt een vrachtauto iets langzamer. Jij gaat naar de middelste rijstrook en haalt rustig in. Waarom: je mag de linker rijstrook niet gebruiken met een combinatie langer dan 7 meter. Zodra het kan ga je weer terug naar rechts.",
       "Voorsorteren (tijdig naar de juiste rijstrook voor je route) mag, maar alleen voor een splitsing of afrit. Niet om sneller in te halen. Twijfel je over je lengte, reken jezelf tot deze regel."
      ],
@@ -110,9 +110,9 @@
     },
     {
      "kop": "Fileverkeer en rechts inhalen in de file",
-     "kern": "In file mag je niet op de meest rechter rijstrook blijven en je mag rechts inhalen.",
+     "kern": "Bij fileverkeer hoef je niet de meest rechtse rijstrook te volgen. Je mag rechts inhalen.",
      "tekst": [
-      "Autosnelweg met drie rijstroken in dezelfde richting, verkeer staat stil. Jij blijft rechts en passeert links langzaam. Dat mag, omdat dit fileverkeer is, je niet op de meest rechter rijstrook hoeft te blijven en rechts inhalen is toegestaan.",
+      "Autosnelweg met drie rijstroken in dezelfde richting, verkeer staat stil. Jij blijft op de rechterrijstrook en passeert langzaam de voertuigen op de rijstrook links van je. Dat mag, omdat dit fileverkeer is en je een file rechts mag inhalen.",
       "Verwarring ontstaat tussen file en langzaam verkeer. Zonder file, zonder lange rij die stil of stapvoets gaat, geen rechts inhalen. Rijbaan en rijstrook niet verwarren.",
       "Aan het begin van een tunnel met drie rijstroken staat het verkeer vast. Je blijft op de rechterstrook en rijdt stapvoets door, terwijl links stilstaat. Zo passeer je voertuigen links van je rechts. Dat mag, want dit is fileverkeer op rijstroken in dezelfde richting, dus rechts inhalen is toegestaan. Verwissel dit niet met gewoon langzaam verkeer zonder lange rij; dan mag het niet."
      ],
@@ -124,25 +124,26 @@
      "kop": "Maximumsnelheid binnen de bebouwde kom",
      "kern": "Binnen de bebouwde kom is de maximumsnelheid voor motorvoertuigen 50 km per uur.",
      "tekst": [
-      "Binnen de bebouwde kom is je maximumsnelheid met een motorvoertuig 50 km per uur. Rijd je met andere voertuigen of op paden? Binnen de bebouwde kom gelden specifieke maxima uit de regels.",
+      "Binnen de bebouwde kom is je maximumsnelheid met een motorvoertuig 50 km per uur. Dit is de algemene limiet voor motorvoertuigen; verkeersborden en bijzondere voertuiglimieten kunnen een andere snelheid voorschrijven. Een maximum is geen voorgeschreven rijsnelheid. Rijd je met andere voertuigen of op paden? Binnen de bebouwde kom gelden specifieke maxima uit de regels.",
       "Langs een woonstraat met een fiets/bromfietspad rijd je op een bromfiets, naast verkeer op de rijbaan. Je houdt 30 op het fiets/bromfietspad, omdat bromfietsen daar binnen de kom 30 mogen en motorvoertuigen op de rijbaan 50.",
-      "Je denkt snel dat 50 overal geldt. Niet zo. Voor bromfietsen 30 op het fiets/bromfietspad, 45 op de rijbaan. Op trottoir of voetpad 6 voor snorfietsen en gehandicaptenvoertuigen met motor.",
+      "Je denkt snel dat 50 overal geldt. Niet zo. Voor bromfietsen 30 op het fiets/bromfietspad, 45 op de rijbaan. Op trottoir of voetpad 6 voor een gehandicaptenvoertuig met motor.",
       "Ter hoogte van een wijkweg zonder fiets/bromfietspad rijd je op een bromfiets op de rijbaan. Je houdt 45. Want bromfietsen op de rijbaan binnen de kom mogen 45.",
-      "Snorfiets en bromfiets worden door elkaar gehaald. Snorfiets op trottoir of voetpad 6, bromfiets op fiets/bromfietspad 30, rijbaan 45."
+      "Snorfiets en bromfiets worden door elkaar gehaald. Een snorfiets rijdt maximaal 25. Een bromfiets rijdt binnen de kom 30 op het fiets/bromfietspad en 45 op de rijbaan."
      ],
      "artikelen": [
-      "RVV 20"
+      "RVV 20",
+      "RVV 22"
      ]
     },
     {
      "kop": "Maximumsnelheid buiten de bebouwde kom",
-     "kern": "Buiten de bebouwde kom rij je met een personenauto maximaal 130 op autosnelwegen en 100 op autowegen. Op andere wegen 80, in km per uur.",
+     "kern": "Buiten de bebouwde kom rij je met een personenauto maximaal 130 op autosnelwegen en 100 op autowegen. Op andere wegen 80, in km per uur. Volg altijd de aangegeven maximumsnelheid en eventuele tijdvensters. Op veel autosnelwegen geldt overdag 100 km/u. Er zijn ook trajecten met andere limieten. Een lagere geldende limiet gaat voor.",
      "tekst": [
-      "Op autosnelwegen geldt 130, op autowegen 100 en op andere wegen 80 km per uur, voor motorvoertuigen. Dat zijn de maxima. Sommige voertuigsoorten en combinaties hebben een eigen maximumsnelheid.",
-      "Buiten de bebouwde kom op een autoweg rijdt een auto voor je met 120. Jij komt vanaf een invoegstrook en sluit aan. Je versnelt tot 100 en blijft daar. Dat doe je omdat voor motorvoertuigen op autowegen 100 geldt buiten de bebouwde kom.",
-      "Autoweg en autosnelweg haal je door elkaar; buiten de bebouwde kom geldt 130 alleen op de autosnelweg.",
-      "Buiten de bebouwde kom rijd je op een weg zonder autosnelweg- of autowegbord. Een bestelauto achter je dringt aan. Jij houdt 80 aan en laat je niet opjagen. Dat doe je omdat op ‘andere wegen’ 80 geldt.",
-      "Soms haal je 100 en 130 door elkaar. 130 geldt alleen op de autosnelweg. Tankstations, parkeerplaatsen en bushaltes ernaast horen daar niet bij."
+      "Wettelijk geldt voor motorvoertuigen op autosnelwegen 130, op autowegen 100 en op andere wegen 80 km per uur. Dat zijn de maxima; borden kunnen een lagere limiet aangeven. Sommige voertuigsoorten en combinaties hebben een eigen maximumsnelheid.",
+      "Buiten de bebouwde kom op een autoweg rijdt een auto voor je met 120. Jij komt vanaf een invoegstrook en sluit aan. Je versnelt tot 100 en blijft daar. Dat doe je omdat voor motorvoertuigen op autowegen 100 geldt buiten de bebouwde kom, tenzij een bord een lagere snelheid aangeeft.",
+      "Autoweg en autosnelweg haal je door elkaar; 130 kan buiten de bebouwde kom alleen op de autosnelweg gelden, en ook daar alleen als de borden het toestaan.",
+      "Buiten de bebouwde kom rijd je op een weg zonder autosnelweg- of autowegbord. Een bestelauto achter je dringt aan. Jij houdt 80 aan en laat je niet opjagen. Dat doe je omdat op ‘andere wegen’ 80 geldt, zolang geen bord iets anders aangeeft.",
+      "Soms haal je 100 en 130 door elkaar. 130 is alleen op de autosnelweg mogelijk, en op veel autosnelwegen geldt overdag 100. Tankstations, parkeerplaatsen en bushaltes ernaast horen daar niet bij."
      ],
      "artikelen": [
       "RVV 21"
@@ -162,16 +163,16 @@
      ]
     },
     {
-     "kop": "Minimumsnelheid op de autoweg en de autosnelweg",
-     "kern": "Op de autoweg rijd je minimaal 50 km/u en op de autosnelweg minimaal 60 km/u; kun of mag je dat niet, dan ga je daar niet rijden.",
+     "kop": "Wanneer mag je de autoweg of autosnelweg op?",
+     "kern": "Je motorvoertuig moet voor een autoweg minstens 50 km/u kunnen én mogen rijden. Voor een autosnelweg is dat 60 km/u.",
      "tekst": [
-      "Op de autoweg rijd je minimaal 50 km/u. Op de autosnelweg minimaal 60 km/u. Haalt of mag jouw voertuig dat niet, dan ga je daar niet rijden. De ondergrens voorkomt grote snelheidsverschillen. Te langzaam tussen snel verkeer is gevaarlijk.",
-      "Je rijdt in een brommobiel buiten de bebouwde kom. Je nadert een oprit van een autoweg. Jij rijdt niet de oprit op, maar volgt de gewone weg. Je doet dat omdat je daar minstens 50 km/u moet kunnen rijden. Jij kiest een route zonder autoweg.",
-      "Hier gaat het vaak mis op het examen. Je verwart de 50 en 60, of het soort weg. Je denkt dat je bij rustig verkeer wel langzamer mag. Nee, je blijft boven het minimum of je gaat die weg niet op."
+      "Deze getallen zijn toegangseisen. Ze schrijven niet voor dat je altijd minstens 50 of 60 km/u moet rijden. In een file, bij slecht zicht of bij gevaar pas je je snelheid aan en stop je zo nodig. Er bestaat geen algemene minimumrijsnelheid voor het wegverkeer. Je mag het verkeer wel niet onnodig hinderen of gevaar veroorzaken.",
+      "Je rijdt in een brommobiel buiten de bebouwde kom. Je nadert een oprit van een autoweg. Jij rijdt niet de oprit op, maar volgt de gewone weg. Een gewone brommobiel mag maximaal 45 km/u en mag daarom de autoweg of autosnelweg niet op. Kies een andere route.",
+      "Hier gaat het vaak mis op het examen. Je verwart de 50 en 60, of het soort weg. Of je denkt dat je op deze wegen altijd minstens zo hard moet rijden. Het gaat erom wat je voertuig kan én mag."
      ],
      "artikelen": [
       "RVV 22",
-      "RVV 43"
+      "RVV 42"
      ]
     },
     {
@@ -222,7 +223,7 @@
       "In een parkeerschijf-zone parkeer je alleen op aangewezen plekken of bij een blauwe streep.",
       "Op een blauwe streep parkeer je met een motorvoertuig op meer dan twee wielen alleen met een duidelijk zichtbare parkeerschijf. Leg de schijf dan achter de voorruit.",
       "Een parkeerschijf toont aan één kant kalenderuren en zet het begin van het parkeren in hele of halve uren. Automatische schijven die tijdens het parkeren doorschuiven zijn niet toegestaan.",
-      "Rond het aankomsttijdstip af naar het volgende hele of halve uur. De toegestane parkeerduur mag niet verlopen zijn.",
+      "Je mag het aankomsttijdstip naar boven afronden op het eerstvolgende hele of halve uur. Bijvoorbeeld: aankomst 14.10 uur, dan stel je 14.30 uur in. De toegestane parkeerduur mag niet verlopen zijn. Controleer de toegestane duur en de geldende dagen en uren.",
       "Als op een onderbord dagen of uren staan, gelden deze regels alleen in die periode."
      ],
      "artikelen": [
@@ -272,13 +273,14 @@
     },
     {
      "kop": "Uitzonderingen: onverharde weg en tram",
-     "kern": "Kom je van onverhard, verleen dan voorrang aan verkeer op de verharde weg en aan bestuurders van een tram.",
+     "kern": "Kom je van een onverharde weg, dan verleen je op het kruispunt voorrang aan bestuurders op de verharde weg. Een tram verleen je op een kruispunt voorrang, ook als hij van links komt. Verkeerslichten en voorrangsborden kunnen het anders regelen.",
      "tekst": [
       "Bij een kruispunt zonder borden komt een onverharde bouwweg uit op een verharde weg door een bedrijventerrein. Links op de rails nadert een tram, van rechts rijdt een bestelauto op de verharde weg. Je stopt bij de rand van de verharding en wacht. Eerst laat je de tram passeren, daarna het verkeer op de verharde weg. Pas als het vrij is, rijd je door, omdat je van onverhard komt en bestuurders trams voorrang verlenen.",
-      "Waar het misgaat is het onderscheid tussen bestuurders en voetgangers. Deze uitzondering geldt voor bestuurders; fietsers en bromfietsers vallen daar dus onder. Een voetganger krijgt hierdoor geen voorrang. Verwarring is er ook over de tram. Sommigen denken dat richting nog uitmaakt. Jij verleent echter altijd voorrang aan een tram op het kruispunt, of hij nu van links of van rechts komt. Auto, scooter en tractor laat jij voorgaan vanaf onverhard."
+      "Waar het misgaat is het onderscheid tussen bestuurders en voetgangers. Deze uitzondering geldt voor bestuurders; fietsers en bromfietsers vallen daar dus onder. Een voetganger krijgt hierdoor geen voorrang. Verwarring is er ook over de tram. Sommigen denken dat richting nog uitmaakt. Op een kruispunt zonder verkeerslichten of voorrangsborden verleen je een tram voorrang, of hij nu van links of van rechts komt. Auto, scooter en tractor laat jij voorgaan vanaf onverhard."
      ],
      "artikelen": [
-      "RVV 15"
+      "RVV 15",
+      "RVV 63"
      ]
     },
     {
@@ -297,17 +299,18 @@
     },
     {
      "kop": "Voorsorteren en richting aangeven voor je afslaat",
-     "kern": "Wil je afslaan, sorteer op tijd en geef richting met richtingaanwijzer of arm.",
+     "kern": "Wil je afslaan, dan mag je tijdig voorsorteren. Verplicht is dat je vóór het afslaan richting aangeeft met je richtingaanwijzer of je arm.",
      "tekst": [
-      "Sorteer op tijd wanneer je gaat afslaan, altijd. Rechtsaf ga je zo rechts mogelijk; linksaf bij de wegas, en op een eenrichtingsrijbaan zo links mogelijk. Geef vóór afslaan steeds richting met richtingaanwijzer of arm.",
-      "Je nadert op een eenrichtingsrijbaan een T-kruising om linksaf te slaan. Sorteer daar op tijd zoveel mogelijk links en geef vooraf richting. Links voorsorteren is daar verplicht, en vóór afslaan geef je altijd een teken.",
+      "Ga je afslaan, dan mag je tijdig voorsorteren. Rechtsaf ga je dan zo veel mogelijk rechts rijden; linksaf zo veel mogelijk tegen de wegas, en op een rijbaan voor één richting zo veel mogelijk links. Vóór het afslaan geef je altijd richting met je richtingaanwijzer of je arm. Staan er voorsorteerpijlen of -vakken op de weg, dan volg je die, want dat zijn verkeerstekens.",
+      "Je nadert op een eenrichtingsrijbaan een T-kruising om linksaf te slaan. Sorteer daar op tijd zoveel mogelijk links en geef vooraf richting. Zo laat je zien wat je gaat doen; het teken vóór het afslaan is verplicht.",
       "Verwar links voorsorteren niet met te ver links gaan; op een tweerichtingsweg blijf je strak tegen de wegas, niet erover. Geef richting vooraf, niet pas tijdens het afslaan.",
       "Voor je ligt een eenrichtingsrijbaan met links een zijstraat. Je sorteert tijdig zoveel mogelijk links en zet je richting aan, omdat je vóór afslaan een teken geeft.",
       "Te laat richting geven komt vaak voor. Het teken hoort vóór het afslaan. Werkt de richtingaanwijzer niet, dan is een armteken toegestaan.",
       "Soms denk je dat jouw linkse positie genoeg is als signaal. Toch moet je vóór het afslaan richting geven; voorsorteren vervangt het teken niet. Verwar ook een tweerichtingsweg niet met een eenrichtingsrijbaan: je gaat strak tegen de wegas, niet erover."
      ],
      "artikelen": [
-      "RVV 17"
+      "RVV 17",
+      "RVV 62"
      ]
     },
     {
@@ -326,11 +329,11 @@
     },
     {
      "kop": "Kwetsbare voetgangers laten voorgaan",
-     "kern": "Je laat blinden met witte stok met een of meer rode ringen en wie zich moeilijk voortbeweegt voor laten gaan.",
+     "kern": "Blinden met een witte stok met één of meer rode ringen, en alle anderen die zich moeilijk voortbewegen, laat je voorgaan. Dat geldt overal, niet alleen bij een zebrapad.",
      "tekst": [
       "Zie je een blinde met witte stok met rode ringen, of iemand die zichtbaar moeilijk voortbeweegt? Je moet hen voor laten gaan: eerst laten oversteken. Denk hieraan bij een oversteekplaats of stoep, ook zonder markering.",
-      "Bij een woonstraat nadert een man met rollator de stoeprand. Je stopt en geeft hem de tijd. De regel is helder: blinden en wie zich moeilijk voortbeweegt steken eerst over.",
-      "Niet alleen bij een zebrapad; ook zonder markering laat je deze groep voor laten gaan. Wacht niet tot iemand op de rijbaan staat; geef ruimte om te starten."
+      "Bij een woonstraat nadert een vrouw met rollator de stoeprand. Je stopt en geeft haar de tijd. De regel is helder: blinden en wie zich moeilijk voortbeweegt steken eerst over.",
+      "Niet alleen bij een zebrapad; ook zonder markering laat je hen voorgaan. Wacht niet tot iemand op de rijbaan staat; geef ruimte om te starten."
      ],
      "artikelen": [
       "RVV 49"
@@ -338,10 +341,10 @@
     },
     {
      "kop": "Voetgangersoversteekplaats: wie laat je voorgaan",
-     "kern": "Op een voetgangersoversteekplaats laat je voetgangers en bestuurders van een gehandicaptenvoertuig die oversteken of duidelijk willen oversteken voor laten gaan, behalve in de genoemde uitzonderingen.",
+     "kern": "Op een voetgangersoversteekplaats laat je voetgangers en bestuurders van een gehandicaptenvoertuig voorgaan als zij oversteken of duidelijk willen oversteken, behalve in de genoemde uitzonderingen.",
      "tekst": [
-      "Misverstand: dit geldt alleen op het zebrapad. Je laat blinden met een witte stok met rode ringen en mensen die zich moeilijk voortbewegen voor laten gaan. Op een voetgangersoversteekplaats laat je voetgangers en bestuurders van een gehandicaptenvoertuig voor laten gaan. Dat geldt als zij oversteken of duidelijk willen oversteken. Voor laten gaan betekent dat je wacht.",
-      "Je hoeft niet voor te laten gaan voor motorvoertuigen in een militaire colonne of een uitvaartstoet van motorvoertuigen. Ook niet bij rood voetgangerslicht voor voetgangers. Ook niet bij geel knipperlicht, zoals in artikel 74, tweede lid.",
+      "Op een zebrapad laat je voetgangers en bestuurders van een gehandicaptenvoertuig voorgaan als zij oversteken of duidelijk op het punt staan dat te doen. Voor laten gaan betekent dat je wacht. Blinden en mensen die zich moeilijk voortbewegen laat je overal voorgaan, ook buiten het zebrapad (zie 2.6).",
+      "De zebrapadregel geldt niet voor bestuurders van een motorvoertuig in een militaire colonne of een uitvaartstoet van motorvoertuigen. Ook niet als voor de voetganger een rood voetgangerslicht brandt, of een geel knipperlicht dat het rode licht vervangt. Ook dan blijf je opletten en veroorzaak je geen gevaar.",
       "Voor een voetgangersoversteekplaats in een winkelstraat wacht een voetganger bij de stoeprand. Je mindert vaart en stopt, want hij wil duidelijk oversteken. Je moet hem voor laten gaan, want op een voetgangersoversteekplaats gaan voetgangers die oversteken of duidelijk willen oversteken eerst.",
       "Je vergeet soms bestuurders van een gehandicaptenvoertuig. Die gaan voor als zij duidelijk willen oversteken."
      ],
@@ -367,9 +370,9 @@
      "kop": "Militaire colonnes en uitvaartstoeten niet doorsnijden",
      "kern": "Je mag een militaire colonne of een uitvaartstoet van motorvoertuigen niet doorsnijden.",
      "tekst": [
-      "Rijd niet door of onderbreek een militaire colonne of uitvaartstoet. In zo'n stoet hoef je op een voetgangersoversteekplaats voetgangers niet voor te laten gaan. Voor laten gaan: eerst laten oversteken.",
-      "Je rijdt mee in een uitvaartstoet op een stadsweg. Bij een voetgangersoversteekplaats stapt iemand op. Je rijdt door met de stoet, want daarin hoef je geen voetgangers voor te laten gaan.",
-      "Fietsers of lopers in rouwstoet tellen niet mee. Tussen twee stoetvoertuigen invoegen is doorsnijden. Uitzondering bij de voetgangersoversteekplaats geldt alleen voor bestuurders in de stoet. Bestuurder is iemand die een voertuig bestuurt."
+      "Een militaire colonne of een uitvaartstoet van motorvoertuigen mag je niet doorsnijden: je rijdt er niet tussendoor en voegt niet tussen. Rijd je zelf in zo'n stoet, dan geldt de zebrapadregel niet voor jou. Dat is geen vrijbrief: je blijft op voetgangers letten.",
+      "Je nadert een kruispunt waar een uitvaartstoet van motorvoertuigen oversteekt. Je wacht tot de hele stoet voorbij is, ook als er even een gat valt tussen twee auto's.",
+      "Een stoet van fietsers of lopers valt niet onder deze regel; het gaat om motorvoertuigen. Tussen twee stoetvoertuigen invoegen is doorsnijden. Uitzondering bij de voetgangersoversteekplaats geldt alleen voor bestuurders in de stoet. Bestuurder is iemand die een voertuig bestuurt."
      ],
      "artikelen": [
       "RVV 16",
@@ -378,35 +381,40 @@
     },
     {
      "kop": "Tramkruising: wat betekent dat voor jou",
-     "kern": "Een tramkruising is waar een tram je weg kruist; op kruispunten en bij afslaan hebben trams voorrang door uitzonderingen.",
+     "kern": "Op een kruispunt verleen je voorrang aan een tram, ook als hij van links komt. Slaat een tram af, dan hoeft die het verkeer op dezelfde weg niet voor te laten gaan. Verkeerslichten en borden gaan voor deze regels.",
      "tekst": [
       "Na de bocht, in een woonstraat, ligt een kruispunt met trambaan; een tram komt van links en kruist je rijrichting. Je stopt voor het kruispunt en verleent de tram voorrang, want bestuurders van een tram hebben voorrang. Voorrang verlenen is eerst laten gaan. Verwacht niet dat een afslaande tram jou laat voorgaan; die afsla-regels gelden niet.",
       "Stel dat je vanuit een zijstraat een kruispunt met trambaan nadert. Een tram komt van links. Je wacht en laat de tram eerst gaan, omdat een tram op het kruispunt voorrang heeft.",
-      "Soms denk je dat een tram overal voorrang heeft. Niet waar, want deze regel geldt alleen op kruispunten. Daarnaast haal je tram en bus soms door elkaar; een bus krijgt geen extra voorrang."
+      "Soms denk je dat een tram overal voorrang heeft. Niet waar, want deze regel geldt alleen op kruispunten. Ook op een kruispunt kunnen verkeerslichten of borden het anders regelen. Een bus is geen tram en krijgt door deze regel geen voorrang."
      ],
      "artikelen": [
       "RVV 15",
-      "RVV 18"
+      "RVV 18",
+      "RVV 63"
      ]
     },
     {
      "kop": "Overwegbomen bij een spoorwegovergang",
-     "kern": "Overwegbomen sluiten de weg bij een overweg voor kruisend spoorverkeer.",
+     "kern": "Dalen de overwegbomen of knippert het rode licht, dan stop je vóór de overweg. Je rijdt pas verder als de bomen helemaal open zijn, het rode licht uit is en je de overweg in één keer kunt oversteken zonder erop te hoeven stoppen.",
      "tekst": [
-      "Bij dalende bomen is de overweg gesloten: een geslotenverklaring betekent dat je daar niet rijdt. Je stopt voor de overweg. Je ziet een trein aankomen; de bomen gaan omlaag. Je wacht tot de bomen open zijn.",
+      "Bij dalende bomen is de overweg gesloten: een geslotenverklaring betekent dat je daar niet rijdt. Je stopt voor de overweg. Je ziet een trein aankomen; de bomen gaan omlaag. Je wacht tot de bomen helemaal open zijn en het rode knipperlicht uit is. Staat er aan de overkant een rij, rijd dan de overweg niet op: je mag daar niet stilstaan.",
       "Zodra spoorverkeer nadert of passeert, sluiten ze de overweg en gebruik je die weg niet. Doorrijden terwijl de bomen dalen, mag niet.",
-      "Langs een spoorwegovergang op een buitenweg wacht een rij auto's. Je bent met de auto; de bellen klinken en de bomen zakken. Jij remt en stopt voor de overweg. Een fietser probeert door te rijden; dat is fout, want de weg is gesloten. Jij blijft wachten tot de bomen volledig open zijn, want een geslotenverklaring betekent dat je die weg niet gebruikt.",
+      "Langs een spoorwegovergang op een buitenweg wacht een rij auto's. Je bent met de auto; de bellen klinken en de bomen zakken. Jij remt en stopt voor de overweg. Een fietser probeert door te rijden; dat is fout, want de weg is gesloten. Jij blijft wachten tot de bomen volledig open zijn en het rode licht uit is, want een geslotenverklaring betekent dat je die weg niet gebruikt.",
       "Verwar de geslotenverklaring niet met voorrang. Het gaat niet om wie eerst mag, maar om dat je die weg even niet gebruikt. Dat geldt ook voor fietsers."
      ],
-     "artikelen": []
+     "artikelen": [
+      "RVV 15a",
+      "RVV 23",
+      "RVV 71"
+     ]
     },
     {
      "kop": "Overstekende kinderen",
-     "kern": "Overstekende kinderen zijn voetgangers; bij een voetgangersoversteekplaats laat je hen voor laten gaan als zij oversteken of dat duidelijk willen.",
+     "kern": "Overstekende kinderen zijn voetgangers. Op een zebrapad laat je hen voorgaan als zij oversteken of duidelijk op het punt staan dat te doen. Ook buiten het zebrapad houd je rekening met kinderen.",
      "tekst": [
-      "Overstekende kinderen zijn voetgangers; een voetgangersoversteekplaats is een zebrapad. Zie je kinderen op of bij het zebrapad, dan laat je hen voor laten gaan, wettelijk verplicht.",
-      "Bij een school lopen kinderen naar het zebrapad; één stapt op. Je mindert vaart en stopt op tijd. Je stopt, want voetgangers op of bij het zebrapad laat je voor laten gaan.",
-      "Verwar de voetgangersoversteekplaats niet met een ongemarkeerde oversteek; alleen daar geldt dit. Buiten die plek laat je blinden met witte stok en mensen die zich moeilijk voortbewegen voor laten gaan. Staat het voetgangerslicht rood, dan geldt de oversteekplaats niet."
+      "Overstekende kinderen zijn voetgangers; een voetgangersoversteekplaats is een zebrapad. Steken kinderen over op het zebrapad, of staan ze duidelijk op het punt dat te doen, dan laat je hen voorgaan. Dat is wettelijk verplicht.",
+      "Bij een school lopen kinderen naar het zebrapad; één stapt op. Je mindert vaart en stopt op tijd, want wie op het zebrapad oversteekt of dat duidelijk wil, laat je voorgaan.",
+      "Verwar de voetgangersoversteekplaats niet met een ongemarkeerde oversteek; alleen daar geldt deze regel. Buiten die plek laat je blinden met witte stok en mensen die zich moeilijk voortbewegen voorgaan, en houd je rekening met kinderen. Staat het voetgangerslicht rood, dan geldt de zebrapadregel niet, maar steekt een kind toch over, dan rem je."
      ],
      "artikelen": [
       "RVV 49"
@@ -447,7 +455,7 @@
      "kern": "Op autosnelwegen en autowegen mag je niet keren, niet achteruitrijden, niet stilstaan op de rijbaan, en gebruik je vluchtstrook, vluchthaven of berm alleen bij nood.",
      "tekst": [
       "Op een autosnelweg of autoweg keer je niet en rij je niet achteruit. Laat je voertuig nooit stilstaan op de rijbaan. Gebruik vluchtstrook, vluchthaven of berm alleen bij noodgevallen. Rijd je met een vrachtauto of combinatie langer dan 7 meter op een rijbaan met drie of meer rijstroken, gebruik je alleen de twee rechter rijstroken, behalve bij voorsorteren.",
-      "Je rijdt op een autosnelweg en mist je afrit. Je rijdt door naar de volgende afrit, omdat keren of achteruitrijden verboden is op een autosnelweg of autoweg.",
+      "Je rijdt op een autosnelweg en mist je afrit. Je rijdt door naar de volgende afrit, omdat keren of achteruitrijden verboden is op een autosnelweg of autoweg. Ook op de vluchtstrook keer je niet en rij je niet achteruit: een gemiste afrit is geen noodgeval.",
       "Een parkeerplaats of tankstation langs de autosnelweg of autoweg hoort niet bij die weg; daar mag je stoppen. De beperking tot de twee rechter rijstroken geldt alleen op een autosnelweg. Zonder noodgeval gebruik je geen vluchtstrook.",
       "Je rijdt op een autosnelweg. Je neemt de eerstvolgende parkeerplaats en stopt daar, omdat je op de rijbaan niet mag stilstaan en de vluchtstrook alleen bij noodgevallen gebruikt."
      ],
@@ -499,10 +507,10 @@
     },
     {
      "kop": "Rotondes: positie op de rijbaan en rechts inhalen",
-     "kern": "Vlak voor of op rotondes hoef je niet rechts te houden en mag je rechts inhalen.",
+     "kern": "Vlak voor of op een rotonde hoef je met een motorvoertuig of bromfiets op de rijbaan niet rechts te houden. Rechts inhalen mag daar voor alle bestuurders.",
      "tekst": [
-      "Volg je de rijbaan met motorvoertuig of bromfiets, hoef je vlak voor of op rotondes niet rechts te houden. Vlak voor of op rotondes mag je rechts inhalen.",
-      "Je denkt snel dat dit ook voor fietsers op het fietspad geldt. Niet waar: het gaat om motorvoertuigen en bromfietsers op de rijbaan. Neem 'vlak voor' niet te ruim; eerder geldt deze uitzondering niet.",
+      "Volg je de rijbaan met een motorvoertuig of bromfiets, dan hoef je vlak voor of op een rotonde niet rechts te houden. Rechts inhalen mag vlak voor of op een rotonde voor alle bestuurders.",
+      "Houd de twee regels uit elkaar. Niet rechts hoeven houden geldt voor motorvoertuigen en bromfietsers die de rijbaan volgen, niet voor fietsers op het fietspad. Rechts inhalen vlak voor of op een rotonde mag wel voor alle bestuurders, dus ook voor fietsers. Neem 'vlak voor' niet te ruim; eerder gelden deze uitzonderingen niet.",
       "Aan het einde van een tweestrooksweg nader je een rotonde. Je blijft op de rechterstrook en passeert rechts. Dat mag, want vlak voor of op rotondes mag je rechts inhalen.",
       "Vlak voor een rotonde op een tweestrooksrijbaan rijd je als bromfiets op de rijbaan. Jij blijft rechts en passeert de auto links naast je, want vlak voor of op rotondes mag dit als je de rijbaan volgt.",
       "Denk niet dat je al op de aanrijroute vrij mag rechts inhalen; de uitzondering hoort bij de rotonde, niet daarvoor."
@@ -540,12 +548,12 @@
     },
     {
      "kop": "Turborotonde: wat is het en hoe herken je het",
-     "kern": "Een turborotonde heeft gescheiden rijstroken; je kiest vooraf de juiste rijstrook en rijdt zo conflictvrij door.",
+     "kern": "Een turborotonde heeft gescheiden rijstroken; je kiest vooraf de juiste rijstrook, zodat je op de rotonde niet meer hoeft te wisselen. Dat maakt de rotonde overzichtelijker, maar je blijft opletten en verleent voorrang bij het oprijden.",
      "tekst": [
       "Een turborotonde heeft minstens twee rijstroken, door hoge lijnen of kleine betonnen randen gescheiden. Kies vóór je de rotonde oprijdt met borden en pijlen de juiste rijstrook, zodat je daar niet wisselt. Dat maakt het rijden voorspelbaarder en vermindert weefbewegingen.",
       "Stel je nadert een turborotonde op een stadsweg; twee rijstroken met randen ertussen. Je wilt de eerste afslag en ziet de pijlen al. Je sorteert vóór de rotonde rechts en blijft die pijl volgen, omdat je hier vooraf kiest en op de rotonde niet wisselt.",
       "Je verwart een turborotonde soms met een gewone rotonde. Denk niet dat je nog kunt wisselen; kijk eerder naar borden en pijlen.",
-      "Voor je ligt een turborotonde met verkeer dat rechtdoor wil. Je kiest vóór de rotonde de pijl linksaf. Op de rotonde wissel je niet; je kiest vooraf en volgt pijlen. Je verwart pijlen met binnen kiezen; je kiest vooraf."
+      "Voor je ligt een turborotonde met verkeer dat rechtdoor wil. Je kiest vóór de rotonde de pijl linksaf. Op de rotonde wissel je niet; je kiest vooraf en volgt pijlen."
      ],
      "artikelen": []
     },
@@ -562,11 +570,11 @@
     },
     {
      "kop": "Omleidingen en alternatieven: omleidingsroute, wegomleiding en uitwijkroute",
-     "kern": "Bij een omleiding volg je een tijdelijke routeaanduiding. Een uitwijkroute kies je om een drukte of blokkade te mijden.",
+     "kern": "Bij een omleiding volg je de tijdelijke gele borden. Een uitwijkroute (U-route) is een vaste route met blauwe borden en een nummer, zoals U12, die bij een afsluiting kan worden ingezet.",
      "tekst": [
-      "Een omleidingsroute, ook wel wegomleiding, is een tijdelijke route met borden. Je volgt die, omdat de normale route dicht is door werkzaamheden of een afsluiting. Een uitwijkroute is een alternatief om een opstopping of incident te mijden. Je kiest die zelf, of je volgt een advies. Let op borden en pijlen voor tijdelijke routes. Zo blijf je veilig en rijd je vlot door.",
+      "Een omleidingsroute, ook wel wegomleiding, is een tijdelijke route met borden. Je volgt die, omdat de normale route dicht is door werkzaamheden of een afsluiting. Een uitwijkroute (U-route) is een vaste route met blauwe borden en een nummer, zoals U12. Bij een afsluiting of incident kan die worden ingezet; je volgt dan het nummer dat voor jouw bestemming wordt aangegeven. Let op borden en pijlen voor tijdelijke routes. Zo blijf je veilig en rijd je vlot door.",
       "Na de afzetting op een wijkweg staan gele borden rechtsaf. Voor je slaat verkeer al af. Je volgt die pijlen, ook al stuurt je navigatie rechtdoor. Je doet dit omdat een omleidingsroute bij afsluiting de richting aangeeft.",
-      "Vaak gaat het mis tussen omleidingsroute en uitwijkroute. De eerste volg je via borden; de tweede kies je zelf. Rijd je een geslotenverklaring voorbij, een verbod om die weg te gebruiken, dan negeer je tijdelijke borden."
+      "Vaak gaat het mis tussen omleidingsroute en uitwijkroute. Een omleiding is tijdelijk en heeft gele borden; een U-route is vast, blauw en genummerd. Een geslotenverklaring, een verbod om die weg te gebruiken, volg je altijd op; de omleidingsborden wijzen je dan de weg."
      ],
      "artikelen": []
     },
@@ -575,7 +583,7 @@
      "kern": "Een viaduct is een brug over weg of spoor en een veerpont een boot die jou en je voertuig over water zet.",
      "tekst": [
       "Een viaduct laat een weg over een andere weg, spoorlijn of water heen lopen. Zo kruisen ze niet, wat de doorstroming en de veiligheid verbetert.",
-      "Een veerpont zet jou en soms je voertuig over een waterkering. Je gaat naar de overkant, vaak op een route zonder brug.",
+      "Een veerpont zet jou en soms je voertuig over water, zoals een rivier of kanaal. Je gaat naar de overkant, vaak op een route zonder brug.",
       "Volg de aanwijzingen en borden ter plaatse bij viaduct of veerpont. Pas je rijgedrag aan de situatie aan.",
       "Sommigen denken dat je verkeer onder een viaduct voorrang moet geven, maar die wegen kruisen niet. Bij een veerpont volg je plaatselijke aanwijzingen en borden.",
       "Verwarring ontstaat tussen viaduct en kruispunt. Voorrang regel je op kruispunten. Wegen bij een viaduct kruisen niet. Bij een veerpont bepalen borden en personeel de volgorde, niet jij zelf.",
@@ -626,11 +634,11 @@
     },
     {
      "kop": "Hulpdiensten en werkvoertuigen: herkenning en signalen",
-     "kern": "Bij een dringende taak zie je bij hulpdiensten blauw zwaai-, flits- of knipperlicht en hoor je een tweetonige hoorn; bij werkzaamheden mogen voertuigen geel of groen zwaai-, flits- of knipperlicht voeren.",
+     "kern": "Bij een dringende taak zie je bij hulpdiensten blauw zwaai-, flits- of knipperlicht en hoor je een tweetonige hoorn; bij werkzaamheden voeren voertuigen onder voorwaarden geel of groen zwaai-, flits- of knipperlicht. Alleen blauw licht mét tweetonige hoorn maakt een voertuig tot voorrangsvoertuig; geel of groen licht waarschuwt, maar geeft geen voorrang.",
      "tekst": [
       "Bij politie, brandweer en spoedeisende medische hulpverlening zie je bij een dringende taak blauw zwaai-, flits- of knipperlicht. Je hoort een tweetonige hoorn. Overdag mogen ze aanvullend knipperende koplampen voeren. Bij bepaalde werkzaamheden zie je voertuigen die soms geel of groen zwaai-, flits- of knipperlicht voeren.",
       "In een woonstraat verschijnt achter je een voertuig met blauw flitslicht en een tweetonige hoorn. Je kijkt in je spiegels, checkt de kleur en let overdag op knipperende koplampen. Dat doe je omdat blauw met die hoorn een dringende taak betekent.",
-      "Bij werkzaamheden voert die dienst geel of groen; alleen de eerste uitvoerder mag blauw. Knipperende koplampen zijn aanvullend overdag.",
+      "Werkt een hulpdienst ter plaatse, dan voert die geel of groen in plaats van blauw; alleen het voertuig dat als eerste of enige ter plaatse is, mag blauw voeren. Knipperende koplampen zijn aanvullend overdag.",
       "Op een autoweg staat een afzetting met werkvoertuigen met geel of groen licht. Eén voertuig voert blauw licht en een tweetonige hoorn. Jij checkt de signalen, want blauw met die hoorn betekent een dringende taak; geel of groen hoort bij werkzaamheden."
      ],
      "artikelen": [
@@ -1316,6 +1324,7 @@
       "Je denkt misschien dat alleen een te hoge uitslag strafbaar is. Niet meewerken is ook een overtreding, ook als je nuchter bent."
      ],
      "artikelen": [
+      "WVW 163",
       "WVW 176"
      ]
     }
@@ -1413,9 +1422,9 @@
      "kern": "Voor een motorrijtuig of aanhangwagen met kenteken is een keuringsbewijs verplicht dat aan RDW-eisen voldoet, geldig en leesbaar is, en bij overtreding ben je als eigenaar of houder en bij rijden ook als bestuurder aansprakelijk.",
      "tekst": [
       "Heeft je motorrijtuig of aanhangwagen een kenteken, of moet dat hebben? Dan moet er een keuringsbewijs zijn afgegeven. Dat keuringsbewijs moet voldoen aan eisen van de Dienst Wegverkeer voor inrichting en uitvoering, geldig zijn en goed leesbaar. Bij een overtreding ben je als eigenaar of houder aansprakelijk; rijd je ermee, dan ben je als bestuurder aansprakelijk. Bestuurder: iemand die een voertuig bestuurt.",
-      "Woonstraat, je stapt in een auto met aanhangwagen. Het keuringsbewijs blijkt onleesbaar. Je rijdt niet weg en vraagt eerst om een geldig, leesbaar bewijs. Want voor voertuigen met kenteken is dat verplicht; rijd je toch, dan ben jij als bestuurder ook aansprakelijk.",
+      "Je leent een auto. Met de kentekencheck van de RDW zie je dat de APK is verlopen. Je rijdt niet weg, want dan is het keuringsbewijs niet meer geldig; rijd je toch, dan ben jij als bestuurder ook aansprakelijk.",
       "Begrijp de reikwijdte goed: de plicht hangt aan kentekenplicht. Vergeet leesbaarheid niet. Rij je met een aanhangwagen, dan ben jij als bestuurder aansprakelijk.",
-      "Verwar keuringsbewijs niet met kentekenbewijs of verzekeringspapieren. Leesbaarheid zelf is een eis. Onleesbaar geldt dus als niet in orde."
+      "Verwar het keuringsbewijs niet met het kentekenbewijs of de verzekering. Het keuringsbewijs is de registratie bij de RDW dat je voertuig is goedgekeurd. Bij een APK-plichtig voertuig verliest het zijn geldigheid als de APK verloopt. Niet elk voertuig met kenteken is APK-plichtig, en het APK-rapport hoef je niet bij je te hebben."
      ],
      "artikelen": [
       "WVW 72"
@@ -1536,8 +1545,8 @@
      "kern": "Voor een auto of aanhangwagen waarvoor een kenteken is of moet zijn opgegeven, moet een geldig en leesbaar keuringsbewijs aanwezig zijn en bij rijden is ook de bestuurder aansprakelijk.",
      "tekst": [
       "Heeft je motorrijtuig of aanhangwagen een kenteken, of moet dat, dan moet er een keuringsbewijs zijn afgegeven. Keuringsbewijs: bewijs dat het voertuig is goedgekeurd. Het keuringsbewijs moet voldoen aan de eisen die de RDW vaststelt en het mag niet verlopen zijn. Het moet goed leesbaar zijn. Bij overtreding zijn de eigenaar of houder aansprakelijk, en rijd je met het motorrijtuig, ook de bestuurder. Bij een aanhangwagen geldt dit voor eigenaar of houder en de bestuurder van het trekkende motorrijtuig.",
-      "Je staat op een parkeerterrein met een geleende aanhangwagen met kenteken. Je controleert het keuringsbewijs en ziet dat het onleesbaar is. Je rijdt niet weg en vraagt om een geldig, leesbaar bewijs, want zo'n aanhangwagen moet een geldig keuringsbewijs hebben; rijd je toch, dan ben jij als bestuurder aansprakelijk.",
-      "Een kentekenplaat is niet genoeg; je hebt een geldig, leesbaar keuringsbewijs nodig en bij een aanhangwagen ben je als bestuurder aansprakelijk."
+      "Je staat op een parkeerterrein met een geleende auto. Met de kentekencheck van de RDW zie je dat de APK is verlopen. Je rijdt niet weg, want het keuringsbewijs is dan niet meer geldig; rijd je toch, dan ben jij als bestuurder aansprakelijk.",
+      "Een kentekenplaat is niet genoeg; er moet een geldig keuringsbewijs zijn. Dat is iets anders dan het kentekenbewijs. Niet elk voertuig met kenteken is APK-plichtig, en het APK-rapport hoef je niet bij je te hebben. Bij een aanhangwagen ben je als bestuurder van de trekkende auto aansprakelijk."
      ],
      "artikelen": [
       "WVW 72"
@@ -1581,10 +1590,10 @@
     },
     {
      "kop": "Dashboard, symbolen en hulpmiddelen",
-     "kern": "Het dashboard toont met meters en symbolen de staat van de auto en bedient ABS, achterruitverwarming, cruise control en navigatiesysteem.",
+     "kern": "Het dashboard toont met meters en controlelampjes de staat van de auto. Met knoppen bedien je onder meer de achterruitverwarming, cruise control en het navigatiesysteem. ABS werkt automatisch; het lampje waarschuwt alleen bij een storing.",
      "tekst": [
       "Het dashboard is het paneel met meters en lampjes die je informatie geven. Elk lampje is een symbool van een onderdeel of systeem.",
-      "Start je de auto, dan hoort het ABS-lampje kort te branden, en blijft het aan dan is er een storing. De toerentalmeter toont hoe snel de motor draait.",
+      "Start je de auto, dan hoort het ABS-lampje kort te branden; blijft het aan, dan is er een storing. ABS werkt vanzelf als je hard remt; je bedient het niet. De toerentalmeter toont hoe snel de motor draait.",
       "Met de knop voor achterruitverwarming maak je de achterruit snel weer helder. Cruise control helpt je een snelheid vast te houden. Het navigatiesysteem geeft route-informatie en kan waarschuwen voor files of afslagen.",
       "Je rijdt in een woonstraat bij motregen en je achterruit beslaat. Je drukt de knop voor achterruitverwarming in en controleert je zicht in de spiegel. Dat doe je, want de knop met het symbool maakt de ruit snel helder.",
       "Je verwart de toerentalmeter met de snelheidsmeter, maar hij toont alleen motortoeren. Je denkt soms dat cruise control aanpast, maar het houdt slechts je ingestelde snelheid vast.",
@@ -1635,15 +1644,17 @@
     },
     {
      "kop": "Lading vervoeren: hoeveel mag uitsteken en wanneer moet je markeren",
-     "kern": "Aan de zijkant hooguit 20 centimeter; meer dan 1 meter achter markeren met rood‑wit bord en verlichting; onder 4 meter blijven; lading altijd zekeren.",
+     "kern": "Met een personenauto mag lading aan elke zijkant hooguit 20 centimeter uitsteken, en voor of achter hooguit 1 meter. Lading zeker je zo dat ze bij een noodstop of uitwijken niet kan verschuiven of vallen.",
      "tekst": [
-      "Aan de zijkant mag die hooguit 20 centimeter uitsteken; de totale breedte blijft binnen de wettelijke grens. Steekt de lading achter meer dan 1 meter uit, dan hang je aan het uiterste punt een rood‑wit markeringsbord met verlichting in het donker. Auto met lading blijft onder 4 meter. Je zekert de lading zo dat niets kan verschuiven of vallen.",
-      "Op een bedrijventerrein haal je lange planken; ze steken achter meer dan 1 meter uit. Je zet ze stevig vast, hangt het markeringsbord aan het uiterste punt en voeg je bij donker verlichting toe. Omdat uitstekende lading zichtbaar moet zijn en niet mag verschuiven. Je rijdt pas weg als alles klopt.",
+      "Met een personenauto mag lading aan elke zijkant hooguit 20 centimeter uitsteken, en voor of achter hooguit 1 meter. Op een aanhangwagen of bedrijfsauto mag lading die in de lengte ondeelbaar is verder uitsteken; steekt die meer dan 1 meter voor of achter uit, dan markeer je het uiteinde met een rood-wit markeringsbord en bij donker met verlichting. Je zekert de lading zo dat niets kan verschuiven of vallen, ook niet bij een noodstop of uitwijken.",
+      "Op een bedrijventerrein laad je lange planken op een aanhangwagen; ze steken achter meer dan 1 meter uit. Je zet ze stevig vast, hangt het markeringsbord aan het uiterste punt en voegt bij donker verlichting toe, omdat uitstekende lading zichtbaar moet zijn en niet mag verschuiven. Met een personenauto zou dit niet mogen: daar mag lading niet meer dan 1 meter achter uitsteken.",
       "Het gaat vaak mis bij details: een vlaggetje is geen markeringsbord, en in het donker hoort verlichting erbij. Je moet echt zekeren voor een noodstop."
      ],
      "artikelen": [
       "RVGT 5.18.6",
-      "RVV 5"
+      "RVGT 5.18.12",
+      "RVGT 5.18.13",
+      "RVGT 5.18.14"
      ]
     },
     {
@@ -1661,11 +1672,11 @@
     },
     {
      "kop": "Aanhangwagen: wat je met rijbewijs B mag trekken",
-     "kern": "Met rijbewijs B trek je tot 750 kg TMM of, zwaarder, zolang de combinatie onder 3.500 kg blijft, met eigen kentekenplaat en maximaal 90 km/h.",
+     "kern": "Met rijbewijs B trek je een aanhangwagen tot 750 kg toegestane maximummassa (TMM). Is de aanhangwagen zwaarder, dan mag de TMM van auto en aanhangwagen samen niet meer zijn dan 3.500 kg. Let ook op het maximale trekgewicht van je auto.",
      "tekst": [
-      "Met rijbewijs B trek je een aanhangwagen tot 750 kg toegestane maximummassa (TMM, het maximaal toegestane gewicht). Is de aanhangwagen zwaarder, dan mag het als de combinatie onder 3.500 kg blijft. De aanhangwagen voert een eigen kentekenplaat. Je rijdt maximaal 90 km/h.",
-      "Je rijdt op een snelweg met een aanhangwagen van meer dan 750 kg TMM. Je controleert de combinatie en blijft onder 3.500 kg. Want dat mag met rijbewijs B en met aanhanger geldt 90 km/h. Je voert de eigen kentekenplaat en rijdt 90.",
-      "Het gaat mis als je naar gewicht kijkt in plaats van TMM. Of als je denkt dat boven 750 kg altijd rijbewijs BE nodig is. Jij onthoudt de kentekenplaat, 90 km/h met aanhanger, en de 3.500 kg."
+      "Met rijbewijs B trek je een aanhangwagen tot 750 kg toegestane maximummassa (TMM, het maximaal toegestane gewicht). Is de aanhangwagen zwaarder, dan mag de TMM van auto en aanhangwagen samen niet meer zijn dan 3.500 kg. Let ook op het maximale trekgewicht dat op het kentekenbewijs van je auto staat. Een aanhangwagen tot 750 kg TMM voert een witte herhaalplaat met het kenteken van de auto; een zwaardere aanhangwagen heeft een eigen kenteken. Met een personenauto en een aanhangwagen tot 3.500 kg TMM rijd je maximaal 90 km/u, en nooit sneller dan de limiet op de weg.",
+      "Je rijdt op een snelweg met een aanhangwagen van meer dan 750 kg TMM. Je hebt vooraf gecontroleerd dat de TMM van auto en aanhangwagen samen niet boven 3.500 kg komt en dat je auto die aanhangwagen mag trekken. Op de snelweg rijd je met deze combinatie maximaal 90 km/u.",
+      "Het gaat mis als je naar het werkelijke gewicht kijkt in plaats van de TMM, of als je denkt dat boven 750 kg altijd rijbewijs BE nodig is. Onthoud: 750 kg TMM voor de aanhangwagen, of samen niet meer dan 3.500 kg TMM, en maximaal 90 km/u."
      ],
      "artikelen": [
       "RRB 15",
@@ -1736,13 +1747,14 @@
     },
     {
      "kop": "Pech of brand in een tunnel",
-     "kern": "In een tunnel stop je veilig en verlaat je via de nooduitgang; keren of achteruit rijden is nooit een optie.",
+     "kern": "Bij pech in een tunnel zet je je alarmlichten aan en zet je de auto zo dicht mogelijk tegen de tunnelwand. Keren of achteruitrijden is nooit een optie. Bij rook of brand verlaat je de auto en ga je via de dichtstbijzijnde nooduitgang naar buiten.",
      "tekst": [
-      "In een tunnel keer je nooit en rijd je nooit achteruit. Kun je niet verder, zet de motor uit, laat de sleutel zitten en ga via de dichtstbijzijnde nooduitgang. Bij brand loop je van de rook weg. Keren is levensgevaarlijk: verkeer achter je ziet je laat in het donker. Een vluchthaven is een korte uitwijkplek met noodtelefoon en brandblusapparaat.",
-      "Je auto valt stil in een tunnel. Jij stuurt naar een vluchthaven, zet de motor uit en laat de sleutel zitten. Omdat keren of achteruit rijden verboden en gevaarlijk is, ga je via de nooduitgang en bel je met de noodtelefoon.",
-      "Hier gaat het vaak mis op het examen. Kandidaten willen terugrijden of blijven in de auto. Onthoud: je verlaat de auto direct en volgt de borden naar de nooduitgang."
+      "In een tunnel keer je nooit en rijd je nooit achteruit: verkeer achter je ziet je laat. Heb je pech, zet dan je alarmlichten aan, zet de auto zo dicht mogelijk tegen de tunnelwand, zet de motor uit en laat de sleutel zitten. Stap voorzichtig uit, liefst met een veiligheidshesje, loop langs de tunnelwand naar de dichtstbijzijnde hulppost en bel via de noodtelefoon de wegverkeersleider. Bij rook of brand loop je van de rook weg en verlaat je de tunnel via de dichtstbijzijnde nooduitgang. Een vluchthaven is een korte uitwijkplek met noodtelefoon en brandblusapparaat.",
+      "Je auto valt stil in een tunnel. Je zet je alarmlichten aan, rijdt als het kan door naar een vluchthaven of zet de auto tegen de tunnelwand, zet de motor uit en laat de sleutel zitten. Je loopt langs de wand naar de hulppost en belt met de noodtelefoon. Keren of achteruitrijden doe je niet, omdat dat verboden en gevaarlijk is.",
+      "Hier gaat het vaak mis op het examen. Kandidaten willen terugrijden of blijven in de auto zitten. Onthoud: bij pech meld je je via de noodtelefoon en volg je de aanwijzingen; bij rook of brand ga je direct via de nooduitgang naar buiten."
      ],
      "artikelen": [
+      "RVV 23",
       "RVV 43",
       "RVV 58"
      ]
@@ -1789,13 +1801,14 @@
     },
     {
      "kop": "Werkzaamheden op de weg en hulpvoertuigen",
-     "kern": "Motorvoertuigen die voor werkzaamheden worden gebruikt voeren onder bepaalde omstandigheden geel of groen zwaai-, flits- of knipperlicht en de eerste of enige die ter plekke komt mag in plaats daarvan blauw voeren.",
+     "kern": "Voertuigen bij werkzaamheden voeren onder voorwaarden geel of groen zwaai-, flits- of knipperlicht. Dat waarschuwt, maar geeft geen voorrang. Alleen een voorrangsvoertuig, met blauw licht én tweetonige hoorn, laat je voorgaan.",
      "tekst": [
-      "Let extra op en geef ze ruimte voor hun werk. Bij pech of een ongeval kom je voertuigen van wegwerkers of hulpdiensten tegen met geel of groen licht. Is zo'n voertuig de eerste of enige ter plaatse, dan mag het blauw zwaai-, flits- of knipperlicht voeren. Dat vervangt geel of groen.",
-      "Stel je rijdt op een autosnelweg. Een werkvoertuig is als eerste ter plaatse, met blauw knipperlicht. Jij mindert snelheid, geeft ruimte en passeert pas als het veilig kan. Dat doe je omdat de eerste of enige blauw mag voeren in plaats van geel of groen.",
-      "Je verwart soms geel of groen met blauw. Bij werkzaamheden geldt geel of groen; alleen de eerste of enige voert blauw."
+      "Let extra op en geef ze ruimte voor hun werk. Bij pech of een ongeval kom je voertuigen van wegwerkers of hulpdiensten tegen met geel of groen licht. Hulpdiensten die ter plaatse werken, voeren ook geel of groen in plaats van blauw; alleen het voertuig dat als eerste of enige ter plaatse komt, mag blauw voeren.",
+      "Stel je rijdt op een autosnelweg. Bij een ongeval staat een politieauto die als eerste ter plaatse kwam, met blauw knipperlicht; de bergingswagen erachter voert geel. Jij mindert snelheid, geeft ruimte en passeert pas als het veilig kan.",
+      "Je verwart soms geel of groen met blauw. Geel of groen licht waarschuwt bij werkzaamheden en geeft geen voorrang. Blauw licht met een tweetonige hoorn betekent een voorrangsvoertuig: dat laat je voorgaan."
      ],
      "artikelen": [
+      "RVV 29",
       "RVV 30"
      ]
     },
@@ -1878,10 +1891,10 @@
     },
     {
      "kop": "Je eigen toestand: reactietijd, remweg en stopafstand",
-     "kern": "De stopafstand is de afstand van waarnemen tot stilstaan: jouw reactietijd plus de remweg.",
+     "kern": "De stopafstand is de afstand van waarnemen tot stilstaan: de reactieafstand plus de remweg.",
      "tekst": [
       "Veel verwarring ontstaat bij het rekenen met afstanden. Noteer je de meters die je nog rijdt terwijl je voet naar het rempedaal gaat als remweg, dan klopt je antwoord niet. Dat is de afstand vóór de remactie. Afleiding, ook kort, maakt die meters langer omdat je later begint met remmen. Wegligging telt mee. Lichte regen en spoorvorming zorgen dat je auto langer doorrolt en minder koersvast is, waardoor de afstand na het intrappen van het rempedaal toeneemt.",
-      "Rechte autosnelweg met lichte regen en wat spoorvorming; voor je rijdt een bestelauto. Je houdt extra ruimte, laat op tijd gas los, checkt spiegels en remt vroeg, rechtuit en gelijkmatig. Je kijkt ver vooruit en houdt het stuur rustig. Zo beperk je glijden. De reden: stopafstand is de meters vóórdat je remt plus de meters tijdens het remmen, en water en groeven verlengen beide, dus je neemt meer marge."
+      "Rechte autosnelweg met lichte regen en wat spoorvorming; voor je rijdt een bestelauto. Je houdt extra ruimte, laat op tijd gas los, checkt spiegels en remt vroeg, rechtuit en gelijkmatig. Je kijkt ver vooruit en houdt het stuur rustig. Zo beperk je glijden. De reden: de stopafstand is de reactieafstand (de meters vóórdat je remt) plus de remweg (de meters tijdens het remmen), en water en groeven verlengen beide, dus je neemt meer marge."
      ],
      "artikelen": [],
      "ezelsbruggetjes": [
