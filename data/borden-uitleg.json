@@ -1,25 +1,25 @@
 {
  "A1": {
-  "betekenis": "Vanaf dit bord geldt de snelheidslimiet in kilometer per uur. Je rijdt niet harder dan het getal. Dat blijft zo tot een nieuw bord of een einde-bord het wijzigt.",
+  "betekenis": "Vanaf dit bord geldt de aangegeven maximumsnelheid in kilometer per uur voor het betreffende wegvak. Lees eventuele onderborden en let op of het een zone betreft.",
   "watdoejij": "Je past je snelheid direct aan en blijft onder het getal. Bij drukte, regen, duisternis of slecht wegdek rijd je rustiger dan de limiet. Je kijkt vaak op je snelheidsmeter of cruisecontrol en houdt voldoende volgafstand. Staat er een onderbord met tijden, voertuigsoorten of bij nat wegdek, dan volg je dat.",
   "waarzieje": "Je ziet dit bord vaak bij in- en uitritten van dorpen en steden, vanwege voetgangers en fietsers. Ook op onoverzichtelijke buitenwegen of langs bebouwing kan het getal omlaag. Op autosnelwegen staat het bij wegwerkzaamheden of op trajecten met een lagere limiet. Verder kan het komen voor scherpe bochten, kruisingen of hellingen waar sneller rijden onveilig is.",
   "uitleg": [
-   "Dit bord geeft de limiet voor jouw snelheid. Het geldt op alle rijstroken in jouw richting en voor alle bestuurders. Bestuurder: iemand die een voertuig bestuurt. Een onderbord kan dit beperken tot een categorie, bijvoorbeeld vrachtwagens. Zonder zo’n beperking geldt het altijd, ook als het rustig is.",
-   "Het geldt precies vanaf het bord en loopt door tot een nieuw getal of een einde-bord. Stopt een kruispunt dit? Nee, de limiet blijft gelden. Sla je een andere weg in met een ander bord, dan volg je dat.",
+   "Dit bord geeft een maximumsnelheid voor bestuurders. Volgens het RVV zijn dat alle weggebruikers behalve voetgangers, dus ook fietsers, ruiters en geleiders van rij- of trekdieren of vee. Let op de plaatsing: de toepassing kan tot één of meer rijstroken beperkt zijn, bijvoorbeeld bij een bord boven een rijstrook. Een onderbord kan de toepassing verder beperken, bijvoorbeeld tot een voertuigcategorie of tijdvak. Zonder zo’n beperking geldt het bord ook als het rustig is.",
+   "Een gewoon snelheidsbord geldt vanaf het bord voor het betreffende wegvak. Bij een kruising blijft de beperking op de kruising gelden, tot het begin van het volgende wegvak. Controleer daar opnieuw de borden en de algemene regels voor weg en voertuig. Een eerder einde-bord of een ander snelheidsbord kan de beperking wijzigen. Een snelheidszone blijft ook na kruispunten gelden tot het einde van de zone.",
    "Onderborden geven extra voorwaarden, zoals tijden, bij nat wegdek of een voertuigsoort. Lees ze altijd samen met het getal. Dan weet je of de beperking soms niet geldt, of juist alleen voor jou.",
    "De limiet is geen doel, maar een bovengrens. Je kiest een veilige snelheid die past bij zicht, weer, verkeer en wegdek. Bij file, regen, mist, drempels of smalle rijbanen rijd je vaak ruim onder de limiet. Anticipeer op bochten en afslagen zodat je niet abrupt hoeft te remmen.",
    "Handhaving gebeurt vaak met flitspalen of trajectcontrole. Omdat je snelheidsmeter kan afwijken en omstandigheden wisselen, houd je een kleine marge onder het getal. Vertrouw niet alleen op navigatie of eerdere borden, maar kijk steeds naar nieuwe aanwijzingen."
   ],
   "fouten": [
-   "Denken dat de limiet stopt na het eerstvolgende kruispunt.",
+   "Een gewoon snelheidsbord verwarren met een snelheidszone, of al op het kruispunt versnellen omdat je denkt dat de beperking daar voorbij is.",
    "Bij regen, mist of drukte het getal blijven rijden in plaats van je snelheid aan te passen.",
-   "Aannemen dat het bord maar voor één rijstrook of alleen rechts geldt zonder onderbord.",
+   "Alleen naar onderborden kijken en de rijstrookgerichte plaatsing van een snelheidsbord missen.",
    "Onderborden negeren, zoals tijden, voertuigpictogrammen of bij nat wegdek."
   ],
   "verwar": [
    {
     "code": "A2",
-    "verschil": "Dit bord heeft een ondoorgekruist zwart getal zonder diagonale grijze strepen."
+    "verschil": "Dit bord heeft een ondoorgekruist zwart getal zonder diagonale zwarte strepen."
    },
    {
     "code": "A3",
@@ -30,8 +30,10 @@
     "verschil": "Dit bord is rond met rode rand en geen blauw vierkant."
    }
   ],
-  "examen": "Je herkent dat het getal de harde bovengrens is en dat het na een kruising blijft gelden tot je A2 of een nieuw getal ziet. Reken op vragen over onderborden, situaties bij wegwerkzaamheden en het kiezen van een veilige snelheid onder de limiet.",
-  "artikelen": []
+  "examen": "Herken de maximumsnelheid, het wegvak waarvoor het bord geldt en het verschil met een zone. A2 geeft het einde van de aangegeven maximumsnelheid aan. Let ook op onderborden en op omstandigheden die een lagere snelheid nodig maken.",
+  "artikelen": [
+   "RVV 65"
+  ]
  },
  "A2": {
   "betekenis": "De eerder ingestelde snelheidslimiet stopt hier; vanaf dit punt houd je je weer aan de algemene maximumsnelheden voor die weg en jouw voertuig of aan een nieuw bord dat verderop staat.",
@@ -68,14 +70,14 @@
   "artikelen": []
  },
  "A3": {
-  "betekenis": "Je mag hier maximaal de snelheid rijden die het elektronische bord toont. Dat is verplicht zolang het signaal aan staat.",
-  "watdoejij": "Kijk vooruit naar het getal en pas je snelheid vloeiend aan. Rem niet hard als dat niet hoeft. Let per rijstrook op het getal boven jouw strook. Staat daar een ander getal, dan volg je dat. Verandert later het getal of zie je een nieuw bord? Dan geldt vanaf dat bord direct de nieuwe limiet. Is voor jouw voertuigcategorie de maximumsnelheid lager, dan houd je die lagere waarde aan.",
+  "betekenis": "Je mag niet harder rijden dan de snelheid op het elektronische bord. Dit is een maximumsnelheid, geen advies.",
+  "watdoejij": "Kijk vooruit en pas je snelheid vloeiend aan. Let op het getal boven jouw rijstrook. Zijn een vast en een elektronisch snelheidsbord tegelijk van toepassing, dan geldt de laagste snelheid. Ook een lagere maximumsnelheid voor jouw voertuig blijft gelden. Een nieuw hoger getal geeft dus niet automatisch toestemming om harder te rijden.",
   "waarzieje": "Vooral op autosnelwegen en drukke ringwegen met dynamische snelheidsregeling. Vaak boven de rijstroken op portalen. Soms in de berm, als deel van een matrixbord of tunnelinstallatie. Je ziet ze bij spitsstroken, voor en in tunnels en bij bruggen. Ook bij wegwerkzaamheden en rond incidenten of files. Bij slecht weer of gladheid kan de snelheid tijdelijk omlaag.",
   "uitleg": [
    "Dit bord geeft een verplicht maximum. Een adviessnelheid is niet verplicht. Het getal van lampjes is de hoogste snelheid die je daar mag rijden. Het geldt direct vanaf het bord in jouw rijrichting. Verschilt het per rijstrook? Dan geldt het getal boven jouw strook.",
-   "De limiet geldt tot je een ander snelheidsbord passeert. Dat kan een nieuw getal op een elektronisch bord zijn, een normaal bord of een einde-bord. Neem je een afrit of ga je naar een andere rijbaan, dan geldt de limiet die daar staat. Wissel je van rijstrook, dan volg je de limiet van de strook waarop je rijdt.",
+   "Lees opeenvolgende borden samen met de overige geldende beperkingen. Een hoger getal op een elektronisch bord heft een lagere geldende limiet op een vast bord niet op. Neem je een afrit of wissel je van rijstrook, controleer dan welke beperkingen daar gelden. Een bord boven een rijstrook geldt voor die rijstrook.",
    "Je kiest altijd de meest beperkende regel. Het getal en extra tekens of onderborden kunnen verschillen, bijvoorbeeld bij regen of wegwerkzaamheden. Ook de algemene maximumsnelheid voor jouw voertuig kan lager zijn. Is jouw algemene maximum lager dan het getoonde getal, dan houd je die lagere waarde aan. Pas je snelheid aan de omstandigheden aan. Soms rij je veilig onder de limiet.",
-   "Toont het elektronische bord geen getal, dan stelt het nu geen nieuwe limiet in. De geldende snelheid komt dan uit eerdere borden. Staan er geen borden, dan geldt de algemene maximumsnelheid voor die weg en jouw voertuig. Verschijnt later weer een getal, dan geldt dat maximum vanaf dat bord.",
+   "Een matrixbord zonder getal is niet hetzelfde als het einde-teken F9. Kijk welke aanduiding wordt getoond: ook een rood kruis of pijl heeft een eigen betekenis. F9 beëindigt de verboden die op elektronische signaleringsborden zijn aangegeven. Het heft geen nog geldende beperking van een vast bord of lagere maximumsnelheid voor jouw voertuig op. Controleer dus steeds de toepasselijke borden, je rijstrook en de voertuigregels; leid niet alleen uit het ontbreken van een getal af dat je harder mag rijden.",
    "Deze borden sturen verkeer bij drukte, ongevallen, wegwerkzaamheden of slecht weer. De getoonde snelheid kan elk moment veranderen. Kijk vooruit, lees tijdig, en pas je snelheid soepel aan."
   ],
   "fouten": [
@@ -98,8 +100,9 @@
     "verschil": "Hier zie je variabele witte cijfers op een zwart matrixveld, niet op een blauw vlak."
    }
   ],
-  "examen": "Je herkent dit bord op matrixborden. De getoonde snelheid geldt direct vanaf het bord tot een ander snelheidsbord of een einde-bord. Reken op vragen over snelheden per rijstrook en het verschil met een adviessnelheid.",
+  "examen": "Een matrixsnelheid is verplicht, geen advies. Bij gelijktijdig geldende vaste en elektronische snelheidsborden kies je de laagste limiet. Let daarnaast op de rijstrook en op een lagere maximumsnelheid voor jouw voertuig.",
   "artikelen": [
+   "RVV 63b",
    "RVV 73"
   ]
  },
@@ -108,7 +111,7 @@
   "watdoejij": "Neem op tijd gas terug en richt je snelheid op het getal. Zo houd je controle op het stuk na het bord. Kijk ver vooruit en houd beide handen aan het stuur. Rem geleidelijk, zeker bij weinig zicht of op een natte weg. Let op je voertuig, belading en aanhangwagen. Is je combinatie zwaar of lang? Kies dan liever net onder het advies. Na het gevarenpunt bouw je weer rustig op, binnen de maximumsnelheid.",
   "waarzieje": "Je ziet dit bord vaak vóór een scherpe of onoverzichtelijke bocht. Ook bij een krappe afrit van de autosnelweg of voor een smalle brug. Het kan staan bij een wegversmalling, drempels of bochtige dijkwegen. Daar zijn boogstraal en zicht beperkt. In recreatie- of buitengebieden staat het bij gemengd verkeer op smalle, verharde wegen. Soms hangt er een extra bord of onderbord met de reden, zoals een bocht, drempel of slipgevaar.",
   "uitleg": [
-   "Blauw bord met wit getal en km/h. Het is een snelheidsadvies voor alle bestuurders op dat wegvak. Bestuurder: iemand die een voertuig bestuurt. Het getal is de richtsnelheid waarmee de gemiddelde bestuurder het volgende stuk veilig rijdt. De wettelijke maximumsnelheid blijft gelijk.",
+   "Blauw bord met wit getal en km/h. Het is een snelheidsadvies voor alle bestuurders op dat wegvak. Bestuurders zijn volgens het RVV alle weggebruikers behalve voetgangers; dus ook fietsers, ruiters en geleiders van rij- of trekdieren of vee. Het getal is de richtsnelheid waarmee de gemiddelde bestuurder het volgende stuk veilig rijdt. De wettelijke maximumsnelheid blijft gelijk.",
    "Rijd je harder dan het advies, dan volgt niet meteen een boete zolang je onder de maximumsnelheid blijft en controle houdt. Toch is het slim het advies te volgen. Het is afgestemd op boog, bochtstraal, wegbreedte, dwarsprofiel en plaatselijke omstandigheden. Bij regen, slecht wegdek, beperkt zicht of zware belading kan zelfs lager nodig zijn.",
    "Het advies geldt voor het wegvak direct na het bord. Daar zit het risico. Na het gevarenpunt laat je je snelheid weer oplopen, binnen de maximum. Een einde-bord kan duidelijk maken dat het bijzondere stuk voorbij is.",
    "Dit bord kan samen staan met een waarschuwingsbord of onderbord met de reden, zoals een scherpe bocht, slipgevaar, drempels of een krappe afrit. Dat helpt je vooruit te kijken en je positie en remtechniek aan te passen. Kies een vloeiende lijn, houd afstand, rem vóór de bocht en laat de auto door de bocht rollen, zonder onnodige correcties.",
@@ -230,7 +233,7 @@
   "artikelen": []
  },
  "B3": {
-  "betekenis": "Je nadert een kruispunt met voorrang op links en rechts. Zij moeten jou voorrang verlenen. Voorrang verlenen betekent jou eerst laten gaan.",
+  "betekenis": "Je nadert een kruispunt met voorrang op links en rechts. Zij moeten jou voorrang verlenen.",
   "watdoejij": "Rij met aangepaste snelheid naar het kruispunt, kijk ver vooruit en scan links en rechts. Ga door als het veilig is en je voorrang krijgt. Reken erop dat iemand geen voorrang verleent. Houd je rijstrook strak aan. Geef op tijd richting aan als je afslaat. Blijf remklaar. Stop alleen als het echt moet door de situatie. Niet omdat je denkt dat het hier hoort.",
   "waarzieje": "Je ziet dit bord op wegen met de hoofdrichting, vlak voor een kruispunt. Er zit een zijweg links én rechts. Je komt het binnen en buiten de bebouwde kom tegen. Bijvoorbeeld op 80‑km/u wegen of op drukke stadswegen. De hoofdrichting is daar duidelijk. Op de zijwegen staan vaak B6 of B7 en/of haaientanden. Haaientanden zijn witte driehoeken op het wegdek. Bestuurders daar moeten wachten. Soms staat het waar doorstroming op de hoofdrichting telt.",
   "uitleg": [
@@ -244,7 +247,7 @@
    "Denken dat dit alleen waarschuwt; het geeft jou voorrang op het komende kruispunt.",
    "Verwarren met een voorrangsweg; hier geldt het alleen voor dit ene kruispunt.",
    "Aannemen dat je bij afslaan geen rekening houdt met overstekers; voetgangers en een gehandicaptenvoertuig laat je dan voorgaan.",
-   "Verwarren wat op de zijweg staat; daar zie je meestal B6, B7 en/of haaientanden, geen gevaarsdriehoek met haaientanden."
+   "Verwarren wat op de zijweg staat; daar zie je meestal B6, B7 en/of haaientanden, niet dit bord."
   ],
   "verwar": [
    {
@@ -268,9 +271,9 @@
   "watdoejij": "Rijd rustig aan en kijk vroeg de linker zijweg in. Houd je lijn. Ga door als het vrij is. Komt er toch iemand uit de zijweg? Je remt. Sla je linksaf, dan laat je tegemoetkomers op de hoofdweg eerst gaan. Let ook op overstekende fietsers en voetgangers.",
   "waarzieje": "Op doorgaande routes in dorpen en steden met links een woonstraat of erftoegangsweg. Ook op 60‑ of 80‑kilometerwegen met links een landbouwweg of zijweg naar een drukkere voorrangsroute. Bij beperkt zicht, of om te benadrukken dat verkeer uit de zijweg moet wachten.",
   "uitleg": [
-   "Dit bord waarschuwt voor een T‑aansluiting. Jouw weg is de doorgaande weg; links sluit een zijweg aan. Bestuurders uit die zijweg moeten je voorrang verlenen. Een bestuurder is iemand die een voertuig bestuurt. Voorrang verlenen is eerst voor laten gaan. Vaak staan er haaientanden of een bord op de zijweg. Haaientanden zijn witte driehoeken op het wegdek.",
+   "Dit bord waarschuwt voor een T‑aansluiting. Jouw weg is de doorgaande weg; links sluit een zijweg aan. Bestuurders uit die zijweg moeten je voorrang verlenen. Vaak staan er haaientanden of een bord op de zijweg. Haaientanden zijn witte driehoeken op het wegdek.",
    "Het gaat om het eerstvolgende kruispunt na het bord. Daarna heb je niet automatisch nog steeds voorrang. Dan gelden weer de borden en markeringen ter plekke. Ontbreken die, dan geldt rechts gaat voor links. Dit bord waarschuwt dus voor één specifiek punt.",
-   "Voor je rijtaak: ga je rechtdoor, dan rijd je door als het vrij is van verkeer uit de linker zijweg. Sla je linksaf de zijweg in, dan verleen je ondanks je voorrang voorrang aan tegemoetkomers op de hoofdweg. Zij gaan rechtdoor of slaan rechtsaf. Die tegenliggers rijden ook op de voorrangsroute.",
+   "Voor je rijtaak: ga je rechtdoor, dan rijd je door als het vrij is van verkeer uit de linker zijweg. Sla je linksaf de zijweg in, dan laat je ondanks je voorrang tegemoetkomers op de hoofdweg voor gaan. Zij gaan rechtdoor of slaan rechtsaf. Die tegenliggers rijden ook op de voorrangsroute.",
    "Het bord regelt de voorrang tussen bestuurders. Voetgangers en fietsers kunnen een eigen oversteek of markering hebben. Bijvoorbeeld een zebrapad of haaientanden op een kruisend fietspad. Kijk niet alleen de zijweg in. Kijk ook langs de hoofdrijbaan naar parallelle en kruisende fiets‑ of voetpaden.",
    "Hoewel je voorrang hebt, blijf je defensief rijden. Verwacht dat iemand uit de zijweg je niet ziet of te vroeg doorrijdt. Nader zo dat je nog kunt stoppen als dat nodig is. Zeker bij beperkt zicht door geparkeerde auto's, hagen of landbouwvoertuigen."
   ],
@@ -298,19 +301,19 @@
   "artikelen": []
  },
  "B5": {
-  "betekenis": "Voor je ligt een kruispunt met een zijweg rechts. Verkeer uit die zijweg moet jou voor laten gaan. Voor laten gaan betekent: jij mag eerst.",
-  "watdoejij": "Houd marge in je snelheid, zodat je kunt reageren. Kijk ver vooruit en extra naar rechts. Check spiegels en houd remgereed. Wil je rechtsaf, geef op tijd richting en ga rechts rijden. Is het vrij en laten anderen jou voor laten gaan, rijd vlot door.",
+  "betekenis": "Voor je ligt een kruispunt met een zijweg rechts. Verkeer uit die zijweg moet jou voorrang verlenen.",
+  "watdoejij": "Houd marge in je snelheid, zodat je kunt reageren. Kijk ver vooruit en extra naar rechts. Check spiegels en houd remgereed. Wil je rechtsaf, geef op tijd richting en ga rechts rijden. Is het vrij en verlenen anderen jou voorrang, rijd dan vlot door.",
   "waarzieje": "Dit bord staat vaak langs doorgaande wegen met kleine zijwegen. Ook buiten de bebouwde kom. Bij dorpen en wijken langs een drukke hoofdroute met rechts een woonstraat. Verder bij aansluitingen van bedrijventerreinen of landbouwwegen op een hoofdweg.",
   "uitleg": [
    "Dit waarschuwingsbord meldt een kruispunt direct voor je, met rechts een zijweg. Jij rijdt op de route die daar voorrang heeft. Het bord toont niet alleen het kruispunt, maar ook de voorrang. Pas daarom je plaats en snelheid op tijd aan.",
-   "Bestuurders uit de rechter zijweg moeten jou voor laten gaan. Een bestuurder is iemand die een voertuig bestuurt. Op hun weg staan tekens die dit afdwingen, zoals een bord 'voorrang verlenen', een stopbord of haaientanden. Haaientanden zijn witte driehoeken op het wegdek. Voor jou is dit een waarschuwing. Geen vrijbrief om zonder kijken door te rijden. Reken erop dat iemand een fout maakt of je te laat ziet.",
+   "Bestuurders uit de rechter zijweg moeten jou voorrang verlenen. Op hun weg staan tekens die dit afdwingen, zoals een bord 'voorrang verlenen', een stopbord of haaientanden. Haaientanden zijn witte driehoeken op het wegdek. Voor jou is dit een waarschuwing. Geen vrijbrief om zonder kijken door te rijden. Reken erop dat iemand een fout maakt of je te laat ziet.",
    "Pak het zo aan: kijk vroeg, en pas je snelheid licht aan. Zoek oogcontact als dat kan. Kijk niet alleen naar de eerste meters, maar dieper de zijstraat in. Zo zie je verkeer op tijd, bijvoorbeeld een fietser die nadert. Is het zicht beperkt, rijd zo langzaam dat je binnen je zichtafstand kunt stoppen.",
-   "Wil je rechtsaf de zijweg in, geef ruim op tijd richting. Check je rechterspiegel en dode hoek, en pas je snelheid aan. Verkeer uit de zijweg moet jou nog steeds voor laten gaan. Neem geen risico als iemand toch doorrijdt. Blijf voorspelbaar en stuur de bocht vloeiend in als het veilig is. Bij drukte kan kort, voorzichtig remmen duidelijkheid geven, achter jou en in de zijweg."
+   "Wil je rechtsaf de zijweg in, geef ruim op tijd richting. Check je rechterspiegel en dode hoek, en pas je snelheid aan. Verkeer uit de zijweg moet jou nog steeds voorrang verlenen. Neem geen risico als iemand toch doorrijdt. Blijf voorspelbaar en stuur de bocht vloeiend in als het veilig is. Bij drukte kan kort, voorzichtig remmen duidelijkheid geven, achter jou en in de zijweg."
   ],
   "fouten": [
    "Zonder kijken doorrijden omdat jij voorrang hebt.",
    "Denken dat dit bord de hele route een voorrangsweg maakt, en verderop voorrang verwachten.",
-   "Het pijlsymbool slordig lezen en denken dat de zijweg links ligt.",
+   "Het kruispuntsymbool slordig lezen en denken dat de zijweg links ligt.",
    "Te laat richting geven of de dode hoek missen bij rechtsaf de zijweg in."
   ],
   "verwar": [
@@ -331,7 +334,7 @@
   "artikelen": []
  },
  "B6": {
-  "betekenis": "Je verleent voorrang aan bestuurders op de kruisende weg. Voorrang verlenen is eerst laten gaan. Bestuurders sturen een voertuig. Een kruisende weg kruist jouw richting.",
+  "betekenis": "Je verleent voorrang aan bestuurders op de kruisende weg. Een kruisende weg kruist jouw richting.",
   "watdoejij": "Je remt op tijd af en bent klaar om te stoppen. Je kijkt links en rechts en laat bestuurders op de kruisende weg eerst gaan. Is het veilig en vrij? Dan rijd je het kruispunt op.",
   "waarzieje": "Je ziet dit bord bij kruispunten waar je geen voorrang hebt. Vaak staat het met haaientanden op het wegdek: witte driehoeken die betekenen dat jij voorrang verleent. Het staat zo dat je op tijd kunt remmen en overzicht hebt.",
   "uitleg": [
@@ -524,14 +527,14 @@
   "uitleg": [
    "Het verbod raakt drie groepen: bromfietsen, snorfietsen en gehandicaptenvoertuigen met ingeschakelde motor. Het motortype maakt niet uit, benzine of elektrisch. Gebruik je de motor om te rijden, dan geldt het verbod. Andere bestuurders, zoals automobilisten, motorfietsers en fietsers, mogen doorrijden, tenzij een ander bord of onderbord anders aangeeft.",
    "Let op de toevoeging bij gehandicaptenvoertuigen: met ingeschakelde motor. Rijdt het voertuig op de motor, dan mag het niet verder. Zonder motor mag het wel passeren, bijvoorbeeld duwend of op spierkracht. In de praktijk rijden de meeste hier dus niet, want zij gebruiken meestal de motor.",
-   "Het verbod geldt vanaf het bord tot de eerstvolgende kruising, of tot een opheffingsbord. Staat er zone op een zonebord, dan geldt de geslotenverklaring in het hele gebied. Geslotenverklaring is een verbod dat uit een bord volgt. Onderborden noemen tijden, dagen of uitzonderingen, bijvoorbeeld voor bewoners of bezorging. Lees die mee om te weten wie wanneer mag inrijden.",
+   "Het verbod geldt vanaf het bord tot de eerstvolgende kruising. Staat er zone op een zonebord, dan geldt de geslotenverklaring in het hele gebied. Geslotenverklaring is een verbod dat uit een bord volgt. Onderborden noemen tijden, dagen of uitzonderingen, bijvoorbeeld voor bewoners of bezorging. Lees die mee om te weten wie wanneer mag inrijden.",
    "Voor jou als automobilist verandert vooral wie je kunt tegenkomen. Je ziet hier normaal geen brom- of snorfietsen en geen rijdende gehandicaptenvoertuigen. Het lijkt rustiger. Blijf letten op langzaam verkeer, zoals fietsers en voetgangers. Pas je snelheid aan en reken op overstekende of afslaande fietsers, vooral in winkelstraten en verblijfsgebieden."
   ],
   "fouten": [
    "Motorfietsen zouden ook verboden zijn: onjuist. Alleen bromfietsen, snorfietsen en gehandicaptenvoertuigen met ingeschakelde motor zijn verboden.",
    "Gehandicaptenvoertuigen zouden altijd verboden zijn: alleen bij motorgebruik geldt het verbod. Zonder motor mag je passeren.",
    "Dit zou een fietsverbod zijn: nee, fietsen mogen hier rijden. Alleen borden voor fietsen, zoals C14 of C15, verbieden fietsen.",
-   "Aannemen dat het verbod tot het eind van de straat loopt: kijk beter. Het eindigt bij de eerstvolgende kruising, een opheffingsbord of het einde van de zone."
+   "Aannemen dat het verbod tot het eind van de straat loopt: kijk beter. Het eindigt bij de eerstvolgende kruising of het einde van de zone."
   ],
   "verwar": [
    {
@@ -557,7 +560,7 @@
   "uitleg": [
    "Dit verbod geldt voor twee groepen: fietsers en gehandicaptenvoertuigen zonder motor. Alle fietsen tellen mee, ook een e‑bike met trapondersteuning. Niet‑gemotoriseerde gehandicaptenvoertuigen mogen hier dus ook niet rijden.",
    "Wat mag wel: met de fiets aan de hand tel je als voetganger. Dat kan alleen waar voetgangers zijn toegestaan; bij C16 niet. Een gehandicaptenvoertuig met motor, zoals een scootmobiel, valt buiten dit verbod. Tenzij een ander bord dat regelt, bijvoorbeeld C13 of C15.",
-   "Het verbod geldt vanaf het bord tot het eerstvolgende kruispunt. Of tot een ander bord het opheft of wijzigt. Onderborden kunnen tijden of uitzonderingen aangeven. Na het kruispunt is het verbod weg als er geen herhaling staat.",
+   "Het verbod geldt vanaf het bord tot het eerstvolgende kruispunt. Of tot een ander bord het wijzigt. Onderborden kunnen tijden of uitzonderingen aangeven. Na het kruispunt is het verbod weg als er geen herhaling staat.",
    "Voor jou als automobilist rijdt er minder langzaam verkeer op de rijbaan. Toch kun je fietsers kruisen bij zijwegen, overstekers of uitritten. Scan vooruit en pas je snelheid en positie aan. Let op fietsers op het naastgelegen fietspad en bij in‑ en uitvoegpunten.",
    "Dit bord houdt de verkeersstroom vlot en veilig waar fietsen niet past. Het stuurt fietsers naar een veiliger alternatief, bijvoorbeeld een vrijliggend fietspad. Bij werkzaamheden kan dat een omleiding rond het werkvak zijn."
   ],
@@ -565,7 +568,7 @@
    "Denken dat een e‑bike mag omdat er een motor op zit. Een e‑bike is een fiets en valt hier dus onder.",
    "Aannemen dat ook brom‑ en snorfietsen hier verboden zijn. Die horen niet bij dit bord, tenzij een ander bord dat aangeeft.",
    "Vergeten dat je met de fiets aan de hand meestal als voetganger telt. Niet waar voetgangers verboden zijn (C16) of waar het onveilig is.",
-   "Denken dat het tot het einde van de weg geldt. Meestal stopt het bij het volgende kruispunt of een opheffend bord."
+   "Denken dat het tot het einde van de weg geldt. Meestal stopt het bij het volgende kruispunt."
   ],
   "verwar": [
    {
@@ -610,14 +613,14 @@
   "artikelen": []
  },
  "C16": {
-  "betekenis": "Na dit bord mag niemand lopen. Jij rijdt door en laat geen voetganger verder.",
+  "betekenis": "Na dit bord mag niemand lopen. Laat hier dus niemand uitstappen om verder te lopen.",
   "watdoejij": "Moet je afzetten of ophalen, check je route vóór het bord. Stop anders vóór het bord. Laat niemand uitstappen om naar binnen te lopen, en ga zelf niet te voet verder. Rijd rustig door. Blijf alert op personeel met een onderbord.",
   "waarzieje": "Bij ingangen van bedrijfsterreinen, laad- en loskades en havens waar lopen gevaarlijk is. Ook bij bouwplaatsen, dienstwegen, bus- of trambanen zonder voetpad, en wegen met alleen rijbaan. Er is dan geen veilige loopruimte. Verder bij tunnels, bruggen of smalle dijken die niet op lopen zijn ingericht. Soms bij in- en uitritten met veel zwaar verkeer; voetgangers mogen daar niet komen.",
   "uitleg": [
    "Het verbod begint waar jij het bord passeert. De weg, het pad of het terrein erachter is niet voor voetgangers. Jij mag er rijden als jouw voertuig daar mag komen, maar voetgangers niet.",
    "Het verbod geldt ook voor iedereen die als voetganger telt. Wil je afzetten of zelf uitstappen, doe dat vóór het bord of kies een andere route. Ook wie uit de auto stapt en verder loopt. Bijvoorbeeld wie is afgestapt en zijn fiets duwt, of wie met een kinderwagen loopt.",
    "Het verbod loopt door tot het volgende kruispunt, of tot een bord het opheft of wijzigt. Een onderbord kan tijden, dagen of uitzonderingen geven, bijvoorbeeld voor personeel. Zonder onderbord geldt het verbod steeds.",
-   "Waarom dit bord er staat: lopen is daar gevaarlijk of onwerkbaar. Vaak is er geen voetpad, of rijdt er veel zwaar en snel verkeer. Blijf toch opletten, ook op mensen met een uitzondering op een onderbord, of op overtreders. Bestuurder: iemand die een voertuig bestuurt. Jij als bestuurder ziet dan minder onverwachte voetgangers."
+   "Waarom dit bord er staat: lopen is daar gevaarlijk of onwerkbaar. Vaak is er geen voetpad, of rijdt er veel zwaar en snel verkeer. Blijf toch opletten, ook op mensen met een uitzondering op een onderbord, of op overtreders. Jij als bestuurder ziet dan minder onverwachte voetgangers."
   ],
   "fouten": [
    "Denken dat je nog even mag uitstappen en het laatste stuk lopen. Achter het bord mag niemand lopen.",
@@ -872,7 +875,7 @@
   "watdoejij": "Check vóór het inrijden of jouw voertuig aan de emissie-eisen voldoet. Lees de onderborden met categorieën, tijden of uitzonderingen. Voldoe je niet, keer om of volg een omleiding buiten de zone. Rijd rustig en let op bord C22f voor het einde. Twijfel je, niet inrijden en eerst informatie checken.",
   "waarzieje": "Je ziet dit bord bij de toegang van milieuzones en nul-emissiezones. Vaak staat het aan de randen van binnensteden en drukke stadsdelen. Je ziet het ook bij winkelgebieden, oude centra of bedrijventerreinen aan invalswegen en kruispunten.",
   "uitleg": [
-   "Dit bord kondigt een gebied met emissie-eisen aan. Alleen bepaalde voertuigen mogen erin: personenauto’s, bedrijfsauto’s, vrachtauto’s en autobussen. Rijd je zo’n voertuig en voldoe je niet, dan mag je niet inrijden.",
+   "Dit bord kondigt een gebied met emissie-eisen aan. Het bord geldt voor personenauto’s, bedrijfsauto’s, vrachtauto’s en autobussen. Rijd je zo’n voertuig en voldoe je niet, dan mag je niet inrijden.",
    "Een onderbord geeft meestal de precieze eis. In een milieuzone kan dat een minimale emissienorm of bouwjaar zijn. In een nul-emissiezone rij je alleen met voertuigen zonder uitlaatgassen. Let ook op tijdvensters of beperkingen per voertuigcategorie op het onderbord.",
    "Er zijn soms ontheffingen of uitzonderingen, bijvoorbeeld voor bepaalde diensten. Of je vraagt vooraf toelating aan. Geldt zo’n uitzondering voor jou, dan staat dat op een onderbord of heb je het vooraf geregeld. Zonder uitzondering geldt hier een geslotenverklaring. Dat is een verbod om in te rijden.",
    "Handhaving gebeurt vaak met camera’s die kentekens scannen. Rijd je toch de zone in zonder te voldoen, dan volgt een bekeuring, ook bij kort verblijf. Oriënteer je op tijd en kies zo nodig een andere route. Het einde van de regeling zie je bij bord C22f."
@@ -970,9 +973,9 @@
   "waarzieje": "Je ziet dit vaak in stads- en dorpscentra en in smalle woonstraten. Zo stroomt verkeer rustiger en veiliger in één richting. Bij wegwerkzaamheden kan het tijdelijk staan om de stroom te sturen. Ook op campussen, bij ziekenhuizen, parkeergarages en laad- en losroutes wijst het de route.",
   "uitleg": [
    "De pijl geeft precies de richting die je hier moet volgen. Kom je van een kruisende weg, dan ga je alleen die kant op. Aan de andere zijde staat vaak Verboden in te rijden. Zo ontstaat een straat met verkeer in één richting.",
-   "De regel geldt voor alle bestuurders. Een bestuurder is iemand die een voertuig bestuurt. Dus voor auto’s, motoren, fietsers, bromfietsen en gehandicaptenvoertuigen. Alleen een onderbord met een uitzondering wijkt hiervan af. Zonder zo’n onderbord geldt de pijl voor iedereen op de rijbaan.",
+   "De regel geldt voor alle bestuurders. Dus voor auto’s, motoren, fietsers, bromfietsen en gehandicaptenvoertuigen. Alleen een onderbord met een uitzondering wijkt hiervan af. Zonder zo’n onderbord geldt de pijl voor iedereen op de rijbaan.",
    "Je hoort hier geen tegenliggers te zien. Draai dus niet om om terug te rijden. Keren is verboden. Achteruitrijden mag alleen heel kort als parkeermanoeuvre. Niet om een stuk tegen de voorgeschreven richting te rijden.",
-   "Dit bord zegt niets over voorrang. Voorrang verlenen is een ander voor laten gaan. Je volgt dus de gewone regels bij kruispunten, zijstraten en uitritten. Komt er iemand van rechts? Jij wacht. Kijk goed in je spiegels en over je schouder.",
+   "Dit bord zegt niets over voorrang. Je volgt dus de gewone regels bij kruispunten, zijstraten en uitritten. Komt er iemand van rechts? Jij wacht. Kijk goed in je spiegels en over je schouder.",
    "Zijn er meerdere rijstroken dezelfde kant op, gebruik dan de rechter. Tenzij borden of markering iets anders aangeven. Voor links- of rechtsaf voorsorteer je zoals normaal. Doe dat alleen als het veilig kan en de markering het toelaat."
   ],
   "fouten": [
@@ -999,7 +1002,7 @@
   "watdoejij": "Rij de straat in en volg de richting van het verkeer. Reken niet op tegenliggers uit die straat, tenzij een onderbord dat meldt. Houd je aan de ene toegestane rijrichting.",
   "waarzieje": "Je ziet dit bord aan de kant waar je mag inrijden. Het staat bij het begin van de eenrichtingsweg, vaak in binnensteden en woonwijken met smalle straten. Aan de andere kant staat meestal het verbodsbord voor inrijden.",
   "uitleg": [
-   "Dit bord wijst de juiste ingang van een eenrichtingsweg aan. Het helpt bestuurders de goede inrit te kiezen. Bestuurder: iemand die een voertuig bestuurt. Zo voorkom je dat je aan de verkeerde zijde binnenrijdt.",
+   "Dit bord wijst de juiste ingang van een eenrichtingsweg aan. Het helpt bestuurders de goede inrit te kiezen. Zo voorkom je dat je aan de verkeerde zijde binnenrijdt.",
    "Het bord geldt voor de weg direct achter het bord. Na het passeren rijd je een eenrichtingsweg in. De rijrichting ligt vast, je blijft meerijden tot het einde of een kruispunt.",
    "Aan de andere zijde staat meestal het verbodsbord voor inrijden. Samen laten de borden zien hoe de rijrichting daar is geregeld.",
    "Een onderbord kan een uitzondering of extra info geven. Staat er zo'n bord? Volg wat erop staat. Zonder onderbord geldt inrijden voor het verkeer waarvoor de weg is bedoeld."
@@ -1085,7 +1088,7 @@
   "watdoejij": "Rijd je in een autobus, dan stop je voor het bord. Kies een andere route of volg de omleiding. Keren mag alleen veilig en op een plek waar het kan. Rijd je in een personenauto, bestelauto of motorfiets, dan mag je door. Reken op bussen die willen keren. Check onderborden met uitzonderingen of tijdvensters.",
   "waarzieje": "Je ziet dit bord in smalle woonstraten of oude dorpskernen. Grote voertuigen zijn daar onhandig of onveilig. Het staat ook bij kwetsbare infrastructuur. Denk aan smalle bruggen of wegen langs parken en natuur. Verder zie je het bij scholen, campussen of bedrijventerreinen. Grote passagiersvoertuigen zijn daar niet gewenst. Tijdelijk staat het bij evenementen of wegwerkzaamheden om veel bussen te weren.",
   "uitleg": [
-   "Dit verbod geldt alleen voor autobussen. Een autobus vervoert meer dan acht passagiers, exclusief de bestuurder. De bestuurder is degene die het voertuig bestuurt. Denk aan lijnbussen en touringcars. Een busje met hoogstens acht passagierszitplaatsen valt hier niet onder. Heeft het voertuig negen of meer passagierszitplaatsen, dan is het een autobus.",
+   "Dit verbod geldt alleen voor autobussen. Een autobus vervoert meer dan acht passagiers, exclusief de bestuurder. Denk aan lijnbussen en touringcars. Een busje met hoogstens acht passagierszitplaatsen valt hier niet onder. Heeft het voertuig negen of meer passagierszitplaatsen, dan is het een autobus.",
    "Het verbod start waar je het bord passeert. Het geldt in de rijrichting waarin je het ziet. Aan de andere kant kan de weg open zijn, tenzij daar dit bord staat. Het eindigt bij het eerstvolgende kruispunt of ander bord, tenzij je het opnieuw ziet.",
    "Let op onderborden. Daar kan een uitzondering staan, zoals uitgezonderd lijnbussen of uitgezonderd bestemmingsverkeer. Er kan ook een tijdvenster staan, bijvoorbeeld 22.00–06.00 uur. Zonder onderbord geldt het verbod voor alle autobussen, dus lijnbussen en touringcars. Staat er een uitzondering, dan mag alleen die groep door.",
    "De reden is vaak veiligheid, leefbaarheid of bescherming van de weg. Grote passagiersvoertuigen zijn zwaar en lang. Dat geeft problemen bij krappe bochten, drempels of zwakke kades. Rijd je in een autobus, dan mag je niet naar binnen voor afzetten of laden en lossen. Zoek een plek buiten het gebied of een halte voor het bord."
@@ -1145,10 +1148,10 @@
  },
  "C8": {
   "betekenis": "Rijd je in een landbouw- of bosbouwtrekker? Dan mag je hier niet door. Ook een motorrijtuig met beperkte snelheid en een mobiele machine zijn verboden. Andere voertuigen mogen wel door.",
-  "watdoejij": "Rijd je in een verboden voertuig, kies een andere route. Of keer om vóór het bord. Kijk eerst naar onderborden met uitzonderingen, zoals uitgezonderd bestemmingsverkeer of tijden. Rijd je in een auto, motor of vrachtwagen, dan mag je door. Hier hoef je geen grote of trage werkvoertuigen te verwachten.",
+  "watdoejij": "Rijd je in een verboden voertuig, kies een andere route. Of keer om vóór het bord. Kijk eerst naar onderborden met uitzonderingen, zoals uitgezonderd bestemmingsverkeer of tijden. Rijd je in een auto, motor of vrachtwagen, dan mag je door. Hier verwacht je minder grote of trage werkvoertuigen.",
   "waarzieje": "Je ziet dit bord vaak op drukke stadswegen en hoofdwegen. Langzame werkvoertuigen hinderen daar de doorstroming. Het staat ook bij smalle dijken, bruggen of tunnels, waar inhalen lastig is. Of op routes die landbouwverkeer naar parallelwegen sturen. In woonwijken en centrumgebieden verlaagt het geluid en hinder.",
   "uitleg": [
-   "Dit bord verbiedt drie voertuigcategorieën: landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid en mobiele machines. Een motorrijtuig met beperkte snelheid is door zijn bouw langzaam toegestaan. Het is geen bromfiets of brommobiel. Een mobiele machine is een zelfrijdende werkmachine, zoals mobiele kranen, walsen, veegmachines en maaimachines. Bestuur je zo’n voertuig, dan mag je het wegvak na het bord niet inrijden.",
+   "Dit bord verbiedt drie voertuigcategorieën: landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid en mobiele machines. Een motorrijtuig met beperkte snelheid is door zijn bouw een langzaam motorrijtuig. Het is geen bromfiets of brommobiel. Een mobiele machine is een zelfrijdende werkmachine, zoals mobiele kranen, walsen, veegmachines en maaimachines. Bestuur je zo’n voertuig, dan mag je het wegvak na het bord niet inrijden.",
    "Het verbod gaat over het soort voertuig, niet over je huidige snelheid. Een langzaam rijdende personenauto valt hier dus niet onder. Een tractor, mobiele kraan of ander werkvoertuig blijft wel verboden, ook als die vlot kan rijden of leeg is.",
    "Een aanhangwagen verandert niets voor dit bord. Een tractor met aanhanger blijft een tractor en dus verboden. Het bord zegt niets over lengte, breedte, hoogte, aslast of totale massa. Voor zulke maten of gewichten bestaan aparte borden. Staat er een onderbord met een uitzondering, zoals uitgezonderd aanwonenden of tijden, volg dat dan precies.",
    "Het verbod start bij het bord en geldt tot de eerstvolgende kruising. Of tot een bord dat het verbod opheft of wijzigt. Je ziet het op drukke stadsassen, smalle kunstwerken of trajecten zonder veilige inhaalmogelijkheden. Zo blijft de doorstroming beter en is het veiliger. Rijd je in een toegestaan voertuig, let op kruisend landbouwverkeer bij zijwegen of parallelroutes."
@@ -1233,7 +1236,7 @@
    },
    {
     "code": "D5",
-    "verschil": "Dit is het rotondebord dat je laat circuleren rond het middeneiland en dus niet om direct af te buigen."
+    "verschil": "Dit bord laat je rond het middeneiland rijden; je buigt niet direct af in één richting."
    },
    {
     "code": "D6",
@@ -1248,7 +1251,7 @@
   "watdoejij": "Kijk vroeg waar de pijl heen wijst en plan je rijlijn tijdig. Kies positie en snelheid zodat je soepel langs die zijde passeert. Stuur gecontroleerd en blijf bij de aangewezen kant, ook als het rustiger lijkt. Check spiegels en dode hoek en let op voetgangers of fietsers bij een vluchtheuvel. Daarna volg je de normale verkeerstekens en regels.",
   "waarzieje": "Je ziet dit bord bij het begin van een middengeleider of vluchtheuvel, maar ook bij een kruising of wegversmalling. Het markeert de veilige passeerzijde en scheidt het tegemoetkomende verkeer. Op het middeneiland van een rotonde staat dit bord niet, daar regelen andere borden de rijrichting. Reflectorpalen of markeringen geven vaak hetzelfde signaal.",
   "uitleg": [
-   "Dit is een gebodsbord: blauw, rond, met een witte pijl die schuin naar links of naar rechts kan wijzen. Je passeert precies aan die zijde en dat geldt voor alle bestuurders. Een bestuurder bestuurt een voertuig. De andere kant is voor jou gesloten, ook als die vrij lijkt.",
+   "Dit is een gebodsbord: blauw, rond, met een witte pijl die schuin naar links of naar rechts kan wijzen. Je passeert precies aan die zijde en dat geldt voor alle bestuurders. De andere kant is voor jou gesloten, ook als die vrij lijkt.",
    "De pijl zegt alleen aan welke zijde je passeert en hij bepaalt niet je richting daarna. Na het passeren gelden de normale regels, rijstrookpijlen en voorrang, dus let daarop. Het is geen afslaggebod en ook geen aanwijzing voor eenrichtingsverkeer. Onthoud: het bord verplicht slechts tot passeren aan één kant.",
    "Waarom staat dit bord hier? Het begin van een middengeleider of vluchtheuvel is kwetsbaar, omdat verkeer daar dichter bij elkaar komt en de rijbaan smaller wordt. Door iedereen langs dezelfde zijde te leiden voorkom je frontale conflicten en botsingen met de obstakelrand. Nader met aangepaste snelheid, kies op tijd positie en stuur niet te krap langs randstenen of paaltjes. Anders raak je velg of spiegel.",
    "Let extra op in het donker, bij regen of bij verblinding, want markeringen zijn dan vaak slecht zichtbaar. De diagonale pijl helpt je dan je lijn kiezen. Verwacht kwetsbare weggebruikers op of bij de vluchtheuvel en geef ruimte. Stuur niet laat of abrupt naar de juiste kant. Zit er verkeer naast je? Forceer geen late wissel en vertraag zodat je veilig kunt passeren."
@@ -1311,7 +1314,7 @@
   "watdoejij": "Kies op tijd de rijstrook voor rechtdoor en volg pijlen. Je slaat niet af en maakt geen U‑bocht. Houd snelheid en positie stabiel. Let op oversteken en op kruisend verkeer. Check onderborden voor tijden of uitzonderingen. Gelden ze voor jou, dan volg je die.",
   "waarzieje": "Bij kruispunten waar afslaan ongewenst of riskant is, zoals smalle straten of drukke hoofdroutes. Ook tijdelijk bij wegwerkzaamheden om verkeer rechtuit te sturen. Bij uitritten van parkeergarages of bedrijventerreinen om recht de hoofdrijbaan op te gaan. In stadscentra om sluipverkeer door woonstraten te voorkomen.",
   "uitleg": [
-   "Dit ronde, blauwe gebodsbord met witte pijl geeft een verplichte richting. Wijst de pijl omhoog, dan ga je rechtuit. Het geldt voor elke bestuurder, dus ook voor jou als automobilist. Bestuurder: iemand die een voertuig bestuurt.",
+   "Dit ronde, blauwe gebodsbord met witte pijl geeft een verplichte richting. Wijst de pijl omhoog, dan ga je rechtuit. Het geldt voor elke bestuurder, dus ook voor jou als automobilist.",
    "Het bord werkt op de plek waar je het ziet. Het geldt tot en met het eerstvolgende kruispunt of een splitsing. Daar ga je rechtdoor; linksaf, rechtsaf of een U‑bocht mag niet. Na dat punt is de opdracht klaar en gelden de normale keuzes.",
    "Het bord regelt je rijrichting, niet de voorrang. Voorrang: wie eerst mag gaan. Let op haaientanden, verkeerslichten en overstekend verkeer. Haaientanden zijn witte driehoeken op het wegdek. Het bord beperkt je keuze, ook bij groen.",
    "Zonder onderbord geldt het voor alle bestuurders. Onderborden kunnen tijden of uitzonderingen geven, bijvoorbeeld voor bussen. Geldt de uitzondering niet voor jou, dan blijf je rechtuit rijden.",
@@ -1388,7 +1391,7 @@
    "Denken dat je ook linksaf mag omdat er een keuze is. De keuze is beperkt tot de getoonde pijlen: hier alleen rechtdoor of rechtsaf.",
    "Keren op of direct na het kruispunt. Een keerbeweging is geen van de aangegeven richtingen en is dus verboden.",
    "Aannemen dat het bord alleen voor motorvoertuigen geldt. Het geldt voor alle bestuurders, dus ook voor fietsers, bromfietsers en bestuurders van een gehandicaptenvoertuig.",
-   "Verwarren met andere borden: D5 geeft één vaste richting met één pijl; D7 staat voor rechtdoor of linksaf; D6 is rechtdoor of rechtsaf."
+   "Verwarren met andere borden: D5 geeft één vaste richting met één pijl; D7 staat voor linksaf of rechtsaf; D6 is rechtdoor of rechtsaf."
   ],
   "verwar": [
    {
@@ -1441,20 +1444,21 @@
  },
  "E1": {
   "betekenis": "Je mag hier geen voertuig parkeren aan de zijde van de weg waar het bord staat, maar je mag wel kort stilstaan voor direct in- of uitstappen of voor onmiddellijk laden en lossen.",
-  "watdoejij": "Rijd door als je wilt parkeren en zoek een plek waar parkeren wel is toegestaan, zoals een parkeervak of een bord dat parkeren toestaat. Moet je iemand snel afzetten of direct spullen in- of uitladen, dan mag je kort stilstaan zolang die handeling meteen en zonder onderbreking gebeurt. Houd je knipperlichten zo nodig aan, stop zo kort mogelijk en hind er het verkeer niet.",
+  "watdoejij": "Rijd door als je wilt parkeren en zoek een plek waar parkeren wel is toegestaan, zoals een parkeervak of een bord dat parkeren toestaat. Moet je iemand snel afzetten of direct spullen in- of uitladen, dan mag je kort stilstaan zolang die handeling meteen en zonder onderbreking gebeurt. Stop zo kort mogelijk en hinder het verkeer niet. Alarmlichten geven geen toestemming om ergens te stoppen of parkeren.",
   "waarzieje": "Je komt dit bord vaak tegen in smalle straten waar geparkeerde voertuigen de doorstroming zouden blokkeren. Ook bij kruispunten, uitritten, bochten en in- en uitgangen van hulpdiensten wordt parkeren geregeld met dit bord. In winkelstraten kan het staan bij laad- en losstroken in de buurt, zodat parkeren op de rijbaan wordt voorkomen. In woongebieden kan het de ene straatkant vrijhouden voor de verkeersveiligheid.",
   "uitleg": [
    "Parkeren is het laten stilstaan van een voertuig anders dan voor het onmiddellijk in- of uitstappen van passagiers of voor het onmiddellijk laden of lossen van goederen. Bij dit bord is dus alleen dat parkeren verboden. Stilstand die het verkeer zelf veroorzaakt (zoals voor een rood licht, voorrang verlenen of in een file) is natuurlijk toegestaan. Kort stilstaan om direct iemand te laten in- of uitstappen of om meteen te laden of te lossen mag ook; dat is geen parkeren.",
-   "Het bord geldt aan de zijde van de weg waar het staat, vanaf het bord tot aan het volgende kruispunt. Onderborden kunnen tijden, dagen, uitzonderingen of een grotere of kleinere reikwijdte aangeven. Pijlen op een onderbord geven het begin (pijl naar rechts of omhoog), vervolg (pijl beide kanten op) of einde (pijl naar links of omlaag) van het verbodsgebied aan. Als er een zone-aanduiding bij staat, geldt het in het hele gebied tot je een einde-zone tegenkomt.",
-   "Het verbod geldt voor alle voertuigen: personenauto’s, motorfietsen, bromfietsen en snorfietsen, vrachtauto’s, autobussen en ook aanhangwagens. Een losgekoppelde aanhangwagen of caravan ergens achterlaten is dus parkeren en hier niet toegestaan. Een gehandicaptenparkeerkaart geeft geen vrijstelling van dit verbod; je mag hier alleen staan als je aan het in- of uitstappen bent of onmiddellijk aan het laden of lossen, of als een onderbord expliciet een uitzondering maakt.",
+   "Het parkeerverbod geldt aan de zijde van de weg waar het bord staat. Let voor het betrokken wegvak op de plaatsing van de borden en eventuele onderborden. Een onderbord kan tijden, dagen, uitzonderingen of de reikwijdte aangeven. Lees pijlen samen met de plaatsing: ze duiden het betreffende weggedeelte aan. Gebruik geen vaste ezelsbrug zoals “rechts is altijd het begin” of “links is altijd het einde”. Bij een zone-aanduiding geldt het verbod in het aangeduide gebied tot het einde van de zone. Ga dus niet uit van de regel dat elk kruispunt het verbod beëindigt.",
+   "Het verbod geldt voor voertuigen, dus ook voor motorfietsen, bromfietsen, snorfietsen en aanhangwagens. Een losgekoppelde aanhangwagen achterlaten is parkeren. Er bestaat wel een uitzondering voor een motorvoertuig op meer dan twee wielen met een geldige, goed leesbaar aangebrachte gehandicaptenparkeerkaart, en voor bestuurders van gehandicaptenvoertuigen. Bij E1 mogen zij maximaal 3 uur parkeren als het parkeren rechtstreeks verband houdt met het vervoer van een gehandicapte. Een duidelijk zichtbare parkeerschijf moet de begintijd aangeven. Voorkom gevaar of hinder. Een onderbord kan daarnaast een uitzondering aangeven.",
    "Wat is ‘onmiddellijk laden en lossen’? Het gaat om het direct en onafgebroken overbrengen van goederen van enige omvang of gewicht tussen voertuig en pand, of andersom. Voorbeelden: dozen of meubels naar binnen brengen, kratten drank afleveren, een wasmachine ophalen. Even geld pinnen, een brief posten of ‘snel een brood halen’ telt niet als laden/lossen. Je hoeft bij deze handeling niet letterlijk bij het voertuig te blijven, zolang je activiteit onafgebroken doorgaat en je daarna direct wegrijdt. Blokkeer nooit onnodig het verkeer en gebruik waar mogelijk een speciale laad- en losplek (bord E7).",
    "Verwar dit bord niet met het verbod stil te staan (E2). Bij E2 mag je niet eens kort stoppen, behalve als het verkeer dat noodzakelijk maakt. Bij dit bord mag je wel kort stoppen voor in- of uitstappen of voor onmiddellijk laden/lossen. Zie je juist een parkeergelegenheid (E4) of een vak met specifieke doelgroep (bijvoorbeeld E8 of E6), dan mag je daar wel parkeren binnen de aangegeven regels. Let altijd op eventuele tijdvensters en pijlen op onderborden."
   ],
   "fouten": [
    "Denken dat je helemaal niet mag stoppen; kort stilstaan voor direct in-/uitstappen of onmiddellijk laden/lossen mag hier wél.",
    "Aannemen dat ‘heel even een boodschap doen’ of een pinautomaat gebruiken laden/lossen is; dat is parkeren en dus verboden.",
-   "Vergeten dat het verbod geldt vanaf het bord tot het volgende kruispunt of tot een einde-aanduiding, en pijlen of onderborden negeren.",
-   "Een aanhangwagen loskoppelen en achterlaten; dat is parkeren en hier niet toegestaan, ook niet voor korte tijd."
+   "Pijlen, onderborden, zone-aanduidingen en de plaatsing van de borden negeren bij het bepalen waar het parkeerverbod geldt.",
+   "Een aanhangwagen loskoppelen en achterlaten; dat is parkeren en hier niet toegestaan, ook niet voor korte tijd.",
+   "Denken dat een gehandicaptenparkeerkaart nooit een uitzondering geeft, of dat je daarmee onbeperkt mag parkeren. De uitzondering bij E1 heeft voorwaarden en een maximum van 3 uur met parkeerschijf."
   ],
   "verwar": [
    {
@@ -1466,9 +1470,12 @@
     "verschil": "Dit is een rond verbodsbord met rode rand en schuine streep, niet het blauwe vierkante P-bord."
    }
   ],
-  "examen": "Je moet het verschil kennen tussen parkeren en stilstaan, en weten dat kort in-/uitstappen of onmiddellijk laden/lossen hier is toegestaan. Let in vragen op pijlen, zonering, tijden op onderborden en het toepassingsgebied aan één zijde van de weg.",
+  "examen": "Je moet het verschil kennen tussen parkeren en stilstaan, en weten dat kort in-/uitstappen of onmiddellijk laden/lossen hier is toegestaan. Let in vragen op pijlen, zonering, tijden op onderborden en het toepassingsgebied aan één zijde van de weg. Ken ook de voorwaarden van de uitzondering voor gehandicaptenparkeren.",
   "artikelen": [
-   "RVV 65"
+   "RVV 1",
+   "RVV 65",
+   "RVV 85",
+   "WVW 5"
   ]
  },
  "E10": {
@@ -1548,7 +1555,7 @@
   "uitleg": [
    "Dit blauwe bord is een aanduiding. Het markeert een speciale parkeerplaats om makkelijk op het openbaar vervoer over te stappen. Het bord zelf legt geen verplichting op en stelt geen verbod in. Het wijst alleen de P+R-voorziening aan.",
    "Zonder extra info op een onderbord gelden de gewone parkeerregels van het terrein. Parkeer in de vakken. Niet op rijbanen of voor uitgangen. Let op ander verkeer en voetgangers. Of je moet betalen, hoe lang je mag staan en voor wie plekken zijn, staat apart aangegeven. Kijk op het onderbord, op borden op het terrein of bij de betaalpaal.",
-   "Binnen een P+R zie je vaak extra borden die vakken reserveren. Bestuurder: je die een voertuig bestuurt. Een gehandicaptenparkeerplaats is alleen voor bestuurders met een geldige kaart. Een bord met een voertuigcategorie kan plekken alleen voor personenauto’s of motorfietsen aanwijzen. Een motorfiets is een motorvoertuig en mag in een normaal vak parkeren als er geen beperking is. Bromfietsen en snorfietsen zijn geen motorvoertuigen. Zij hebben vaak eigen rekken of vakken. Of zij in een parkeervak mogen staan, hangt af van de borden ter plekke.",
+   "Binnen een P+R zie je vaak extra borden die vakken reserveren. Een gehandicaptenparkeerplaats is alleen voor bestuurders met een geldige kaart. Een bord met een voertuigcategorie kan plekken alleen voor personenauto’s of motorfietsen aanwijzen. Een motorfiets is een motorvoertuig en mag in een normaal vak parkeren als er geen beperking is. Bromfietsen en snorfietsen zijn geen motorvoertuigen. Zij hebben vaak eigen rekken of vakken. Of zij in een parkeervak mogen staan, hangt af van de borden ter plekke.",
    "De P+R is ingericht voor snel overstappen naar halte of station. Verwacht een verhard terrein met vakken, bewegwijzering en looproutes. Rijd stapvoets. Volg pijlen en markeringen. Let extra op voetgangers die naar het OV lopen.",
    "Een onderbord kan grote voertuigen, zoals bestelauto’s of vrachtauto’s, uitsluiten of naar aparte vakken sturen. Staat er niets bijzonders, dan gelden de normale terreinregels. Let op de afmetingen van je voertuig en op vakken die niet voor lange combinaties geschikt zijn. Lang parkeren of overnachten kan lokaal geregeld zijn. Controleer daarom de info bij de inrit."
   ],
@@ -1618,15 +1625,15 @@
   "watdoejij": "Je rijdt door naar een plek waar stoppen wel mag. Wil je iemand laten uitstappen of iets afleveren, kies een veilige plek zonder dit verbod. Let op onderborden met tijden, dagen of pijlen die het verbod beperken of sturen. Moet je toch stilstaan door het verkeer, rijd dan direct weer weg zodra het kan.",
   "waarzieje": "Je ziet dit bord op plekken waar doorstroming en zicht tellen, zoals smalle straten of drukke aanrijroutes. Het staat vaak bij kruispunten, scherpe bochten, in- en uitritten van hulpdiensten of garages, en bij voetgangersoversteekplaatsen. Ook bij bruggen, tunnels, schoolomgevingen en haltes waar stilstaan gevaar of opstoppingen geeft.",
   "uitleg": [
-   "Stilstaan is vrijwillig stoppen, niet doordat het verkeer je stopt. Voorbeelden: iemand afzetten of snel een pakketje afgeven. Dat mag hier niet. Parkeren is langer stilstaan. Waar je niet mag stilstaan, mag je ook niet parkeren.",
-   "Het verbod geldt aan de kant van de weg met het bord. Het loopt vanaf het bord tot het eerstvolgende kruispunt. Of tot een bord of onderbord dat iets anders regelt. Het geldt voor de rijbaan en de aangrenzende stukken daar, zoals bermen of parkeervakken. Staat het bord rechts, dan mag je rechts nergens stilstaan.",
-   "Er zijn een paar noodzakelijke uitzonderingen. Je mag stilstaan als het verkeer dat eist: bij rood licht, voorrang verlenen, in een file, of als een verkeersregelaar dat vraagt. Voorrang verlenen is een ander eerst laten gaan. Bij pech mag je ook stoppen. Zet je voertuig zo snel en veilig mogelijk buiten het verkeer. Gebruik zo nodig je alarmlichten en een gevarendriehoek.",
+   "Stilstaan is vrijwillig stoppen, niet doordat het verkeer je stopt. Voorbeelden: iemand afzetten of snel een pakketje afgeven. Dat mag hier niet. Parkeren is stilstaan voor iets anders dan het onmiddellijk in- of uitstappen van passagiers of het onmiddellijk laden of lossen van goederen. Ook een korte stop kan dus parkeren zijn. Waar je niet mag stilstaan, mag je ook niet parkeren.",
+   "Het verbod geldt aan de zijde van de weg waar het bord is geplaatst. Let op onderborden, pijlen en eventuele zonering voor het toepassingsgebied. Artikel 65 bevat daarnaast een uitzondering voor parkeren op daartoe bestemde weggedeelten. Beoordeel dus ook de inrichting en eventuele specifieke parkeerborden; concludeer niet zonder meer dat ieder parkeervak aan die kant verboden is.",
+   "Er zijn een paar noodzakelijke uitzonderingen. Je mag stilstaan als het verkeer dat eist: bij rood licht, voorrang verlenen, in een file, of als een verkeersregelaar dat vraagt. Bij pech mag je ook stoppen. Zet je voertuig zo snel en veilig mogelijk buiten het verkeer. Gebruik zo nodig je alarmlichten en een gevarendriehoek.",
    "Soms hangt er een onderbord met tijden of dagen waarop het verbod geldt. Zonder onderbord geldt het verbod de hele dag, elke dag. Pijlen op onderborden tonen waar het begint, doorloopt of eindigt.",
    "Markeringen kunnen dit verbod ondersteunen, zoals een gele doorgetrokken streep langs de stoeprand. Zie je zowel het bord als die markering, dan zeggen ze allebei: hier mag je niet stilstaan. Overtreden kan een boete geven en bij hinder of gevaar zelfs wegslepen."
   ],
   "fouten": [
    "Denken dat je hier kort mag in- of uitstappen of een pakketje afgeven; dat is stilstaan en verboden.",
-   "Aannemen dat het alleen de rijbaan raakt; berm en parkeervakken aan die kant vallen ook onder het verbod.",
+   "Aannemen dat het bord zonder meer ieder parkeervak aan die kant verbiedt; let op de uitzondering voor daartoe bestemde weggedeelten en op de plaatselijke inrichting en borden.",
    "Denken dat alarmlichten stoppen legaal maken; waarschuwingsknipperlichten veranderen het verbod niet.",
    "Uitgaan van beperkte tijden zonder onderbord; zonder tijdsaanduiding geldt het verbod continu."
   ],
@@ -1813,7 +1820,7 @@
  },
  "E8": {
   "betekenis": "Je mag hier alleen parkeren als jouw voertuig bij het pictogram hoort. Zie je een autosymbool, dan is de plek uitsluitend voor personenauto’s.",
-  "watdoejij": "Check het pictogram en of jouw voertuig daarbij hoort. Rijd door met motor, bus of vrachtauto. Parkeer volledig binnen de gemarkeerde vakken. Let op onderborden met tijden, maximale parkeerduur, betaalplicht of parkeerschijf. Houd de plek vrij voor bestuurders met het juiste voertuigtype. Bestuurder: iemand die een voertuig bestuurt.",
+  "watdoejij": "Check het pictogram en of jouw voertuig daarbij hoort. Rijd door met motor, bus of vrachtauto. Parkeer volledig binnen de gemarkeerde vakken. Let op onderborden met tijden, maximale parkeerduur, betaalplicht of parkeerschijf. Houd de plek vrij voor bestuurders met het juiste voertuigtype.",
   "waarzieje": "Je ziet dit bord bij vakken of terreinen met gereserveerde plaatsen. Met een autosymbool staat het vaak bij winkelcentra, ziekenhuizen, scholen en woonwijken. Daar willen ze geen motoren, bussen of vrachtauto’s in die vakken. Soms hoort het bij een cluster van vakken. Pijlen, belijning of extra borden tonen welke vakken erbij horen.",
   "uitleg": [
    "Dit bord wijst een parkeerplek toe aan één voertuigcategorie. Het pictogram bepaalt wie mag parkeren. Zie je een personenauto, dan mogen alleen personenauto’s hier staan. Rijd je iets anders, dan neem je deze plek niet.",
@@ -1881,19 +1888,19 @@
  },
  "F1": {
   "betekenis": "Met je motorvoertuig mag je geen ander motorvoertuig inhalen. Niet-motorvoertuigen mag je wel voorbijrijden, als het is toegestaan en veilig.",
-  "watdoejij": "Blijf achter rijdende motorvoertuigen, zoals auto's, vrachtauto's, motorfietsen, bussen en landbouwtrekkers. Vergroot je volgafstand. Inhalen mag alleen bij weggebruikers zonder motorvoertuig, zoals een fietser, snorfiets of bromfiets. Doe dat rustig, met ruime zijdelingse afstand. Alleen waar de wegindeling het toestaat. Let op bord F2; dat is het einde van het verbod. Houd ook rekening met een doorgetrokken streep of onoverzichtelijke bochten.",
+  "watdoejij": "Blijf achter rijdende motorvoertuigen, zoals auto's, vrachtauto's, motorfietsen, bussen en landbouwtrekkers. Vergroot je volgafstand. Inhalen mag alleen bij weggebruikers zonder motorvoertuig, zoals een fietser, snorfiets of bromfiets. Doe dat rustig, met ruime zijdelingse afstand. Alleen waar de wegindeling het toestaat. Let op F2 of F8, die het verbod beëindigen. Houd ook rekening met een doorgetrokken streep of onoverzichtelijke bochten.",
   "waarzieje": "Je ziet dit bord vaak op tweestrookswegen met tegenverkeer en weinig overzicht. Denk aan dijken, bochtige trajecten en heuveltoppen. Het kan ook bij smalle bruggen, in tunnels of op wegvakken met veel zijwegen staan. Soms staat het samen met markeringen die inhalen extra ontmoedigen of verbieden.",
   "uitleg": [
    "De regel geldt alleen tussen motorvoertuigen. Je mag geen auto, vrachtauto, bus, motorfiets, driewielig motorvoertuig of landbouwtrekker inhalen. Een bromfiets is geen motorvoertuig. Een snorfiets is een soort bromfiets. Een gehandicaptenvoertuig is ook geen motorvoertuig. Die mag je dus wel inhalen, net als een fietser, als dat mag en veilig kan.",
-   "Belangrijk is het verschil tussen inhalen en voorbijrijden. Inhalen is een rijdende weggebruiker passeren. Tussen motorvoertuigen is dat hier verboden. Stilstaande voertuigen mag je voorbijrijden, bijvoorbeeld bij een file of bij rood licht. Blijf veilig en volg de markeringen. Rechts voorbijrijden mag alleen in de vaste uitzonderingen, zoals bij filevorming of als een voertuig links voorgesorteerd staat en afslaat. Dit bord verandert die uitzonderingen niet.",
-   "Het verbod start waar je het bord passeert en eindigt bij bord F2 met de diagonale zwarte streep. Soms hangt er een onderbord met een afstand of eindpunt. Volg die aanduiding. Zie je F2, dan mag je weer motorvoertuigen inhalen, maar alleen als het verder is toegestaan en veilig.",
+   "Ook voertuigen die in een file of voor rood licht stilstaan, nemen nog aan het verkeer deel. Ze passeren kan daarom inhalen zijn; stilstand geeft niet automatisch een uitzondering op het inhaalverbod. Een geparkeerd voertuig of een voertuig dat door pech buiten de verkeersstroom staat, mag je alleen veilig voorbijrijden als de overige regels en markeringen dat toelaten. De algemene uitzonderingen voor rechts inhalen heffen dit inhaalverbod niet op.",
+   "Het verbod geldt voor het door de bebording aangeduide wegvak. F2 beëindigt dit inhaalverbod; F8 beëindigt alle door verkeersborden aangegeven verboden. Een onderbord kan de reikwijdte nader aangeven. Let op de wegsituatie en herhaalde borden: ga er niet van uit dat elke zijweg het verbod automatisch beëindigt. Ook na het einde van het verbod mag je alleen inhalen als de overige regels en de veiligheid dat toelaten.",
    "Andere regels blijven gelden. Een doorgetrokken streep, onoverzichtelijke bocht, zebrapad of druk kruispunt kan inhalen alsnog onveilig of verboden maken. Rijdt er een heel langzaam motorvoertuig, bijvoorbeeld een tractor? Dan blijft het verbod toch gelden. Je blijft erachter tot het is opgeheven of tot er een duidelijke, veilige mogelijkheid ontstaat die dit bord niet verbiedt. Kom je een passeerbaan of passeerstrook tegen, volg daar de borden en markeringen."
   ],
   "fouten": [
    "Denken dat een bromfiets of snorfiets een motorvoertuig is en daarom niet ingehaald mag worden; die mag je juist wel inhalen, mits veilig en volgens de markeringen.",
    "F1 verwarren met F2; F2 is het einde van het inhaalverbod en heeft een diagonale zwarte streep door het symbool.",
    "Aannemen dat een heel langzaam rijdende tractor of vrachtauto toch ingehaald mag worden; het zijn motorvoertuigen, dus inhalen blijft verboden zolang F1 geldt.",
-   "Geloven dat je geen stilstaande voertuigen mag voorbijrijden; voorbijrijden is geen inhalen, maar doe het alleen als het veilig kan en de markeringen het toelaten."
+   "Denken dat ieder stilstaand voertuig zonder meer voorbijgereden mag worden. Een voertuig dat wacht in een file of voor rood licht neemt nog aan het verkeer deel; het passeren kan inhalen zijn."
   ],
   "verwar": [
    {
@@ -2009,8 +2016,8 @@
   "artikelen": []
  },
  "F13": {
-  "betekenis": "Alleen lijnbussen mogen hier rijden. Ben je geen bestuurder van een lijnbus, dan blijf je van deze rijbaan of strook af. Bestuurder betekent: je bedient het voertuig. Een onderbord kan je toch toestemming geven.",
-  "watdoejij": "Je gebruikt deze rijbaan of -strook nergens voor. Niet om te rijden, in te halen, te voorsorteren of te stoppen. Je let extra op bij kruispunten en uitritten waar een bus uit de busbaan kan komen. Je verleent voorrang volgens de normale regels en volgt je verkeerslichten. Voorrang verlenen is een ander eerst laten rijden. Zie je een onderbord met uitzonderingen of tijden, dan volg je dat. Blijf weg bij in- en uitritten van bushaltes en blokkeer de busbaan niet.",
+  "betekenis": "Alleen lijnbussen mogen hier rijden. Ben je geen bestuurder van een lijnbus, dan blijf je van deze rijbaan of strook af. Een onderbord kan je toch toestemming geven.",
+  "watdoejij": "Je gebruikt deze rijbaan of -strook nergens voor. Niet om te rijden, in te halen, te voorsorteren of te stoppen. Je let extra op bij kruispunten en uitritten waar een bus uit de busbaan kan komen. Je verleent voorrang volgens de normale regels en volgt je verkeerslichten. Zie je een onderbord met uitzonderingen of tijden, dan volg je dat. Blijf weg bij in- en uitritten van bushaltes en blokkeer de busbaan niet.",
   "waarzieje": "Vooral in stadscentra en op drukke in- en uitvalswegen. Daar moet het ov doorstromen. Je ziet hem bij een vrijliggende busbaan naast of midden op de weg, of bij een busstrook langs de rechter- of linkerrand van de rijbaan. Ook bij kruispunten met een eigen voorsorteerstrook of bypass voor bussen, en soms op corridors naar stations, ziekenhuizen of grote winkelgebieden.",
   "uitleg": [
    "Dit bord wijst een rijbaan of rijstrook aan die is gereserveerd voor lijnbussen. Een lijnbus rijdt volgens een lijndienst. Andere voertuigen mogen daar niet rijden, tenzij een onderbord dat toestaat. Een touringcar is geen lijnbus en mag de busbaan alleen gebruiken als een onderbord dat zegt.",
@@ -2123,7 +2130,7 @@
    "Denken dat trams hier moeten stoppen of verboden zijn. Het bord beëindigt de exclusieve trambaan, niet het tramverkeer.",
    "Aannemen dat jij de vrijgekomen baan altijd mag gebruiken. Dat mag alleen als de daaropvolgende borden en markeringen dat toelaten.",
    "Verwarren met het bord voor einde busbaan. Dit bord gaat specifiek over de trambaan of trambaanstrook.",
-   "Denken dat de voorrang verandert door dit bord. Voorang volgt uit andere borden, verkeerslichten en tekens op of langs de weg."
+   "Denken dat de voorrang verandert door dit bord. Voorrang volgt uit andere borden, verkeerslichten en tekens op of langs de weg."
   ],
   "verwar": [
    {
@@ -2280,8 +2287,8 @@
   "waarzieje": "Dit bord staat aan het einde van een speciale strook voor vrachtauto’s en lijnbussen, vaak op autosnelwegen en drukke stroomwegen. Je ziet het bij het begin van de uitloper van de strook, met pijlen en taper-markeringen die de samenvoeging tonen. Het staat rechts van of boven de betrokken strook.",
   "uitleg": [
    "Zo’n aparte strook scheidt zware en vaak langzamere voertuigen tijdelijk. Dat helpt doorstroming en veiligheid. F20 markeert waar die bestemming stopt en het verkeer weer samenkomt.",
-   "Vanaf F20 is de rijstrook niet langer exclusief voor die categorieën. De strook kan eindigen in een spitsing, opgaan in de gewone rijbaan of via markering naar een gezamenlijke rijstrook leiden. Volg pijlen en markeringen, die sturen het samenvoegen.",
-   "Een bestuurder is iemand die een voertuig bestuurt. Bestuurders van vrachtauto’s en lijnbussen kijken ruim op tijd, geven richting aan en rekenen op snelheidsverschil met lichter verkeer. Overig verkeer rijdt voorspelbaar, laat invoegers ertussen waar nodig en vermijdt onnodig wisselen bij het samenkomen.",
+   "Vanaf F20 is de rijstrook niet langer exclusief voor die categorieën. De strook kan eindigen in een splitsing, opgaan in de gewone rijbaan of via markering naar een gezamenlijke rijstrook leiden. Volg pijlen en markeringen, die sturen het samenvoegen.",
+   "Bestuurders van vrachtauto’s en lijnbussen kijken ruim op tijd, geven richting aan en rekenen op snelheidsverschil met lichter verkeer. Overig verkeer rijdt voorspelbaar, laat invoegers ertussen waar nodig en vermijdt onnodig wisselen bij het samenkomen.",
    "Onderborden bij het begin van zo’n strook tonen wanneer of voor wie de bestemming geldt, bijvoorbeeld tijden of extra categorieën. Staat er bij F20 een onderbord, dan verduidelijkt dat het einde voor specifieke voertuigen of tijdvakken. De tekst op het onderbord is leidend."
   ],
   "fouten": [
@@ -2381,13 +2388,13 @@
    "Het verbod geldt alleen voor bestuurders van een vrachtauto. Een vrachtauto is een motorvoertuig voor goederenvervoer met een toegestane maximum massa van meer dan 3500 kg. Voor bestuurders van personenauto’s, bestelauto’s, autobussen, motorfietsen en kampeerwagens verandert niets. Zij mogen nog steeds inhalen, als het elders niet verboden is en de situatie veilig is.",
    "Wat mag de vrachtauto niet inhalen? Motorvoertuigen. Dat zijn alle gemotoriseerde voertuigen die niet langs rails rijden, behalve bromfietsen, fietsen met trapondersteuning en gehandicaptenvoertuigen. Onder motorvoertuigen vallen bijvoorbeeld personenauto’s, bestelauto’s, autobussen en motorfietsen. Ook landbouw- of bosbouwtrekkers en andere motorrijtuigen met beperkte snelheid tellen mee. Een tram is geen motorvoertuig, want die rijdt op rails, maar je haalt een tram zelden op dezelfde rijbaan in.",
    "Wat mag nog wel? Je mag een niet-motorvoertuig inhalen, zoals een fietser, bromfietser of snorfietser, een bestuurder van een gehandicaptenvoertuig of een wagen. Dat mag alleen als alle andere regels en markeringen het toestaan, je genoeg zijdelingse afstand houdt en je niemand hindert of in gevaar brengt. Rijd je op een weg met twee rijstroken in dezelfde richting, dan ga je niet naar links om een motorvoertuig te passeren. Voor het inhalen van een bromfiets of fietser kun je kort van rijstrook wisselen en daarna weer rechts invoegen.",
-   "Het verbod geldt vanaf het bord tot het bijbehorende einde-bord. Een onderbord kan een tijdvak of de lengte van het wegvak aangeven. Het gaat om het inhalen van rijdende voertuigen. Een stilstaand motorvoertuig voorbijrijden, bijvoorbeeld bij pech op de vluchtstrook of in de berm, is geen inhalen en mag als het veilig kan."
+   "Het verbod geldt voor het door de bebording aangeduide wegvak. F4 beëindigt dit inhaalverbod voor vrachtauto’s; F8 beëindigt alle door verkeersborden aangegeven verboden. Een onderbord kan een tijdvak of de lengte van het wegvak aangeven. Ga er niet van uit dat elke zijweg het verbod automatisch beëindigt. Een voertuig dat wacht in een file of voor rood licht neemt nog aan het verkeer deel; het passeren kan inhalen zijn. Een geparkeerd motorvoertuig of een motorvoertuig dat door pech buiten de verkeersstroom staat, mag je alleen veilig voorbijrijden als de overige regels en markeringen dat toelaten."
   ],
   "fouten": [
    "Denken dat een vrachtauto helemaal niemand mag inhalen. Het verbod gaat alleen over motorvoertuigen; een fiets, bromfiets of snorfiets en een gehandicaptenvoertuig mag je wél inhalen als het verder mag en veilig kan.",
    "Aannemen dat het bord ook geldt voor bestelauto’s, autobussen of kampeerwagens. Het geldt alleen voor bestuurders van een vrachtauto.",
    "Verwarren wat een motorvoertuig is. Een bromfiets of snorfiets is géén motorvoertuig; een personenauto, motorfiets, bestelauto of landbouwtrekker juist wél.",
-   "Denken dat je met een vrachtauto geen stilstaand motorvoertuig mag passeren. Voorbijrijden van een stilstaand voertuig is geen inhalen en mag, mits veilig."
+   "Denken dat stilstand automatisch een uitzondering geeft. Een voertuig dat wacht in een file of voor rood licht neemt nog aan het verkeer deel; het passeren kan inhalen zijn."
   ],
   "verwar": [
    {
@@ -2413,14 +2420,14 @@
   "uitleg": [
    "Dit bord maakt duidelijk dat het speciale verbod voor vrachtauto’s om motorvoertuigen in te halen is opgeheven. Voor vrachtautochauffeurs gelden vanaf hier weer de normale inhaalregels. Andere bestuurders merken inhoudelijk geen verandering aan hun eigen mogelijkheden; voor hen golden de gewone regels al.",
    "Belangrijk is wie en wat onder deze regel valt. De beperking ging alleen over vrachtauto’s. Het verbod had betrekking op het inhalen van motorvoertuigen, dus onder meer personenauto’s, bestelauto’s, autobussen en motorfietsen. Fietsen, bromfietsen (waaronder snorfietsen) en gehandicaptenvoertuigen zijn géén motorvoertuigen; die mochten ook tijdens het eerdere verbod door een vrachtauto worden ingehaald als dat veilig kon. Na dit bord mag een vrachtauto dus óók weer motorvoertuigen inhalen.",
-   "Rijstrookgebruik blijft wel van kracht. Inhalen doe je in principe naar links. Op wegen met twee rijstroken per richting mag een vrachtauto de linkerrijstrook gebruiken om in te halen. Op autosnelwegen met drie of meer rijstroken per rijrichting mag een vrachtauto de meest linkse rijstrook niet gebruiken; inhalen kan daar dus alleen door naar een rijstrook links naast je op te schuiven, maar niet naar de uiterste linkerstrook. Rechts inhalen is verboden, met bekende uitzonderingen zoals bij fileverkeer, rechts langs een tram of wanneer een bestuurder links voorgesorteerd is en wacht om af te slaan.",
+   "Rijstrookgebruik blijft wel van kracht. Inhalen doe je in principe naar links. Op wegen met twee rijstroken per richting mag een vrachtauto de linkerrijstrook gebruiken om in te halen. Op autosnelwegen met drie of meer rijstroken per rijrichting mag een vrachtauto de meest linkse rijstrook niet gebruiken; inhalen kan daar dus alleen door naar een rijstrook links naast je op te schuiven, maar niet naar de uiterste linkerstrook. Rechts inhalen is verboden, met uitzonderingen zoals rechts langs een tram of wanneer een bestuurder links voorgesorteerd is en wacht om af te slaan.",
    "Let erop dat dit bord niet alle andere beperkingen opheft. Doorgetrokken strepen, verdrijvingsvlakken, snelheidslimieten, inhaalverboden voor alle motorvoertuigen (met een ander bord) of tijdelijke signalering kunnen nog steeds betekenen dat inhalen niet mag. Ook als het mag, moet je het alleen doen wanneer je voldoende uitzicht hebt, je snelheid en die van het ingehaalde verkeer kloppen en je genoeg ruimte hebt om veilig terug te keren."
   ],
   "fouten": [
    "Denken dat vrachtauto’s op wegen met drie of meer rijstroken alleen via een rechter naastgelegen rijstrook zouden mogen inhalen. Onjuist: inhalen gebeurt naar links; de meest linkse rijstrook blijft voor vrachtauto’s verboden, maar van rechter- naar middelste rijstrook inhalen mag wel als het verder is toegestaan.",
    "Aannemen dat iedereen nu overal vrij mag inhalen. Het bord heft alleen het specifieke verbod voor vrachtauto’s op; andere regels en tekens kunnen inhalen nog steeds verbieden.",
    "Bromfietsen of snorfietsen als motorvoertuigen zien. Zij zijn dat niet; ook tijdens het eerdere verbod mochten vrachtauto’s deze voertuigen inhalen als het veilig was.",
-   "Direct na het bord zonder controle beginnen met inhalen. Je moet nog steeds beoordelen of het kan binnen de geldende markeringen, met voldoende snelheidsonder verschil en ruimte."
+   "Direct na het bord zonder controle beginnen met inhalen. Je moet nog steeds beoordelen of het kan binnen de geldende markeringen, met voldoende snelheidsverschil en ruimte."
   ],
   "verwar": [
    {
@@ -2444,10 +2451,10 @@
   "watdoejij": "Neem op tijd gas terug en kijk ver vooruit. Bepaal of er verkeer van de andere kant aankomt. Stop zo nodig vóór de versmalling of bij een uitwijkplaats en laat zien dat je wacht. Laat alle tegenliggers volledig passeren, ook een reeks achter elkaar. Rijd daarna rustig en beslist door, zodat je de doorgang niet langer blokkeert dan nodig.",
   "waarzieje": "Je ziet dit bord vaak bij een versmalling, smalle brug, enkelbaans viaductdoorgang of bij (tijdelijke) wegwerkzaamheden. Het staat ook op dijkwegen, in buitengebieden en in woonstraten met chicanes of paaltjes. Soms is er een uitwijkhaven of passeerplaats in de buurt om elkaar veilig te laten passeren.",
   "uitleg": [
-   "De kern is simpel: je moet voorrang verlenen aan tegemoetkomend verkeer, oftewel de ander eerst laten gaan. Nadert er iemand, rijd je niet de versmalling in. Wacht op een veilige plek tot de tegenligger(s) voorbij zijn en de doorgang vrij is. Nadert niemand, dan rijd je door.",
+   "De kern is simpel: je moet tegemoetkomend verkeer voor laten gaan. Nadert er iemand, rijd je niet de versmalling in. Wacht op een veilige plek tot de tegenligger(s) voorbij zijn en de doorgang vrij is. Nadert niemand, dan rijd je door.",
    "Anticiperen helpt. Verminder op tijd snelheid en kies een wachtplek vóór de versmalling of bij een uitwijkplaats. Kun je niet zonder te hinderen passeren? Dan wacht je. Twijfel je of je het nog haalt zonder iemand te laten remmen of uitwijken, dan wacht je ook. Rijd pas door als de andere zijde leeg is en je zeker weet dat je niemand stoort.",
    "Soms komt verkeer in een groepje. Laat dan de hele reeks die al onderweg is eerst passeren. Grote voertuigen of aanhangers hebben vaak extra ruimte nodig; geef die en houd zo nodig extra rechts. Kom je tegelijk aan, maak oogcontact en blijf rustig: wie onder dit bord rijdt, neemt het initiatief om te wachten. Een vriendelijk handgebaar van een tegenligger kan helpen, maar je blijft verantwoordelijk dat het echt veilig is.",
-   "Dit bord is de tegenhanger van het bord waar jij juist voorrang krijgt op tegemoetkomend verkeer. Staat dat andere bord aan de overzijde, dan is voor iedereen duidelijk wie wacht en wie rijdt. Soms regelt een verkeersregelaar of verkeerslicht het tijdelijk; volg die aanwijzingen. Bestuurder betekent: je bestuurt een voertuig. De regel geldt voor alle bestuurders, dus ook voor fietsers, bromfietsers en langzame voertuigen."
+   "Dit bord is de tegenhanger van het bord waar tegemoetkomend verkeer jou juist voor moet laten gaan. Staat dat andere bord aan de overzijde, dan is voor iedereen duidelijk wie wacht en wie rijdt. Soms regelt een verkeersregelaar of verkeerslicht het tijdelijk; volg die aanwijzingen. De regel geldt voor alle bestuurders, dus ook voor fietsers, bromfietsers en langzame voertuigen."
   ],
   "fouten": [
    "Te laat beslissen, toch insteken en dan midden in de versmalling stilvallen.",
@@ -2469,25 +2476,25 @@
   "artikelen": []
  },
  "F6": {
-  "betekenis": "Je hebt voorrang op tegemoetkomend verkeer bij een versmalling of knelpunt.",
+  "betekenis": "Tegemoetkomend verkeer moet jou voor laten gaan bij een versmalling of knelpunt.",
   "watdoejij": "Nader de versmalling op tijd en pas je snelheid aan. Geef duidelijk aan dat je doorrijdt, maar dwing niets af. Zit een tegenligger al in het smalle deel of er vlakbij? Dan stop je en laat je hem eerst gaan. Neem rechts positie, handen aan het stuur, klaar om te remmen, en rijd beheerst door. Zo nodig stem je af met een kort gebaar of oogopslag.",
   "waarzieje": "Je ziet dit bord vaak bij een smalle brug, een dijkweg of een chicane waar maar één voertuig tegelijk past. Ook staat het bij versmallingen door verkeersheuvels of middeneilanden in woonwijken. Tijdens wegwerkzaamheden kan het bij tijdelijke rijbaanafzettingen staan. Op smalle landwegen met bomen of geparkeerde auto's regelt het de doorgang.",
   "uitleg": [
-   "Dit bord regelt de voorrang bij een versmalling. Het tegemoetkomende verkeer moet je voor laten gaan. Voor laten gaan is de ander eerst laten passeren. De witte pijl toont de richting met voorrang, de rode pijl wie wacht. Zo voorkom je dat je tegelijk het smalle deel inrijdt.",
-   "Voorrang hebben is geen vrijbrief om hard te rijden. Nader rustig, kijk ver vooruit en beoordeel de positie van de tegenligger. Zit hij nog buiten de versmalling en kan hij wachten? Zit hij al in het smalle deel, dan laat je hem eerst passeren, ook als je formeel voorrang had. Je voorkomt de aanrijding.",
+   "Dit bord regelt wie eerst mag bij een versmalling. Het tegemoetkomende verkeer moet jou voor laten gaan. Voor laten gaan is de ander eerst laten passeren. De witte pijl toont de richting die eerst mag, de rode pijl wie wacht. Zo voorkom je dat je tegelijk het smalle deel inrijdt.",
+   "Eerst mogen is geen vrijbrief om hard te rijden. Nader rustig, kijk ver vooruit en beoordeel de positie van de tegenligger. Zit hij nog buiten de versmalling en kan hij wachten? Zit hij al in het smalle deel, dan laat je hem eerst passeren, ook als je formeel eerst mocht. Je voorkomt de aanrijding.",
    "Reken op langere remwegen bij nat wegdek en op beperkt zicht door geparkeerde auto's, hekken of bouwschermen. Geef grote of lange voertuigen extra ruimte, zij hebben meer bocht- en uitzwaairuimte nodig. Gebruik je snelheid en je plaats op de weg om te communiceren. Lichtsignalen of claxons zijn zelden nodig en kunnen verwarren.",
    "Soms staat aan de andere kant een wachtrij. Rijd ordelijk door, maar breek de rij als de overzijde anders onnodig lang stilstaat. Krijg je aanwijzingen van een verkeersregelaar of staat er tijdelijk een verkeerslicht? Dan volg je die. Let na de versmalling op invoegende fietsers of voetgangers bij het knelpunt."
   ],
   "fouten": [
    "Denken dat je altijd kunt doorrijden, ook als een tegenligger al in de versmalling zit.",
    "Te hard naderen waardoor je niet meer kunt stoppen wanneer de situatie verandert.",
-   "De pijlen verkeerd lezen en aannemen dat rood jouw richting met voorrang is.",
+   "De pijlen verkeerd lezen en aannemen dat rood jouw richting is die eerst mag.",
    "Tegelijk met een tegenligger het smalle deel inrijden uit angst om je plek te verliezen."
   ],
   "verwar": [
    {
     "code": "F5",
-    "verschil": "Bij jouw bord heb jij voorrang op tegemoetkomend verkeer; zij moeten jou voor laten gaan."
+    "verschil": "Bij jouw bord moet tegemoetkomend verkeer jou voor laten gaan."
    }
   ],
   "examen": "Je herkent aan het bord en de pijlkleur dat je voorrang hebt op de versmalling. Reken op vragen wie eerst gaat, je of de tegenligger, en op situaties waarin je ondanks je voorrang toch kort wacht voor de veiligheid.",
@@ -2671,7 +2678,7 @@
    "Dit is een gebod: fietsers en snorfietsers moeten het aangegeven pad gebruiken. Een e‑bike is in het verkeer gewoon een fiets en hoort hier dus ook. Gehandicaptenvoertuigen mogen gebruikmaken van het fietspad. Bromfietsen (geel kenteken), brommobielen en speed‑pedelecs zijn hier niet toegestaan, want die horen niet op een verplicht fietspad.",
    "Voor snorfietsers is dit pad wél bedoeld. Zij rijden hier met maximaal 25 km/uur en passen hun snelheid aan het overige fietsverkeer aan. Alleen als er een aanvullende aanwijzing staat, zoals een onderbord dat snorfietsers naar de rijbaan verwijst, verlaten snorfietsers het fietspad en volgen ze die route.",
    "Voor automobilisten en andere bestuurders die hier niet thuishoren gelden duidelijke gedragsregels: je rijdt, keert, stilstaat of parkeert niet op het fietspad. Je mag het alleen kruisen om bijvoorbeeld een uitrit of zijweg in te rijden. Houd het pad vrij bij file of bij het in- en uitrijden van opritten, en let extra op kwetsbare weggebruikers die vanaf het fietspad kunnen opduiken.",
-   "Voorrang is niet automatisch geregeld door het bestaan van een fietspad. Haaientanden en borden bepalen de voorrang. Afslaand verkeer moet rechtdoorgaande fietsers en snorfietsers op hetzelfde wegdeel laten voorgaan. Bij een uitritconstructie geef je al het verkeer op het fietspad voorrang, ongeacht de rijrichting.",
+   "Voorrang is niet automatisch geregeld door het bestaan van een fietspad. Haaientanden en borden bepalen de voorrang. Afslaand verkeer moet rechtdoorgaande fietsers en snorfietsers op hetzelfde wegdeel laten voorgaan. Bij een uitritconstructie laat je al het verkeer op het fietspad voor gaan, ongeacht de rijrichting.",
    "Het gebod begint bij het bord en eindigt waar het pad ophoudt of waar het bord ‘Einde verplicht fietspad’ staat. Soms gaat het over in een fiets/bromfietspad; dan zie je het bijbehorende bord en gelden de regels die bromfietsers daar toelaten. Blijf alert op wisselingen en onderborden, zodat je op het juiste deel van de weg rijdt."
   ],
   "fouten": [
@@ -2687,7 +2694,7 @@
    },
    {
     "code": "G12a",
-    "verschil": "Hier staat alleen een fiets afgebeeld en geen bromfiets, dus brom- en snorfietsen horen niet op dit pad."
+    "verschil": "Hier staat alleen een fiets afgebeeld en geen bromfiets, dus bromfietsen horen niet op dit pad."
    },
    {
     "code": "G13",
@@ -2699,13 +2706,13 @@
  },
  "G12": {
   "betekenis": "Vanaf hier hoef je het fietspad niet langer verplicht te gebruiken. Fietsers kunnen de rijbaan oversteken of invoegen.",
-  "watdoejij": "Kijk vroeg in je spiegels en dode hoek naar fietsers die willen invoegen. Pas je snelheid aan, zodat invoegen veilig kan. Geef ruim baan. Let extra op bij afslaan en bij kruisingen. Een fietser kan ineens naast je of vóór je zitten. Volg de regels voor voorrang verlenen en de markeringen. Voorrang verlenen is de ander eerst laten gaan. Dit bord verandert die regels niet.",
+  "watdoejij": "Kijk vroeg in je spiegels en dode hoek naar fietsers die willen invoegen. Pas je snelheid aan, zodat invoegen veilig kan. Geef ruim baan. Let extra op bij afslaan en bij kruisingen. Een fietser kan ineens naast je of vóór je zitten. Volg de regels voor voorrang verlenen en de markeringen. Dit bord verandert die regels niet.",
   "waarzieje": "Je ziet dit bord waar een vrijliggend fietspad stopt en overgaat in een fietsstrook of de rijbaan. In woonwijken kan het voor een kruispunt staan waar de fietsroute even ontbreekt. Buiten de bebouwde kom staat het waar een pad langs een provinciale weg eindigt bij een aansluiting of rotonde. Bij wegwerkzaamheden kan het tijdelijk staan als een deel van het pad weg is.",
   "uitleg": [
    "Tot hier moesten fietsers op het aparte pad blijven. Hier vervalt die plicht. Zij mogen kiezen: de rijbaan op, een andere fietsvoorziening nemen, of afslaan naar een zijweg. Voor jou betekent dit vooral meer fietsers op de rijbaan.",
    "Reken op invoegende fietsers. Zij verliezen vaak snelheid bij het oprijden van de rijbaan, zijn kwetsbaar en kunnen onverwachte lijnen kiezen. Geef ruimte, houd zijdelingse afstand bij inhalen en klem ze niet langs stoepranden of geparkeerde auto’s.",
    "Het bord verbiedt fietsen niet, en het pad hoeft niet direct te eindigen. Soms loopt het pad nog even door maar is het niet meer verplicht. Soms volgt direct een fietsstrook of gedeelde weg. Kijk naar markeringen en volgende borden die de nieuwe regeling aangeven.",
-   "Bij kruisingen verandert de voorrang niet door dit bord. De normale regels, haaientanden, verkeerslichten of borden bepalen wie mag doorrijden. Haaientanden zijn witte driehoeken die voorrang aangeven. Ga je rechtsaf langs het einde van het pad, controleer extra je dode hoek. Een fietser kan naast je rechtdoor willen.",
+   "Bij kruisingen verandert de voorrang niet door dit bord. De normale regels, haaientanden, verkeerslichten of borden bepalen wie mag doorrijden. Haaientanden zijn witte driehoeken op het wegdek; liggen ze vóór je, dan verleen jij voorrang. Ga je rechtsaf langs het einde van het pad, controleer extra je dode hoek. Een fietser kan naast je rechtdoor willen.",
    "Komt er direct na dit bord een nieuwe aanduiding voor fietsers, dan geldt die vanaf dat punt. Zonder nieuwe aanduiding mogen fietsers de rijbaan gebruiken binnen de algemene regels, zoals plaats op de rijbaan, inhalen en verlichting."
   ],
   "fouten": [
@@ -2838,7 +2845,7 @@
   "uitleg": [
    "Een niet‑verplicht fietspad mag je als fietser gebruiken, maar je hoeft het niet te gebruiken. Het ligt vaak vrij van de rijbaan en voelt daardoor comfortabel en veilig. Het bord met de rode schuine streep laat zien dat dit pad eindigt. Vanaf dat punt is er geen aparte, vrijblijvende voorziening voor fietsers meer.",
    "Wat verandert er na het bord? Als fietser ga je naar de rijbaan of naar een andere aangegeven voorziening. Dat mag, tenzij een ander bord iets anders voorschrijft. Als automobilist reken je erop dat fietsers ineens op jouw rijstrook verschijnen of de weg kruisen. Je anticipeert met snelheid en plaats op de weg en geeft ruimte om veilig in te voegen.",
-   "Voorrang en weggedrag slaan niet ineens jouw kant op. Wie van het pad komt, heeft niet vanzelf voorrang; de normale voorrangsregels gelden. Voorrang verlenen betekent dat jij wacht. Is er geen duidelijke voorrangsaanduiding, dan past de invoeger zich aan het verkeer op de weg aan. Fietsers maken oogcontact, geven richting aan en kiezen een geschikt gat. Bestuurder is iedereen die een voertuig rijdt. Bestuurders op de rijbaan letten extra op en geven waar mogelijk ruimte.",
+   "Voorrang en weggedrag slaan niet ineens jouw kant op. Wie van het pad komt, heeft niet vanzelf voorrang; de normale voorrangsregels gelden. Voorrang verlenen betekent dat jij wacht. Is er geen duidelijke voorrangsaanduiding, dan past de invoeger zich aan het verkeer op de weg aan. Fietsers maken oogcontact, geven richting aan en kiezen een geschikt gat. Bestuurders op de rijbaan letten extra op en geven waar mogelijk ruimte.",
    "Na het eindbord kan meteen een andere situatie beginnen. Verschijnt er direct een verplicht fietspad of een fiets/bromfietspad, dan geldt vanaf dat punt weer een gebruiksplicht. Kom je in een woonomgeving of erf terecht, dan gelden de regels die daar horen. Staat er niets, dan gelden de algemene regels van de rijbaan: rechts houden, de snelheidslimiet respecteren en alleen parkeren waar dat mag."
   ],
   "fouten": [
@@ -2956,8 +2963,8 @@
   "artikelen": []
  },
  "G5": {
-  "betekenis": "Je rijdt een erf binnen. Dat is een verblijfsgebied met eigen regels.",
-  "watdoejij": "Je rijdt rustig en voorspelbaar. Reken op veel voetgangers en ander langzaam verkeer over de hele straat. Parkeer alleen waar dat staat aangegeven en let op onoverzichtelijke punten en spelende kinderen.",
+  "betekenis": "Je rijdt een erf binnen. Dat is een verblijfsgebied met eigen regels. Bestuurders mogen hier maximaal 15 km/u rijden.",
+  "watdoejij": "Je rijdt maximaal 15 km/u en langzamer als de omstandigheden dat vragen. Reken op voetgangers en ander langzaam verkeer over de hele straat. Met een motorvoertuig parkeer je alleen op aangegeven parkeerplaatsen, behoudens de wettelijke uitzondering voor gehandicaptenparkeren. Let op onoverzichtelijke punten en spelende kinderen.",
   "waarzieje": "Je ziet dit bord bij inritten van woonerven, pleinen bij winkelcentra en parkeerhoven. Het staat aan de toegang van het gebied, vaak aan beide kanten van de weg. Daar begint het hele erf.",
   "uitleg": [
    "Een erf is een verblijfsgebied. G5 is het bord voor de ingang van zo’n gebied. De inrichting is compact, met korte zichtlijnen, drempels, speelplekken en geparkeerde auto’s. Verkeer is hier te gast. Je past je rijgedrag daarop aan.",
@@ -2974,7 +2981,7 @@
   "verwar": [
    {
     "code": "G6",
-    "verschil": "Hier begint het erf en gelden de woonerf-regels met stapvoets rijden, niet het einde ervan."
+    "verschil": "Hier begint het erf met een maximumsnelheid van 15 km/u; G6 beëindigt het erf."
    },
    {
     "code": "G3",
@@ -2982,21 +2989,26 @@
    },
    {
     "code": "G7",
-    "verschil": "Dit is een erf waar ook auto's stapvoets mogen rijden en de straat wordt gedeeld, dus niet exclusief voor voetgangers."
+    "verschil": "Dit is een erf waar ook auto's mogen rijden, met maximaal 15 km/u en zo nodig langzamer. Het is niet uitsluitend voor voetgangers."
    }
   ],
   "examen": "Je herkent dat G5 een gebied aanduidt en geldt tot G6. Vragen gaan vaak over je rijgedrag en over waar je mag parkeren of keren binnen zo’n gebied.",
-  "artikelen": []
+  "artikelen": [
+   "RVV 44",
+   "RVV 45",
+   "RVV 46",
+   "RVV 85"
+  ]
  },
  "G6": {
-  "betekenis": "Je verlaat een gebied met erfregels; vanaf dit punt gelden niet langer het stapvoets rijden, het delen van de rijbaan met voetgangers en het parkeren uitsluitend in vakken, maar de normale regels van de weg die je oprijdt.",
-  "watdoejij": "Kijk direct welke regels daarna gelden: maximumsnelheid, eventuele voorrangstekens, markeringen en andere borden. Versnel pas als het veilig is en als je zeker weet wat de nieuwe limiet is. Beoordeel de aansluiting: is het een uitrit, dan verleen je iedereen voorrang; is het een normaal kruispunt, volg dan de geldende voorrangsregels. Parkeren doe je vanaf hier weer volgens de algemene regels en eventuele zoneborden.",
+  "betekenis": "Je verlaat het erf. De bijzondere erfregels, waaronder de maximumsnelheid van 15 km/u, eindigen hier. Vanaf dit punt gelden de regels van de weg die je oprijdt.",
+  "watdoejij": "Kijk direct welke regels daarna gelden: maximumsnelheid, eventuele voorrangstekens, markeringen en andere borden. Versnel pas als het veilig is en als je zeker weet wat de nieuwe limiet is. Beoordeel de aansluiting: is het een uitrit, dan laat je alle overige weggebruikers voorgaan; is het een normaal kruispunt, volg dan de geldende voorrangsregels. Parkeren doe je vanaf hier weer volgens de algemene regels en eventuele zoneborden.",
   "waarzieje": "Je komt dit bord tegen aan de randen van woonerven en winkelerven, bijvoorbeeld waar een woonstraat of gebied met spelende kinderen uitkomt op een gewone straat. Je ziet het bij uitgangen van parkeerhofjes en binnenpleinen die als erf zijn ingericht. Het staat bij punten waar je het erfgebied verlaat en een andere wegcategorie of zone binnenrijdt. Het geldt voor het hele gebied dat je uitrijdt, niet alleen voor één rijstrook of rijbaan.",
   "uitleg": [
-   "Binnen een erf gelden bijzondere regels: bestuurders rijden stapvoets, voetgangers mogen de hele weg gebruiken en parkeren mag alleen in aangegeven vakken. Zodra je dit bord passeert stopt die set regels. De rijbaan is niet meer een gedeelde verblijfsruimte; je behandelt de weg weer als een gewone verkeersweg met de daarbij horende regels.",
+   "Binnen een erf mogen bestuurders maximaal 15 km/u rijden en mogen voetgangers de hele breedte van de weg gebruiken. Met een motorvoertuig parkeer je daar alleen op aangegeven parkeerplaatsen, behoudens de wettelijke uitzondering voor gehandicaptenparkeren. Na G6 gelden de regels van de weg die je oprijdt.",
    "Snelheid is na het bord niet automatisch een vaste waarde. Je houdt de maximumsnelheid aan die op de nieuwe weg geldt. Dat kan zijn aangegeven met snelheidsborden of volgen uit een zone, of bij het ontbreken daarvan uit de algemene regels binnen of buiten de bebouwde kom. Dit geldt voor alle bestuurders: van personenauto’s en andere motorvoertuigen tot fietsers, bromfietsen (waaronder snorfietsen) en bestuurders van gehandicaptenvoertuigen.",
-   "Parkeren verandert ook. In een erf mocht je alleen parkeren in vakken; na het bord mag je weer parkeren volgens de normale parkeerregels. Let op parkeerverboden, zoneborden, gele strepen, halteplaatsen en kruispunten. Laden en lossen en het onmiddellijk in- en uitstappen blijven toegestaan zoals normaal, mits je het verkeer niet hindert.",
-   "Let goed op de voorrang bij het verlaten van het gebied. Veel erfaansluitingen zijn ingericht als uitrit; in dat geval verleen je voorrang aan alle weggebruikers op de kruisende weg. Soms sluit een erf echter aan via een normaal kruispunt; dan volg je de aanwezige voorrangsborden, haaientanden of de basisregel dat verkeer van rechts voorrang heeft. Kijk dus altijd naar de weginrichting en tekens, niet alleen naar het gebiedsbord.",
+   "Na het bord volg je de normale parkeerregels en eventuele parkeerverboden, zoneborden, gele strepen en andere tekens. Let ook op de regels bij haltes en kruispunten. Onmiddellijk in- en uitstappen en laden of lossen zijn geen parkeren, maar kunnen wel verboden zijn waar je niet mag stilstaan.",
+   "Let goed op de voorrang bij het verlaten van het gebied. Veel erfaansluitingen zijn ingericht als uitrit; in dat geval laat je alle overige weggebruikers voorgaan. Soms sluit een erf echter aan via een normaal kruispunt; dan volg je de aanwezige voorrangsborden, haaientanden of de basisregel dat bestuurders van rechts voorrang hebben. Kijk dus altijd naar de weginrichting en tekens, niet alleen naar het gebiedsbord.",
    "Dit is een gebiedsbord: het markeert de grens van het hele erf. Het werkt niet per rijstrook of per rijbaan. Voor jou veranderen de regels zodra je het bord bent gepasseerd; verkeer dat nog binnen het erf rijdt, blijft aan de erfregels gebonden totdat het zelf de grens passeert. Wees daarom extra alert op voetgangers of spelende kinderen vlak voor de grens en op snellere stromen verkeer ná de grens."
   ],
   "fouten": [
@@ -3012,11 +3024,17 @@
    },
    {
     "code": "G8",
-    "verschil": "Hier vervalt het woonerf met regels voor alle weggebruikers; het gaat niet om een enkel voetpad."
+    "verschil": "Hier vervalt het erf met regels voor alle weggebruikers; het gaat niet om een enkel voetpad."
    }
   ],
   "examen": "Je moet herkennen dat de bijzondere erfregels hier stoppen en dat je meteen schakelt naar de regels van de nieuwe weg. Vragen gaan vaak over snelheid, voorrang bij het verlaten van het gebied en parkeren.",
-  "artikelen": []
+  "artikelen": [
+   "RVV 44",
+   "RVV 45",
+   "RVV 46",
+   "RVV 54",
+   "RVV 85"
+  ]
  },
  "G7": {
   "betekenis": "Dit bord wijst een voetpad aan. Dat pad is bestemd voor voetgangers.",
@@ -3026,7 +3044,7 @@
    "Het voetpad geeft voetgangers een veilige, rustige plek apart van sneller verkeer. Zo verklein je conflicten tussen lopen en rijden en wordt gedrag voorspelbaar. Loop je, dan gebruik je het pad. Rijden doe je er niet.",
    "Het bord geldt voor het pad achter het bord. De aanwijzing loopt door zolang je daarop blijft. Het eindigt bij een einde-bord of waar het pad duidelijk overgaat in een andere weginrichting. Let op overgangen en nieuwe borden, die bepalen wat daarna geldt.",
    "Een onderbord bij G7 kan extra uitleg geven over de toepassing. Het kan tijden noemen of een deel van het pad aanwijzen. Het kan ook een toevoeging of uitzondering geven. Onderbord en hoofdteken horen samen, je leest ze samen.",
-   "G7 zegt niets over voorrang of over je gedrag op kruisingen. Het bord gaat alleen over wie dit pad moet gebruiken. Andere borden, markeringen of de situatie bepalen hoe je elkaar kruist of voorrang verleent. Voorrang verlenen is de ander eerst laten gaan."
+   "G7 zegt niets over voorrang of over je gedrag op kruisingen. Het bord gaat alleen over wie dit pad moet gebruiken. Andere borden, markeringen of de situatie bepalen hoe je elkaar kruist of voorrang verleent."
   ],
   "fouten": [
    "Denken dat elk licht of klein voertuig hier mag, omdat het rustig lijkt.",
@@ -3047,7 +3065,7 @@
     "verschil": "Dit bord heeft alleen een voetganger als pictogram en duidt een pad aan waar fietsers en bromfietsers niet thuishoren."
    }
   ],
-  "examen": "Je herkent dat G7 het pad exclusief voor voetgangers aanwijst. Vragen gaan vaak over wat jij als bestuurder op dit pad wel of niet mag. Bestuurder is wie een voertuig bedient, en je neemt het onderbord mee in je keuze.",
+  "examen": "Je herkent dat G7 het pad exclusief voor voetgangers aanwijst. Vragen gaan vaak over wat jij als bestuurder op dit pad wel of niet mag. Je neemt het onderbord mee in je keuze.",
   "artikelen": []
  },
  "G8": {
@@ -3056,7 +3074,7 @@
   "waarzieje": "Je ziet dit bord aan het einde van een voetpad, bijvoorbeeld bij een plein, een gemengd pad of een andere weg. Het markeert een duidelijke overgang in de weginrichting. Ontbreekt het soms, dan maakt de nieuwe situatie al duidelijk wat geldt.",
   "uitleg": [
    "Een einde-bord stopt een eerdere aanwijzing. G8 zegt niet wat daarna moet; het zegt alleen dat je niet meer op een aangewezen voetpad bent. Wat wel mag, lees je uit nieuwe borden of de weginrichting.",
-   "De werking begint exact op de plek van het bord. Na passeren ben je geen voetpad meer. Dan gelden de regels van de nieuwe weg of het nieuwe pad; kijk direct na het bord naar nieuwe informatie.",
+   "De werking begint exact op de plek van het bord. Na passeren ben je niet meer op een voetpad. Dan gelden de regels van de nieuwe weg of het nieuwe pad; kijk direct na het bord naar nieuwe informatie.",
    "Staat er een onderbord onder G8, dan hoort het bij dit einde. Het kan het bereik of een nadere aanduiding geven. Lees het altijd samen met het hoofdteken, anders mis je de strekking.",
    "Soms ontbreekt G8 bij het einde van een voetpad, bijvoorbeeld als je het pad duidelijk verlaat. Na G8 kan later weer een voetpad beginnen; dat staat dan met G7."
   ],
@@ -3115,18 +3133,18 @@
   "artikelen": []
  },
  "H1": {
-  "betekenis": "Vanaf hier rijd je binnen de bebouwde kom. De algemene maximumsnelheid is 50 km/h, tenzij een snelheidsbord of zonebord anders aangeeft. Reken op meer verkeer en op overstekende voetgangers en fietsers.",
+  "betekenis": "Vanaf hier rijd je binnen de bebouwde kom. Voor motorvoertuigen geldt als algemene maximumsnelheid 50 km/h, tenzij borden anders aangeven. Bijzondere lagere voertuiglimieten blijven gelden. Reken op overstekende voetgangers en fietsers.",
   "watdoejij": "Vóór het bord laat je gas los, zodat je erna meteen op de juiste snelheid zit. Je scant actief kruispunten, oversteken, zijstraten, fietsers en geparkeerde auto’s die kunnen uitrijden. Let extra op zoneborden, zoals een 30‑zone, en volg die snelheden precies. Vergroot je voorspelbaarheid. Geef op tijd richting aan, houd meer afstand en rij vlot maar rustig weg bij groen.",
   "waarzieje": "Je ziet dit bord bij invalswegen van steden en dorpen, wanneer je vanuit het buitengebied of een 80‑weg de plaats binnenrijdt. Ook bij wegen vanaf ringwegen of industrieterreinen naar woonwijken staat het aan het begin van de kom. De plaatsnaam op het bord is de naam van de bebouwde kom die je binnenrijdt.",
   "uitleg": [
-   "Dit bord markeert de grens tussen buitengebied en aaneengesloten bebouwing. De omgeving verandert: meer gebouwen dicht op de weg, vaak trottoirs, fietsstroken en straatverlichting. Dat merk je direct. Je rijtaak verschuift van doorstromen naar anticiperen op veel verschillende weggebruikers in een drukkere, gevarieerde omgeving.",
-   "Na het passeren van dit bord geldt de algemene maximumsnelheid van 50 km/h, tenzij meteen een andere snelheid staat aangegeven. Veel gemeenten hebben daarnaast 30‑zones in woonstraten en rond scholen; die beginnen en eindigen met duidelijke zoneborden. Zie je hierna een bord met een andere snelheid, dan volg je dat. Anders houd je 50 km/h aan en pas je je snelheid aan de omstandigheden aan.",
+   "Dit bord markeert de juridische grens van de bebouwde kom. De bebouwing of straatverlichting alleen bepaalt die grens niet. Verwacht meer verschillende weggebruikers, kruispunten en oversteekbewegingen. Kijk vooruit en pas je rijgedrag aan de werkelijke situatie aan.",
+   "Voor motorvoertuigen geldt hier in beginsel maximaal 50 km/h. Een snelheidsbord of snelheidszone kan een andere limiet aangeven, bijvoorbeeld 30 km/h. Een bijzondere lagere limiet voor je voertuig blijft gelden. De limiet is geen doelsnelheid: rijd langzamer als zicht, weer of verkeer dat nodig maakt.",
    "Binnen de bebouwde kom kom je vaker oversteekplaatsen, korte volgafstanden, geparkeerde voertuigen en afslaand verkeer tegen. Houd ruime volgafstand en kijk ver vooruit. Reken op onverwachte acties van voetgangers en fietsers. Wegontwerp laat vaak zien dat je een dorp of stad binnenrijdt, bijvoorbeeld met drempels, versmallingen of rotondes; benader die rustig en kies op tijd de juiste positie.",
    "De plaatsnaam op het bord hoort bij het bord zelf en geeft aan welke kom je binnenrijdt. Je blijft binnen die kom totdat je het bijbehorende eindbord passeert. Tussen begin en einde kunnen verschillende wijken en wegtypes liggen. De regels die horen bij binnen de kom blijven gelden totdat je het eindbord tegenkomt."
   ],
   "fouten": [
    "Te laat snelheid minderen en pas ná het bord remmen; direct erna moet de juiste snelheid al gelden.",
-   "Denken dat elke weg binnen de kom automatisch 30 km/h is; 50 km/h is de basis, tenzij zone‑ of snelheidsborden anders aangeven.",
+   "Denken dat elke weg binnen de kom automatisch 30 km/h is. Voor motorvoertuigen is 50 km/h de algemene grens; controleer borden en bijzondere voertuiglimieten.",
    "Aannemen dat de plaatsnaam los naast het bord kan staan; de plaatsnaam is onderdeel van dit bord.",
    "Vergeten dat je tot het eindbord binnen de kom blijft en tussendoor weer 80 km/h mag; zonder nieuw snelheidsbord blijft de kom‑snelheid gelden."
   ],
@@ -3136,23 +3154,23 @@
     "verschil": "Op jouw bord staat de plaatsnaam zonder rode diagonale streep over de tekst."
    }
   ],
-  "examen": "Je herkent dat met dit bord de algemene maximumsnelheid van 50 km/h geldt, tenzij een ander bord of een zone dit aanpast. Reken op fotovragen waarbij je aangeeft welke snelheid of welk rijgedrag direct na het bord juist is.",
+  "examen": "Herken de komgrens en de algemene maximumsnelheid van 50 km/h voor motorvoertuigen. Houd rekening met andere snelheidsborden, zones en bijzondere lagere voertuiglimieten. Kies ook direct na het bord een veilige snelheid.",
   "artikelen": []
  },
  "H2": {
   "betekenis": "Je rijdt het buitengebied in. Vanaf hier gelden de regels en de maximumsnelheid buiten de kom, op gewone wegen meestal 80 km/h. Andere borden gaan voor. Ze kunnen lager of hoger aangeven.",
-  "watdoejij": "Pas je snelheid pas ná het bord aan. Kijk direct of er een snelheidsbord of zonebord staat dat voorrang heeft. Geef extra afstand en reken op hogere snelheden en grotere verschillen. Een lijnbus die van een halte wegrijdt heeft hier geen voorrang; je hoeft geen voorrang te verlenen. Voorrang verlenen is iemand eerst laten gaan. Is het donker en kun je zonder te verblinden, gebruik dan vaker groot licht.",
+  "watdoejij": "Verhoog je snelheid pas na het bord, als dat is toegestaan en veilig kan. Controleer wegtype, snelheidsborden, zones en voertuiglimieten. Houd voldoende afstand. De bijzondere verplichting om een autobus met richtingaanwijzer van een halte te laten wegrijden geldt binnen de bebouwde kom; buiten de kom niet. Andere verkeersregels en de verplichting gevaar te voorkomen blijven gelden. Gebruik groot licht alleen als dat mag en zonder te verblinden.",
   "waarzieje": "Op uitvalswegen van dorpen en steden waar de weg het buitengebied ingaat. Op routes naar provinciale weg, autoweg of autosnelweg, vaak na de laatste aaneengesloten bebouwing. Ook bij kleine kernen of buurtschappen waar de weg het open land in loopt en de omgeving opener wordt.",
   "uitleg": [
    "Het plaatsnaambord met rode diagonale streep markeert de komgrens. Vanaf dat punt gelden de algemene regels voor wegen buiten de kom. Zonder extra borden is de maximumsnelheid op gewone buitenwegen meestal 80 km/h. Kom je op een autoweg of autosnelweg uit, dan bepalen wegtype‑borden en snelheidsborden de limiet. Buiten de kom liggen kruispunten verder uit elkaar, zijn er minder zijwegen en varieert de wegcategorie meer.",
-   "Belangrijk: dit bord stelt zelf geen snelheid in en heft geen limiet op. Geldt er al een 60‑zone of staat er een snelheidsbord? Dan blijft dat zo tot je een nieuw bord ziet dat het wijzigt of beëindigt. Zie je direct na de komgrens een rond snelheidsbord, dan volg je dat, niet de ‘meestal 80’-regel. Verhoog je snelheid pas na het bord en alleen als de situatie dat toelaat.",
-   "Sommige gedragsregels verschillen binnen en buiten de kom. Een lijnbus die van een halte wegrijdt heeft buiten de kom geen voorrang; jij beslist of je ruimte geeft. Parkeren op de rijbaan van een voorrangsweg is buiten de kom verboden, ook zonder aparte parkeerborden. Houd rekening met landbouwvoertuigen en ruiters en met grotere snelheidsverschillen tussen weggebruikers.",
+   "Door de komgrens te passeren veranderen de algemene regels voor binnen en buiten de kom. Het bord beëindigt niet automatisch een bestaande snelheidszone. Lees de borden die de betreffende zone afbakenen; een nieuwe zone voor een ander onderwerp, zoals parkeren, beëindigt een snelheidszone niet. Controleer bij een gewone snelheidsbeperking het wegvak en de toepasselijke begin-, wijzigings- en eindborden. Een nog geldende lagere limiet blijft gelden. Versnel alleen als het is toegestaan en veilig kan.",
+   "Binnen de bebouwde kom moeten bestuurders een autobus gelegenheid geven van een halte weg te rijden als de buschauffeur dat met de richtingaanwijzer aangeeft. Dit geldt niet alleen voor lijnbussen. Buiten de kom geldt deze bijzondere regel niet: een wegrijdende bus verricht daar een bijzondere manoeuvre en moet het overige verkeer voor laten gaan. Blijf zelf veilig en voorspelbaar rijden. Buiten de kom mag je bovendien niet parkeren op de rijbaan van een voorrangsweg.",
    "De omgeving verandert merkbaar: minder straatverlichting, langere zichtafstanden en een opener landschap. Pas je kijkgedrag aan. Kijk verder vooruit, anticipeer eerder op kruisingen en in- en uitritten, en houd meer marge bij inhalen. In het donker kun je vaker groot licht gebruiken zolang je niemand hindert. Bij nat of smal wegdek, dichte begroeiing of mogelijke wildoversteek neem je extra gas terug."
   ],
   "fouten": [
    "Denken dat je meteen 100 of 130 mag; die snelheden gelden pas op autoweg of autosnelweg met bijbehorende borden.",
-   "Aannemen dat een 30‑ of 60‑zone vanzelf eindigt; een zone stopt pas bij het einde‑zonebord of een nieuw zonebord.",
-   "Vergeten dat lijnbussen die wegrijden buiten de kom geen voorrang hebben, waardoor je onnodig stopt of juist gevaarlijk versnelt.",
+   "Denken dat een 30- of 60-zone vanzelf eindigt bij de komgrens of bij het begin van een andere soort zone. Controleer de afbakening van de betreffende snelheidszone.",
+   "De bijzondere halteregel voor autobussen buiten de kom toepassen, of denken dat je daar geen rekening met een wegrijdende bus hoeft te houden. Blijf gevaar en hinder voorkomen.",
    "Al vóór het bord versnellen, in plaats van pas ná het passeren en na kijken naar nieuwe snelheids‑ of zoneborden."
   ],
   "verwar": [
@@ -3162,7 +3180,13 @@
    }
   ],
   "examen": "Je kunt vragen krijgen over de maximumsnelheid vanaf dit bord en of een bus die wegrijdt nog voorrang heeft. Let in vragen en foto’s goed op aansluitende snelheids‑ en zoneborden; die bepalen je exacte snelheid.",
-  "artikelen": []
+  "artikelen": [
+   "RVV 20",
+   "RVV 21",
+   "RVV 54",
+   "RVV 56",
+   "RVV 66"
+  ]
  },
  "J1": {
   "betekenis": "Je nadert een wegvak met duidelijke oneffenheden die je auto onrustig maken. Je past je snelheid en aandacht meteen aan.",
@@ -3206,7 +3230,7 @@
    "Dit is een waarschuwingsbord: het kondigt aan dat er verderop een overweg is met slagbomen. Het bord verplicht je niet tot stoppen, maar wel tot oplettend rijden en snelheid aanpassen. Reken erop dat de situatie plots kan veranderen, bijvoorbeeld omdat een trein nadert en de bomen sluiten.",
    "De basisregel bij een overweg is dat je deze alleen oprijdt als je zonder te stoppen kunt doorrijden naar de overkant. Controleer daarom vóór je de overweg opgaat of er achter de overweg voldoende ruimte is, zeker bij filevorming. Kom je in een file aanrijden, wacht dan vóór de overweg tot je zeker door kunt. Stilstaan op de rails is levensgevaarlijk.",
    "Wanneer de bomen sluiten, wanneer er bellen klinken of, als die er zijn, wanneer rode lichten knipperen, moet je stoppen vóór de overweg. Onder of langs gesloten of dalende slagbomen doorrijden is verboden en extreem riskant. Wacht tot alle signalen zijn beëindigd en de bomen volledig zijn geopend. Kijk daarna extra goed links en rechts: er kan een tweede trein naderen.",
-   "Het bord zegt alleen iets over de aanwezigheid van slagbomen. Er kunnen knipperlichten en bellen aanwezig zijn, maar dat is niet gegarandeerd. Aan de overweg zelf staan vrijwel altijd witte Andreaskruisen: één kruis bij enkel spoor en twee kruisen bij twee of meer sporen. Die herinneren je eraan dat je met treinverkeer te maken hebt en dat elke trein voorrang heeft.",
+   "Het bord zegt alleen iets over de aanwezigheid van slagbomen. Er kunnen knipperlichten en bellen aanwezig zijn, maar dat is niet gegarandeerd. Aan de overweg zelf staan vrijwel altijd rood-witte Andreaskruisen: een enkel kruis bij één spoor en een dubbel kruis bij twee of meer sporen. Die herinneren je eraan dat je met treinverkeer te maken hebt en dat elke trein voorrang heeft.",
    "De regels gelden voor alle bestuurders: dus voor personenauto’s, vrachtauto’s en autobussen, maar ook voor fietsers, bromfietsers (waaronder snorfietsers) en bestuurders van een gehandicaptenvoertuig. Houd rekening met weggebruikers die meer tijd nodig hebben om de overweg te passeren, zoals lange voertuigen met aanhangwagen of landbouwvoertuigen."
   ],
   "fouten": [
@@ -3234,10 +3258,10 @@
  },
  "J11": {
   "betekenis": "Je nadert een spoorwegovergang zonder slagbomen. Pas je snelheid aan, kijk extra goed en wees klaar om te stoppen voor een trein.",
-  "watdoejij": "Mind tijdig vaart, kijk vooruit en blijf links en rechts controleren tot je zeker weet dat het spoor vrij is. Rij alleen als je in één keer kunt oversteken, en blijf nooit op het spoor staan, ook niet bij file. Hoor of zie je een trein of rode knipperlichten, dan stop je en ga je pas door als het weer veilig is.",
+  "watdoejij": "Minder tijdig vaart, kijk vooruit en blijf links en rechts controleren tot je zeker weet dat het spoor vrij is. Rij alleen als je in één keer kunt oversteken, en blijf nooit op het spoor staan, ook niet bij file. Hoor of zie je een trein of rode knipperlichten, dan stop je en ga je pas door als het weer veilig is.",
   "waarzieje": "Vaak op rustige buitenwegen, polderwegen en dijken waar een spoorlijn een smalle weg kruist. Je ziet het ook bij industrieterreinen of landwegen met een zijspoor naar een bedrijf. De omgeving kan onoverzichtelijk zijn door begroeiing, een bocht of bebouwing, dus let extra op en mind tijdig vaart.",
   "uitleg": [
-   "Dit bord waarschuwt voor een spoorwegovergang zonder slagbomen. Een trein kan plots verschijnen terwijl de weg vrij lijkt. Treinen kunnen niet snel stoppen. Voorrang is eerst mogen gaan. De trein heeft die altijd, dus jij steekt alleen over als het veilig kan.",
+   "Dit bord waarschuwt voor een spoorwegovergang zonder slagbomen. Een trein kan plots verschijnen terwijl de weg vrij lijkt. Treinen kunnen niet snel stoppen. De trein heeft altijd voorrang, dus jij steekt alleen over als het veilig kan.",
    "Nader met aangepaste snelheid, zodat je vóór de overweg kunt stoppen. Kijk en luister actief, en blijf links en rechts controleren tot vlak vóór het oprijden. Is je zicht beperkt door begroeiing, een bocht, mist of duisternis, neem dan extra marge en stop zo nodig eerst voor beter zicht.",
    "Sommige overwegen hebben wel signalen, zoals rode knipperlichten of een bel. Zie of hoor je zo'n signaal of een duidelijke trein, dan stop je tijdig vóór de overweg of voor de markering. Ga pas door als alle signalen uit zijn, je het spoor kunt overzien en het vrij is.",
    "Rij nooit op als je niet zeker weet dat je er in één keer af komt. Houd in file extra afstand en wacht vóór de overweg tot er genoeg uitrijruimte is. Sta je toch stil op het spoor, verlaat dan direct de overweg; lukt dat niet, laat iedereen uitstappen en waarschuw de hulpdiensten. Begint tijdens het oversteken een signaal, maak dan de oversteek af en stop niet op het spoor."
@@ -3357,7 +3381,7 @@
   "verwar": [
    {
     "code": "J10",
-    "verschil": "Dit bord waarschuwt voor een tramkruising op of langs de rijbaan, niet voor een reguliere spoorwegovergang met treinen."
+    "verschil": "Dit bord waarschuwt voor een kruising met een tram, niet voor een reguliere spoorwegovergang met treinen."
    },
    {
     "code": "J11",
@@ -3471,7 +3495,7 @@
    "Dit bord waarschuwt voor een versmalling aan de rechterzijde van de rijbaan. De beschikbare breedte voor voertuigen neemt af door een obstakel, weginrichting of een smaller profiel. Het is een gevaarsbord: het kondigt aan dat je extra voorzichtig moet zijn, maar het verandert de algemene voorrangsregels niet en stelt op zichzelf geen rijstrookwijziging verplicht.",
    "Rij technisch defensief: kijk ver vooruit, pas je snelheid aan de situatie aan en kies een veilige plaats op de rijbaan. Bij nadering van de versmalling breng je je voertuig iets naar links binnen je eigen rijstrook, richting de as, zodat je afstand houdt tot de rechterrand, stoeprand, geparkeerde voertuigen of een fietsstrook. Blijf wel binnen je rijstrook en raak geen verdrijvingsvlak of puntstuk.",
    "Wordt door markering of aanvullende bebording duidelijk dat een rijstrook daadwerkelijk ophoudt, dan geldt samenvoegen en zo nodig ritsen vlak vóór het einde van die rijstrook. Dit bord zelf geeft niet het einde van een rijstrook aan; het kondigt alleen de smaller wordende rijbaan aan. Geef tijdig richting aan, kijk over je schouder en houd het snelheidsverschil klein bij het invoegen.",
-   "Op smalle wegen met tegenliggers kan de versmalling betekenen dat twee voertuigen niet comfortabel naast elkaar passen. Forceer niets: mindeer snelheid, ga desnoods even wachten voor de versmalling en geef elkaar ruimte. Er ontstaat geen nieuwe voorrangssituatie door dit bord; zonder extra tekens blijven de normale regels gelden en verleen je waar nodig voorrang zodat iedereen ongehinderd kan doorrijden.",
+   "Op smalle wegen met tegenliggers kan de versmalling betekenen dat twee voertuigen niet comfortabel naast elkaar passen. Forceer niets: minder snelheid, ga desnoods even wachten voor de versmalling en geef elkaar ruimte. Er ontstaat geen nieuwe voorrangssituatie door dit bord; zonder extra tekens blijven de normale regels gelden en verleen je waar nodig voorrang zodat iedereen ongehinderd kan doorrijden.",
    "Bestuurders van brede voertuigen zoals vrachtwagens, autobussen of auto’s met aanhangwagen moeten rekening houden met uitzwaai en de breedte van het voertuig. Houd ook rekening met fietsers of bromfietsers als die op de rijbaan of een fietsstrook rechts van je rijden; geef ze voldoende zijdelingse ruimte en stuur niet naar rechts uit om ze ‘langs de rand te drukken’. Bij slecht zicht of een natte, gladde rand is extra marge en lagere snelheid verstandig."
   ],
   "fouten": [
@@ -3622,13 +3646,13 @@
   "uitleg": [
    "Dit is een waarschuwingsbord dat aankondigt dat er kort na het bord een voetgangersoversteekplaats ligt. Op het wegdek herken je die aan de brede witte dwarsstrepen. Alle bestuurders moeten voetgangers en bestuurders van een gehandicaptenvoertuig die op de oversteekplaats lopen of rijden, voor laten gaan. Dat geldt dus voor automobilisten, motorrijders, fietsers, bromfietsers, snorfietsers, bestuurders van een tram en bestuurders van andere voertuigen.",
    "Nader een zebrapad altijd met zódanige snelheid dat je binnen de afstand die je kunt overzien veilig kunt stoppen. Reken erop dat iemand plotseling kan gaan oversteken, zeker bij geparkeerde auto’s, stilstaande bussen of drukke stoepen die je zicht beperken. Maak oogcontact waar mogelijk en wees bedacht op kinderen en mensen die minder snel zijn. Gebruik je claxon alleen als je daarmee direct gevaar afwendt.",
-   "Is er een middeneiland of vluchtheuvel, dan zijn er in de praktijk twee afzonderlijke oversteken: voor iedere rijrichting één. Jij verleent in elk geval voorrang aan iedereen die jouw rijbaan oversteekt. Houd tegelijk rekening met voetgangers op het andere deel en vertrek pas als dat veilig kan, zodat niemand schrikt of klem komt te zitten op het middeneiland.",
-   "Inhalen vlak voor of op een voetgangersoversteekplaats is verboden, omdat je daarmee het zicht op overstekers wegneemt en zij jou mogelijk niet zien. Parkeren op of binnen vijf meter van een voetgangersoversteekplaats is ook verboden. Kom je in een file tot stilstand, dan houd je de strepen vrij en stop je ervoor, niet erop. Zijn er verkeerslichten bij het zebrapad, dan volg je de lichten, maar blijf je alsnog alert op laat overstekende voetgangers."
+   "Is er een middeneiland of vluchtheuvel, dan zijn er in de praktijk twee afzonderlijke oversteken: voor iedere rijrichting één. Jij laat in elk geval iedereen voor gaan die jouw rijbaan oversteekt. Houd tegelijk rekening met voetgangers op het andere deel en vertrek pas als dat veilig kan, zodat niemand schrikt of klem komt te zitten op het middeneiland.",
+   "Inhalen vlak voor of op een voetgangersoversteekplaats is verboden, omdat je daarmee het zicht op overstekers wegneemt en zij jou mogelijk niet zien. Stilstaan, en dus ook parkeren, op of binnen vijf meter van een voetgangersoversteekplaats is ook verboden. Kom je in een file tot stilstand, dan houd je de strepen vrij en stop je ervoor, niet erop. Zijn er verkeerslichten bij het zebrapad, dan volg je de lichten, maar blijf je alsnog alert op laat overstekende voetgangers."
   ],
   "fouten": [
    "Dit bord verwarren met J23: dat waarschuwt voor overstekende voetgangers zonder zebrapad; J22 gaat juist over een oversteekplaats met witte strepen.",
-   "Denken dat alleen motorvoertuigen hoeven te stoppen; in werkelijkheid moeten alle bestuurders voorrang verlenen, dus ook fietsers, bromfietsers, snorfietsers en trambestuurders.",
-   "Aannemen dat een fietser op de fiets voorrang heeft op de zebra; alleen voetgangers en bestuurders van een gehandicaptenvoertuig hebben hier recht op voorrang. Een fietser moet afstappen om als voetganger te tellen.",
+   "Denken dat alleen motorvoertuigen hoeven te stoppen; in werkelijkheid moeten alle bestuurders voetgangers voor laten gaan, dus ook fietsers, bromfietsers, snorfietsers en trambestuurders.",
+   "Aannemen dat je een fietser op de fiets op de zebra voor moet laten gaan; dat geldt alleen voor voetgangers en bestuurders van een gehandicaptenvoertuig. Een fietser moet afstappen om als voetganger te tellen.",
    "Vlak voor of op de oversteekplaats inhalen of de strepen blokkeren bij filevorming; zo ontnemen bestuurders elkaar en de voetgangers het zicht en ontstaat gevaar."
   ],
   "verwar": [
@@ -3654,12 +3678,12 @@
   "waarzieje": "Je ziet dit vaak bij drukke looproutes buiten een kruispunt. Denk aan parken, winkelstraten, strandovergangen en parkeerplaatsen. Ook rond scholen, sportcomplexen en evenemententerreinen, waar groepen tegelijk kunnen oversteken. Bij bushaltes en OV-knooppunten waar reizigers de rijbaan kruisen om naar de halte of oversteek te lopen. Op wegen zonder zebra waar toch geregeld wordt overgestoken.",
   "uitleg": [
    "Dit waarschuwingsbord meldt geen vaste oversteekplaats. Het zegt dat je een wegdeel nadert met een grote kans op overstekende of langs de rijbaan lopende mensen. Pas je rijgedrag op tijd aan zodat je niemand in gevaar brengt en een aanrijding voorkomt.",
-   "Je hoeft hier niet automatisch te stoppen zoals bij een voetgangersoversteekplaats. Je rijdt zo dat je binnen je zichtafstand veilig kunt stoppen. Bij afslaan verleen je voorrang aan voetgangers die op dezelfde weg rechtdoor gaan. Voorrang verlenen is de ander eerst laten gaan. Reken erop dat iemand plots tussen stilstaande of geparkeerde voertuigen vandaan kan komen.",
+   "Je hoeft hier niet automatisch te stoppen zoals bij een voetgangersoversteekplaats. Je rijdt zo dat je binnen je zichtafstand veilig kunt stoppen. Bij afslaan laat je voetgangers die op dezelfde weg rechtdoor gaan voor gaan. Reken erop dat iemand plots tussen stilstaande of geparkeerde voertuigen vandaan kan komen.",
    "Pas je snelheid aan op drukte, zicht, wegverloop en wegdek. In regen, schemer of duisternis zie je voetgangers later; neem extra marge. Kijk links en rechts langs de rijbaan. Wees bedacht op kinderen, ouderen of toeristen die onervaren kunnen oversteken.",
    "Soms staat er een onderbord met afstand, bijvoorbeeld 200 m, of met trajectlengte. Dan geldt de verhoogde kans op overstekers over die afstand. Zie je tijdelijk veel voetgangers, zoals na een evenement, wees bereid kort te stoppen. Laat het eerst veilig worden en rijd daarna weer vlot door."
   ],
   "fouten": [
-   "Denken dat je altijd moet stoppen voor elke voetganger. Dat geldt bij J22; hier pas je je rijgedrag aan de situatie aan.",
+   "Denken dat je altijd moet stoppen voor elke voetganger. Bij J22 laat je voetgangers die oversteken of op het punt staan dat te doen voor gaan; hier pas je je rijgedrag aan de situatie aan.",
    "Niet vertragen omdat er nu niemand zichtbaar is, terwijl iemand plots vanachter een bus of auto kan verschijnen.",
    "Alleen recht vooruit kijken en stoepen, haltes en parkeerplaatsen aan de zijkant negeren.",
    "Te dicht langs voetgangers rijden die naast de rijbaan lopen, zonder zijruimte te laten."
@@ -3678,18 +3702,18 @@
     "verschil": "Hier gaat het enkel om voetgangers, niet om fietsers of bromfietsers."
    }
   ],
-  "examen": "Ken het verschil met J22: hier anticipeer je en pas je snelheid aan, bij J22 verleen je altijd voorrang op de zebra. Reken op vragen met slecht zicht of met bus- en parkeervakken waar iemand plotseling kan oversteken.",
+  "examen": "Ken het verschil met J22: hier anticipeer je en pas je snelheid aan, bij J22 laat je voetgangers op de zebra altijd voor gaan. Reken op vragen met slecht zicht of met bus- en parkeervakken waar iemand plotseling kan oversteken.",
   "artikelen": []
  },
  "J24": {
   "betekenis": "Je nadert een plek waar tweewielers de rijbaan kunnen kruisen of er kort op rijden. Dus snelheid omlaag en extra opletten.",
-  "watdoejij": "Neem op tijd gas terug en houd je rechtervoet remklaar. Kijk ver vooruit. Scan links en rechts langs bermen, hagen en geparkeerde voertuigen waarachter iemand kan verschijnen. Voorrang verlenen betekent dat je een ander eerst laat gaan. Verleen zo nodig voorrang volgens borden, haaientanden, verkeerslichten en de algemene regels. Haaientanden zijn witte driehoeken; daar verleen je voorrang. Stop als doorgaan niet veilig is. Haal niet in vlak voor of op de oversteek en houd extra afstand tot je voorligger.",
+  "watdoejij": "Neem op tijd gas terug en houd je rechtervoet remklaar. Kijk ver vooruit. Scan links en rechts langs bermen, hagen en geparkeerde voertuigen waarachter iemand kan verschijnen. Verleen zo nodig voorrang volgens borden, haaientanden, verkeerslichten en de algemene regels. Haaientanden zijn witte driehoeken; liggen ze vóór je, dan verleen jij voorrang. Stop als doorgaan niet veilig is. Haal niet in vlak voor of op de oversteek en houd extra afstand tot je voorligger.",
   "waarzieje": "Je ziet dit vaak buiten een kruispunt, bij een fietspad dat de rijbaan kruist. Veel plekken: 60- en 80-km-wegen, dijken, landwegen en aansluitingen van snelfietsroutes. Ook bij scholen, woonwijken, parken en recreatiegebieden met veel fietsverkeer. Soms hangt er een onderbord met afstand of een pijl naar de kruisende route.",
   "uitleg": [
    "Dit is een waarschuwingsbord. Op korte afstand kunnen fietsers en bromfietsers jouw rijbaan kruisen of er even op rijden. Ze kunnen uit beide richtingen komen, soms in een groep. Je past je snelheid aan en blijft alert op onverwachte bewegingen.",
    "Het bord verandert de voorrang niet. Je volgt de aanwijzingen op de weg: haaientanden, verkeerslichten, markeringen en de algemene regels. Is het zicht beperkt of naderen snelle tweewielers, dan neem je gas terug en ben je remklaar. Komt iemand duidelijk aanrijden en is doorgaan niet veilig, dan stop je en laat je die passeren.",
    "Het risico is groter door hun kleine silhouet en het snelheidsverschil. E-bikes en bromfietsen kunnen harder naderen dan je verwacht. Let op mensen die schuilen achter geparkeerde auto’s, struiken of in een bocht. In regen of schemer zie je lampjes later; zet tijdig je licht aan en houd ruiten en spiegels schoon.",
-   "Rijd defensief. Bestuurder is iedereen die een voertuig bestuurt. Haal niet meer in vlak voor de oversteek en blijf extra rechts voor uitwijkruimte. Kijk ook in je spiegels naar verkeer dat wil inhalen terwijl jij afremt. Houd rekening met onzekere of jonge bestuurders op tweewielers die plots kunnen stoppen of slingeren.",
+   "Rijd defensief. Haal niet meer in vlak voor de oversteek en blijf extra rechts voor uitwijkruimte. Kijk ook in je spiegels naar verkeer dat wil inhalen terwijl jij afremt. Houd rekening met onzekere of jonge bestuurders op tweewielers die plots kunnen stoppen of slingeren.",
    "Je ziet dit bord vaak waar geen volwaardig kruispunt is maar wel een drukke fietsverbinding de rijbaan kruist. Soms liggen er maatregelen zoals een vluchtheuvel, een middeneiland of ribbelstroken om je snelheid te drukken. Een onderbord kan de afstand of de kant van de oversteek aangeven."
   ],
   "fouten": [
@@ -3720,7 +3744,7 @@
    "Snelheid aanpassen is het belangrijkst. Hoe hoger je snelheid, hoe meer stenen opspatten en hoe langer je remweg. Rem gedoseerd en kijk ver vooruit. In bochten en op hellingen let je extra op. Losse steentjes rollen daar eerder weg door remmen en sturen.",
    "Houd ruim afstand tot je voorligger en tot tegenliggers. Jouw auto kan steentjes wegslingeren en schade veroorzaken. Met afstand en rustig rijden verklein je dat risico sterk. Inhalen is onverstandig. Je versnelt, stuurt meer en rijdt in de vuile strook naast het spoor van je voorganger.",
    "De waarschuwing kan tijdelijk zijn, bijvoorbeeld direct na wegwerkzaamheden. Ze kan ook permanent zijn op wegen met structureel los grind. Soms staat er een onderbord met een adviessnelheid. Of er is een aparte snelheidslimiet geplaatst. Volg die borden. Zonder aanvullend verbod is dit bord zelf geen snelheidslimiet. Je past wel je snelheid zo aan dat je controle houdt en geen gevaar of hinder veroorzaakt.",
-   "Let op kwetsbare weggebruikers. Bij motorfietsen, bromfietsen en snorfietsen is glijrisico groot. Een bestuurder bestuurt een voertuig. Fietsers en bestuurders van een gehandicaptenvoertuig schrikken van opspattende stenen. Als automobilist geef je ruimte en verminder je tijdig snelheid. Rijd zo rustig mogelijk voorbij."
+   "Let op kwetsbare weggebruikers. Bij motorfietsen, bromfietsen en snorfietsen is glijrisico groot. Fietsers en bestuurders van een gehandicaptenvoertuig schrikken van opspattende stenen. Als automobilist geef je ruimte en verminder je tijdig snelheid. Rijd zo rustig mogelijk voorbij."
   ],
   "fouten": [
    "Denken dat dit bord een vaste snelheidslimiet geeft. Dat klopt niet, tenzij er een extra bord met limiet bij staat.",
@@ -3747,7 +3771,7 @@
  },
  "J26": {
   "betekenis": "Je nadert een waterkant direct langs of aan het einde van de weg, dus je past je snelheid en positie aan om niet in het water te belanden.",
-  "watdoejij": "Ik verminder ruim op tijd mijn snelheid en houd meer afstand tot de rand van de rijbaan. Ik kies een rijlijn met duidelijke uitwijkruimte en blijf geconcentreerd op bochten, krappe passages en mogelijk manoeuvrerend verkeer. In het donker of bij slecht weer rijd ik extra voorzichtig en let ik op reflectorpalen, markeringen en eventuele afscheidingen. Indien nodig stop ik om de situatie te overzien, bijvoorbeeld bij een veerpont of een krappe keerplek.",
+  "watdoejij": "Je vermindert ruim op tijd je snelheid en houdt meer afstand tot de rand van de rijbaan. Je kiest een rijlijn met duidelijke uitwijkruimte en blijft geconcentreerd op bochten, krappe passages en mogelijk manoeuvrerend verkeer. In het donker of bij slecht weer rijd je extra voorzichtig en let je op reflectorpalen, markeringen en eventuele afscheidingen. Indien nodig stop je om de situatie te overzien, bijvoorbeeld bij een veerpont of een krappe keerplek.",
   "waarzieje": "Je ziet dit bord bij kades in havens, langs rivieren en kanalen, bij grachten in binnensteden en bij veerstoepen. Ook bij sluizen, dijken en op industrieterreinen waar wegen dicht langs het water lopen komt het voor. Soms staat het aan het einde van een doodlopende weg die op het water uitkomt, maar het kan ook langs een doorgaande weg staan die vlak langs de oever loopt. Op parkeerplaatsen of laad- en losplaatsen aan het water kan het eveneens zijn geplaatst.",
   "uitleg": [
    "Dit is een waarschuwingsbord: er is een reële kans dat je bij een stuurfout, te hoge snelheid of beperkte ruimte in het water terechtkomt. Het bord kan zowel betekenen dat de weg eindigt bij water als dat de rijbaan vlak naast de oever of kade doorloopt. Het bord zegt niets over de aanwezigheid of afwezigheid van een hek, stoeprand of vangrail; dat kan per locatie verschillen.",
@@ -3805,10 +3829,10 @@
  },
  "J28": {
   "betekenis": "Je nadert een gebied met koeien of ander vee op of langs de rijbaan. Verlaag je snelheid en zorg dat je direct kunt stoppen.",
-  "watdoejij": "Ik haal tijdig mijn voet van het gas en kijk ver vooruit. Mijn voet blijft boven het rempedaal. Ik vergroot mijn volgafstand en scan bermen, erftoegangen en open hekken. Staat er vee op de weg, dan wacht ik rustig. Ik volg aanwijzingen van een boer of begeleider. Passeren doe ik alleen stapvoets, zonder claxon of fel groot licht. Ik houd ruime zijdelingse afstand.",
+  "watdoejij": "Je haalt tijdig je voet van het gas en kijkt ver vooruit. Je voet blijft boven het rempedaal. Je vergroot je volgafstand en scant bermen, erftoegangen en open hekken. Staat er vee op de weg, dan wacht je rustig. Je volgt aanwijzingen van een boer of begeleider. Passeren doe je alleen stapvoets, zonder claxon of fel groot licht. Je houdt ruime zijdelingse afstand.",
   "waarzieje": "Je ziet dit bord vooral op landelijke wegen langs weilanden, dijken en polderwegen. Daar worden kuddes verplaatst. Ook bij oversteekplaatsen tussen twee weiden, erftoegangen van melkveehouderijen en bij open veeroosters komt het voor. In natuurgebieden met begrazing door runderen of schaapskuddes kan het bord het hele jaar staan. De kans op overstekend vee is vaak het grootst rond melktijden. Vroeg in de ochtend en aan het eind van de middag.",
   "uitleg": [
-   "Het bord waarschuwt voor vee op de rijbaan of dat plots kan oversteken. Dieren reageren onvoorspelbaar op voertuigen, geluid en licht. Een kalf kan terugrennen naar de moeder, of een koe kan stil blijven staan. Voorrang verlenen is een ander eerst laten gaan. Reken er niet op dat dieren jou voorrang verlenen of snel aan de kant gaan.",
+   "Het bord waarschuwt voor vee op de rijbaan of dat plots kan oversteken. Dieren reageren onvoorspelbaar op voertuigen, geluid en licht. Een kalf kan terugrennen naar de moeder, of een koe kan stil blijven staan. Reken er niet op dat dieren jou voorrang verlenen of snel aan de kant gaan.",
    "De snelheid aanpassen is de kern. Laat op tijd gas los, zodat je zonder hard remmen kunt stoppen. Kijk breed naar open hekwerken, dammen over sloten, veeroosters en mensen die een kudde begeleiden. Op smalle dijkwegen en bij bochten is het zicht beperkt. Er is vaak weinig uitwijkruimte, dus kies vroeg een veilige positie en houd beide handen aan het stuur.",
    "Kom je vee tegen op de weg, stop dan op ruime afstand. Maak geen plotselinge bewegingen en laat de motor rustig draaien. Gebruik geen claxon. Passeer alleen stapvoets, zo recht mogelijk, met ruime zijdelingse afstand. Beweegt de kudde, wacht dan op een duidelijk teken dat je erlangs mag. Dwing geen ruimte af en ga niet tussen dieren door.",
    "Bij schemer en in het donker zie je donker vee laat. Gebruik dimlicht in de buurt van dieren en haal groot licht tijdig terug. Moet je onverwacht stoppen en dreigt er direct achter je gevaar, waarschuw dan met je remlichten. Gebruik eventueel de waarschuwingslichten. Reken op gladheid door modder of mest van het land op de weg. Vergroot je volgafstand nog verder."
@@ -3856,7 +3880,7 @@
    },
    {
     "code": "J18",
-    "verschil": "Hier gaat het om tegemoetkomend verkeer op jouw rijstrook, herkenbaar aan de twee tegengestelde pijlen."
+    "verschil": "Hier gaat het om tegemoetkomend verkeer op dezelfde rijbaan, herkenbaar aan de twee tegengestelde pijlen."
    },
    {
     "code": "J19",
@@ -3875,7 +3899,7 @@
    "Anticipeer. Kijk vroeg de bocht in, waar je heen wilt, en scan de uitrijlijn. Laat tijdig gas los en rem zo nodig rechtuit vóór de bocht. Hard remmen terwijl je instuurt vergroot de kans op slippen. Kies een stabiele snelheid door de bocht. Geef pas rustig gas als de auto staat en je de uitrijstrook ziet.",
    "Je plaats op de weg is cruciaal. Houd zo veel mogelijk rechts op je rijstrook en raak de berm niet. Snijd de binnenbocht nooit af; achter de bocht kunnen tegenliggers, fietsers of een ruiter opduiken. Inhalen in of vlak voor een bocht is onveilig door het beperkte zicht. Wegmarkering kan het soms verbieden, maar ook zonder verbod is inhalen meestal onverstandig. Rijd je met aanhanger of volle belading? Dan breekt de combinatie eerder uit of gaat slingeren bij te hoge bochtsnelheid.",
    "Weer en wegdek bepalen je grip. Nat wegdek, modder, grind, bladeren of ijzel verlagen de wrijvingsreserve. Daardoor breekt de auto eerder uit. Neem extra marge, stuur rustig en houd beide handen aan het stuur. ABS en stabiliteitscontrole helpen, maar natuurkunde wint altijd. Te hard is en blijft te hard.",
-   "Soms staat er een onderbord met adviessnelheid. Dat is geen wettelijke limiet. Het is een stevige aanwijzing voor een veilige snelheid bij normale omstandigheden. In de bocht kun je ook gele bochtpijlen zien. Dit bord geldt voor alle bestuurders. Een bestuurder is iemand die een voertuig bestuurt. Het verandert geen regels zoals maximumsnelheid of voorrang, maar jij past je rijgedrag wel aan."
+   "Soms staat er een onderbord met adviessnelheid. Dat is geen wettelijke limiet. Het is een stevige aanwijzing voor een veilige snelheid bij normale omstandigheden. In de bocht kun je ook gele bochtpijlen zien. Dit bord geldt voor alle bestuurders. Het verandert geen regels zoals maximumsnelheid of voorrang, maar jij past je rijgedrag wel aan."
   ],
   "fouten": [
    "Denken dat het altijd een scherpe bocht is. Het bord waarschuwt alleen voor een bocht naar links, niet voor de scherpte.",
@@ -3987,7 +4011,7 @@
    },
    {
     "code": "J8",
-    "verschil": "Hier gaat het expliciet om een kruispunt dat door verkeerslichten wordt geregeld."
+    "verschil": "Hier gaat het om een plaats met verkeerslichten; dat hoeft geen kruispunt te zijn."
    },
    {
     "code": "J22",
@@ -4071,7 +4095,7 @@
   "waarzieje": "Langs autosnelwegen en N-wegen bij buien, stuifsneeuw of plotseling optrekkende mistbanken. In open polder, bij water, op dijken, bruggen en viaducten waar mist en spray blijven hangen. Ook bij knooppunten en afritten waar verkeer samenkomt en spatten het zicht beperken.",
   "uitleg": [
    "Dit waarschuwingsbord waarschuwt voor een weggedeelte met minder ver zicht door regen, sneeuw of mist. Je ziet gevaren later en hebt minder reactietijd.",
-   "Het bord wordt geplaatst wanneer het weer tijdelijk problemen geeft. De situatie kan snel omslaan, soms binnen een paar honderd meter. Reken erop dat andere bestuurders ineens remmen. Een bestuurder is iemand die een voertuig bestuurt.",
+   "Het bord wordt geplaatst wanneer het weer tijdelijk problemen geeft. De situatie kan snel omslaan, soms binnen een paar honderd meter. Reken erop dat andere bestuurders ineens remmen.",
    "Rijd met een snelheid die past bij wat je ziet. Vuistregel: je moet binnen je zicht kunnen stoppen. Houd ruime marges. Vergroot je volgafstand tot twee tot drie seconden bij regen, en meer bij dichte mist of natte sneeuw. Stuur, rem en geef gas soepel om schrikreacties te voorkomen.",
    "Verlichting is hier cruciaal. Rijd met dimlicht; dagrijverlichting verlicht je achterkant niet, dus van achteren ben je slecht zichtbaar. Mistlampen voor mogen aan bij ernstig belemmerd zicht. Dat kan door mist, sneeuw of zware regen. Het mistachterlicht gebruik je alleen bij zicht minder dan 50 meter en alleen bij mist of sneeuw. Anders verblind je achteropkomend verkeer.",
    "Houd rekening met opspattend water en vuil van vrachtwagens, beslagen ruiten en snel vervuilde spiegels. Zet ruitensproeier, ruitenwissers en ontwaseming op tijd aan. Op wegen zonder verlichting helpen reflectoren, belijning en kattenogen je oriëntatie. Volg die rustig en ga niet hangen aan de achterlichten van je voorganger."
@@ -4140,7 +4164,7 @@
   "uitleg": [
    "Dit is de algemene gevaarswaarschuwing. Het bord meldt dat er gevaar nadert, maar niet wat precies. Daarom staat er altijd een onderbord met extra informatie. Zonder dat onderbord weet je niet waarvoor je wordt gewaarschuwd. Het bord vraagt dus vooral om focus en om het onderbord te lezen.",
    "Het onderbord noemt de aard van het gevaar. Dat kan met tekst, een symbool, een afstand tot het gevaar of een lengte. Zie je 200 m, dan begint het risico pas over 200 meter. Staan pijlen of een lengte, dan gaat het om een traject.",
-   "Dit bord staat waar geen specifiek waarschuwingsbord past. Het kan een heel lokale bijzonderheid zijn, tijdelijk of incidenteel. Of een risico dat anders is dan de bekende gevaren met eigen borden. Bestuurder is iedereen die een voertuig bestuurt. Jij gokt niet wat er komt, maar volgt het onderbord en past je rijgedrag aan.",
+   "Dit bord staat waar geen specifiek waarschuwingsbord past. Het kan een heel lokale bijzonderheid zijn, tijdelijk of incidenteel. Of een risico dat anders is dan de bekende gevaren met eigen borden. Jij gokt niet wat er komt, maar volgt het onderbord en past je rijgedrag aan.",
    "Rijtechnisch doe je dit: snelheid verminderen, breder kijken en op tijd anticiperen. Verwacht plots remmen en houd voldoende volgafstand. Dit is geen voorrangsbord of gebodsbord, dus de voorrang verandert niet. Soms staat het samen met andere borden, zoals een snelheidslimiet of een inhaalverbod. Die borden volg je ook op."
   ],
   "fouten": [
@@ -4172,7 +4196,7 @@
   "waarzieje": "Dit bord zie je vaak in woonwijken en 30-zones waar snelheid omlaag moet. Ook bij scholen, sportparken en winkelstraten staat het om verkeer af te remmen. Soms staat het bij een oversteekplaats of vlak voor een kruispunt. Zo weet je dat je daar rustiger moet naderen. Op industrieterreinen en in dorpskernen kan het in een reeks staan. Dan gaat steeds dit waarschuwingsbord vooraf.",
   "uitleg": [
    "Het bord kondigt een fysieke verhoging in het wegdek aan. Die is bedoeld om je snelheid te verlagen. Hoogte, vorm en lengte verschillen per plek. Rij je te hard, dan voel je een klap. Je verliest comfort of controle. Door op tijd te vertragen voorkom je schade aan vering, velgen en uitlaat. Zo houd je grip.",
-   "Kijk ver vooruit en zoek de verhoging tijdig. Laat vroeg gas los. Rem vóór de verhoging tot een snelheid waarbij je auto niet stuitert. Rij er in een vloeiende, rechte lijn overheen. Houd het stuur ontspannen vast en laat beide wielen na elkaar over de top. Versnel pas weer als alle wielen voorbij zijn en de auto stabiel is.",
+   "Kijk ver vooruit en zoek de verhoging tijdig. Laat vroeg gas los. Rem vóór de verhoging tot een snelheid waarbij je auto niet stuitert. Rij er in een vloeiende, rechte lijn overheen. Houd het stuur ontspannen vast en laat de voor- en achterwielen na elkaar over de top. Versnel pas weer als alle wielen voorbij zijn en de auto stabiel is.",
    "Let op de omgeving. Dit bord staat vaak waar veel voetgangers en fietsers zijn. Een verhoging ligt soms voor of bij een oversteek. Mensen verwachten dat je rustig rijdt en tijdig kunt stoppen. Houd dus extra ruimte en wees bereid te stoppen bij onverwachte oversteken. Bij regen of sneeuw kan de top glad zijn. Een lagere snelheid helpt om slip te voorkomen.",
    "Rij je op een motor, in een bestelbus of met lading? Neem dan extra marge. Een korte schok op voor- of achteras kan sturen of remmen even verstoren. Slecht vastgezette lading kan gaan schuiven. Rij met beide wielen in één spoor over de verhoging. Zo voorkom je onverwachte zijdelingse krachten.",
    "Vaak volgen meerdere verhogingen elkaar op. Kies dan één gelijkmatig, rustig tempo dat voor alle verhogingen past. Versnellen en weer remmen tussen verhogingen is niet nodig. Dat is comfortabeler, stiller voor de omgeving en beter voor je voertuig."
@@ -4254,7 +4278,7 @@
    },
    {
     "code": "J2",
-    "verschil": "Hier gaat het om twee bochten achter elkaar die starten naar rechts, niet om één enkele bocht."
+    "verschil": "Hier gaat het om een reeks bochten die start naar rechts, niet om één enkele bocht."
    }
   ],
   "examen": "Je herkent dat je meerdere bochten krijgt en dat de eerste naar rechts gaat. Reken op vragen over passende snelheid, remmen vóór de bocht en niet inhalen in de bochtenreeks.",
@@ -4387,12 +4411,12 @@
     "verschil": "Hier gaat het om een regulier kruispunt met kruisende richtingen, zichtbaar als een zwart kruis in de driehoek."
    }
   ],
-  "examen": "Je moet de betekenis herkennen en weten dat dit bord geen voorrang toekent. Verwacht vragen over welk gedrag hoort: snelheid aanpassen, kijken, voorrang bepalen op basis van lichten, borden, markeringen en anders verkeer van rechts laten voorgaan.",
+  "examen": "Je moet de betekenis herkennen en weten dat dit bord geen voorrang toekent. Verwacht vragen over welk gedrag hoort: snelheid aanpassen, kijken, voorrang bepalen op basis van lichten, borden, markeringen en anders voorrang verlenen aan verkeer van rechts.",
   "artikelen": []
  },
  "J9": {
   "betekenis": "Je nadert een rotonde en moet je snelheid aanpassen, letten op de voorrangsregeling en je voorbereiden om in te voegen en weer uit te rijden.",
-  "watdoejij": "Ik neem gas terug, kijk vroeg in spiegels en over mijn schouder en kies op tijd de juiste rijstrook aan de hand van borden en pijlen op het wegdek. Ik bepaal wie voorrang heeft door te kijken naar haaientanden en voorrangsborden; ontbreken die, dan geldt de regel van voorrang van rechts. Ik geef richting aan zoals gebruikelijk bij rotondes en let extra op voetgangers en fietsers bij de uitritten. Pas als het veilig kan, rijd ik op en verken ik mijn plek tussen het circulerende verkeer.",
+  "watdoejij": "Je neemt gas terug, kijkt vroeg in je spiegels en over je schouder en kiest op tijd de juiste rijstrook aan de hand van borden en pijlen op het wegdek. Je bepaalt wie voorrang heeft door te kijken naar haaientanden en voorrangsborden; ontbreken die, dan geldt de regel van voorrang van rechts. Je geeft richting aan zoals gebruikelijk bij rotondes en let extra op voetgangers en fietsers bij de uitritten. Pas als het veilig kan, rijd je op en zoek je je plek tussen het circulerende verkeer.",
   "waarzieje": "Je komt dit bord tegen voor kruispunten die zijn ingericht als rotonde, zowel binnen de bebouwde kom als buiten de kom. Het staat vaak op wegen waar de rotonde pas laat zichtbaar is, bijvoorbeeld na een bocht, een helling of tussen bebouwing. Ook bij drukke aansluitingen van wijkontsluitingswegen, winkelgebieden en provinciale wegen waarschuwt dit bord tijdig voor de naderende circulatie.",
   "uitleg": [
    "Dit is een waarschuwingsbord: het vertelt je dat er verderop een rotonde komt. Je rijdt in Nederland tegen de klok in om het middeneiland heen. Het bord zelf legt geen voorrangsregels op en verandert geen snelheidslimieten; het zet je aan tot anticiperen. Verwacht invoegend en uitvoegend verkeer en bereid je rijlijn en kijkgedrag daarop voor.",
@@ -4510,15 +4534,15 @@
   "verwar": [
    {
     "code": "K5",
-    "verschil": "Op mijn bord staan rijstrookpijlen en een apart aftakkingspaneel voor directe voorsortering."
+    "verschil": "Op dit bord staan rijstrookpijlen voor directe voorsortering."
    },
    {
     "code": "K6",
-    "verschil": "Mijn bord kondigt vóór het kruispunt de rijstrookkeuze aan en bevat vaak ook een verwijzing naar de autosnelweg."
+    "verschil": "Dit bord kondigt vóór het kruispunt de rijstrookkeuze aan en bevat vaak ook een verwijzing naar de autosnelweg."
    },
    {
     "code": "K4",
-    "verschil": "Mijn bord staat langs een niet-autosnelweg en gebruikt N-routenummers met slechts een verwijzing naar de autosnelweg."
+    "verschil": "Dit bord staat langs een niet-autosnelweg en gebruikt N-routenummers met slechts een verwijzing naar de autosnelweg."
    }
   ],
   "examen": "Je moet herkennen dat dit een voorsorteerbord op een niet‑autosnelweg is en dat er altijd een richting naar de autosnelweg op staat. Verwacht vragen over het kiezen van de juiste rijstrook aan de hand van plaatsnamen en het verschil tussen A‑ en N‑routenummers.",
@@ -4749,7 +4773,7 @@
  "K6": {
   "betekenis": "Je gaat zo kiezen op een niet‑autosnelweg. De pijl of pijlen wijzen direct de richting naar de genoemde plaatsen. Het gele rechthoekige vlak met N‑nummer hoort bij die N‑route.",
   "watdoejij": "Lees vroeg welke plaats of welk N‑routenummer je nodig hebt. Kies dan de bijbehorende pijl. Pas je snelheid aan, voorsorteer en geef tijdig richting aan voor je afslaat of de afrit neemt. Check spiegels en dode hoek, laat achteropkomend verkeer niet schrikken. Mis je de juiste pijl? Rij door en kies de eerstvolgende veilige plek om te keren of een andere route te nemen.",
-  "waarzieje": "Je ziet dit bord op niet‑autosnelwegen, precies bij kruispunten, T‑splitsingen, afslaande richtingen en uitritten waar je direct kiest. Het staat vaak rechts of op een middeneiland bij een vork in de weg. Bij rotondes kan per afslag zo’n pijl staan zodat je op tijd de juiste uitvoeging neemt. Buiten de bebouwde kom staat het veel langs provinciale wegen naar omliggende plaatsen.",
+  "waarzieje": "Je ziet dit bord op niet‑autosnelwegen, precies bij kruispunten, T‑splitsingen, afslaande richtingen en afritten waar je direct kiest. Het staat vaak rechts of op een middeneiland bij een vork in de weg. Bij rotondes kan per afslag zo’n pijl staan zodat je op tijd de juiste uitvoeging neemt. Buiten de bebouwde kom staat het veel langs provinciale wegen naar omliggende plaatsen.",
   "uitleg": [
    "Dit is een beslissingswegwijzer. Je leest hem precies wanneer je echt moet afslaan of rechtdoor rijden. De achtergrond is blauw met witte letters voor interlokale doelen. Het N‑routenummer op een niet‑autosnelweg staat in een geel rechthoekig vlak met zwarte N en cijfers, bijvoorbeeld N212. Dat gele vlak betekent een N‑route, geen autosnelweg of Europese route.",
    "De pijlvorm laat zien welke kant je op gaat. Staat het N‑nummer op de pijl, dan brengt die richting je naar of langs die N‑route. Onder of naast het routenummer kunnen plaatsnamen staan met een afstand in kilometers. Die afstand is tot het doel via die richting, niet tot de afslag zelf.",
@@ -4876,8 +4900,8 @@
  },
  "L1": {
   "betekenis": "Dit bord geeft de vrije doorrijhoogte in meters aan; als jouw voertuig met lading hoger is dan het getal, mag je er in de praktijk niet onderdoor omdat je anders vastloopt of schade veroorzaakt.",
-  "watdoejij": "Weet of meet vóór vertrek de totale hoogte van je voertuig inclusief lading, dakkoffer, fietsen op het dak, opbouw of kraanarm. Zie je dit bord en kom je in de buurt van die hoogte, mindeer snelheid, controleer of alles is neergelaten en kies zo nodig een andere route. Rijd rustig en recht onder de overspanning door om extra speling te houden. Met aanhangwagen: reken met het hoogste punt van de combinatie.",
-  "waarzieje": "Je komt dit bord tegen bij vaste overspanningen boven de rijbaan, zoals onder viaducten, spoorbruggen, aquaducten en in lage onderdoorgangen. Ook langs wegen waar een beperkte hoogte geldt door constructies boven de weg, bijvoorbeeld portalen of balken vóór een onderdoorgang. In boogstralen en bij oudere kunstwerken kan de hoogte beperkter zijn dan je gewend bent, daarom staat hier vaak dit bord. Op doorgaande wegen met veel vracht- en busverkeer zie je het regelmatig, zodat bestuurders op tijd kunnen inschatten of ze eronderdoor kunnen.",
+  "watdoejij": "Weet of meet vóór vertrek de totale hoogte van je voertuig inclusief lading, dakkoffer, fietsen op het dak, opbouw of kraanarm. Zie je dit bord en kom je in de buurt van die hoogte, minder snelheid, controleer of alles is neergelaten en kies zo nodig een andere route. Rijd rustig en recht onder de overspanning door om extra speling te houden. Met aanhangwagen: reken met het hoogste punt van de combinatie.",
+  "waarzieje": "Je komt dit bord tegen bij vaste overspanningen boven de rijbaan, zoals onder viaducten, spoorbruggen, aquaducten en in lage onderdoorgangen. Ook langs wegen waar een beperkte hoogte geldt door constructies boven de weg, bijvoorbeeld portalen of balken vóór een onderdoorgang. Bij boogvormige en oudere kunstwerken kan de hoogte beperkter zijn dan je gewend bent, daarom staat hier vaak dit bord. Op doorgaande wegen met veel vracht- en busverkeer zie je het regelmatig, zodat bestuurders op tijd kunnen inschatten of ze eronderdoor kunnen.",
   "uitleg": [
    "Dit is een informatiebord: een blauw vierkant met twee witte driehoeken (één boven, één onder) en een getal met “m”. De driehoeken benadrukken de beperkte ruimte in de verticale richting. Het getal is de vrije doorrijhoogte. Het is geen verbodsbord, maar het vertelt je wél of je er feitelijk onderdoor past.",
    "De hoogte geldt voor het hele voertuig inclusief alles wat erop of eraan zit. Denk aan een dakkoffer, fietsen op het dak, een opbouw, een container, een omhoogstaande laadklep of kraanarm en ook aan de lading op een aanhangwagen. Reken dus met het hoogste punt van de combinatie. Heb je luchtvering of verstelbare hoogte, zorg dan dat de stand is gekozen waarmee je ruimschoots onder de aangegeven hoogte blijft.",
@@ -5239,21 +5263,21 @@
   "artikelen": []
  },
  "L2": {
-  "betekenis": "Je nadert een zebrapad. Je geeft voetgangers en bestuurders van een gehandicaptenvoertuig die willen oversteken voorrang. Zo nodig stop je. Bestuurder is wie een voertuig bestuurt.",
+  "betekenis": "Je nadert een zebrapad. Je laat voetgangers en bestuurders van een gehandicaptenvoertuig die willen oversteken voor gaan. Zo nodig stop je.",
   "watdoejij": "Laat op tijd het gas los en kijk ver vooruit. Wees remklaar. Kijk links en rechts of iemand wil oversteken. Maak zo nodig oogcontact. Stop ruim vóór de strepen als iemand wil gaan. Rijd pas door als de oversteek vrij is. Haal geen voertuigen in bij het naderen of op het zebrapad.",
   "waarzieje": "Je ziet dit bord vaak in winkelstraten, bij scholen en in woonwijken met veel voetgangers. Ook bij bushaltes, treinstations, parkeerterreinen en drukke kruisingen. Op brede wegen met meerdere rijstroken zie je het vaak samen met een middeneiland, zodat mensen in twee etappes kunnen oversteken.",
   "uitleg": [
-   "Het bord kondigt een zebrapad aan. Daar mindeer je uit jezelf snelheid en moet je voetgangers en bestuurders van een gehandicaptenvoertuig voor laten gaan als ze op het punt staan over te steken of al bezig zijn. Rem op tijd en geef duidelijkheid. Rijd pas verder als de hele rijbaan voor jouw richting vrij is.",
+   "Het bord kondigt een zebrapad aan. Daar minder je uit jezelf snelheid en moet je voetgangers en bestuurders van een gehandicaptenvoertuig voor laten gaan als ze op het punt staan over te steken of al bezig zijn. Rem op tijd en geef duidelijkheid. Rijd pas verder als de hele rijbaan voor jouw richting vrij is.",
    "‘Op het punt staan over te steken’ betekent dat iemand duidelijk wil gaan, bijvoorbeeld door bij de rand te stoppen en naar het verkeer te kijken of een voet te zetten. Wil iemand oversteken? Jij stopt. Houd rekening met kinderen, ouderen en mensen die trager starten of lopen. Neem geen risico’s en voorkom twijfel.",
    "Inhalen is hier extra gevaarlijk en daarom verboden vlak vóór en op een zebrapad. Een auto voor je kan stoppen voor iemand die jij nog niet ziet. Door in te halen breng je die persoon in gevaar. Houd ruime volgafstand, zodat je niet hoeft uit te wijken of hard te remmen als je voorganger stopt.",
    "Blokkeer het zebrapad nooit. In filevorming laat je de strepen vrij zodat mensen kunnen oversteken. Stilstaan of parkeren op de strepen is niet toegestaan. Stop met voldoende ruimte voor de eerste streep, zodat overstekers zicht houden op jou en jij op hen.",
-   "Fietsers die rijdend het zebrapad oversteken hebben geen automatische voorrang; als ze afstappen en lopen, zijn ze voetganger. Een gehandicaptenvoertuig dat op het trottoir rijdt en wil oversteken, behandel je als voetganger. Zijn er verkeerslichten bij het zebrapad, dan volg je die signalen en rijd je het vak alleen in als je het ook volledig kunt verlaten."
+   "Fietsers die rijdend het zebrapad oversteken hoef je niet voor te laten gaan; als ze afstappen en lopen, zijn ze voetganger. Een gehandicaptenvoertuig dat op het trottoir rijdt en wil oversteken, behandel je als voetganger. Zijn er verkeerslichten bij het zebrapad, dan volg je die signalen en rijd je het vak alleen in als je het ook volledig kunt verlaten."
   ],
   "fouten": [
    "Denken dat je pas stopt als iemand al op de strepen staat; je wacht ook voor iemand die duidelijk wil gaan.",
    "Inhalen van een voertuig dat bij een zebrapad afremt.",
    "Het zebrapad blokkeren in de file of er op stilstaan om te laden of lossen.",
-   "Aannemen dat rijdende fietsers op een zebrapad dezelfde voorrang hebben als voetgangers."
+   "Aannemen dat je rijdende fietsers op een zebrapad net als voetgangers voor moet laten gaan."
   ],
   "verwar": [
    {
@@ -5265,7 +5289,7 @@
     "verschil": "Dit bord wijst de exacte plek van het zebrapad aan op de rijbaan, met zebrastrepen en een lopende voetganger in het pictogram."
    }
   ],
-  "examen": "Je krijgt vragen over wie voorrang heeft en wat je doet als iemand bij de stoeprand staat. Let op zaken als niet inhalen bij het naderen en het vrijhouden van de strepen in de file.",
+  "examen": "Je krijgt vragen over wie je voor moet laten gaan en wat je doet als iemand bij de stoeprand staat. Let op zaken als niet inhalen bij het naderen en het vrijhouden van de strepen in de file.",
   "artikelen": []
  },
  "L20": {
@@ -5306,7 +5330,7 @@
   "watdoejij": "Verminder tijdig snelheid, houd zoveel mogelijk rechts en beoordeel of een tegenligger de uitwijkplaats aan jouw linkerkant nodig heeft. Zo nodig stop je vóór de in- of uitrit van die uitwijkplaats zodat de tegenligger erin kan en jullie elkaar rustig kunnen passeren. Rij pas weer door als het vak vrij is en er voldoende ruimte is. Je stuurt zelf niet naar links de uitwijkplaats in.",
   "waarzieje": "Je komt dit bord tegen op smalle, landelijke wegen waar twee auto’s elkaar niet gemakkelijk kunnen passeren. Je ziet het vaak bij dijken, polderwegen, boswegen en kronkelende erftoegangswegen met beperkt zicht. Het bord kan staan voor of bij een verbreding in de berm of een verhard strookje naast de rijbaan. Soms staat er na een bocht meteen een uitwijkplaats om onverwachte tegenliggers op te vangen.",
   "uitleg": [
-   "Dit bord kondigt een uitwijkplaats aan die, gezien jouw rijrichting, links van de weg ligt. Die uitwijkplaats is er vooral voor de bestuurder die jou tegemoetkomt. Het idee is simpel: jij rijdt rechtdoor en houdt rechts; de tegenligger wijkt zo nodig uit naar het vak links van jou zodat jullie elkaar zonder gevaar kunnen passeren. Het is een informatiebord, geen voorrangsbord. Het schrijft dus niet af wie ‘recht’ heeft, maar helpt om de ruimte slim te gebruiken.",
+   "Dit bord kondigt een uitwijkplaats aan die, gezien jouw rijrichting, links van de weg ligt. Die uitwijkplaats is er vooral voor de bestuurder die jou tegemoetkomt. Het idee is simpel: jij rijdt rechtdoor en houdt rechts; de tegenligger wijkt zo nodig uit naar het vak links van jou zodat jullie elkaar zonder gevaar kunnen passeren. Het is een informatiebord, geen voorrangsbord. Het schrijft dus niet voor wie ‘recht’ heeft, maar helpt om de ruimte slim te gebruiken.",
    "Nader je een tegenligger, kijk dan vroeg vooruit: wie is het dichtst bij de uitwijkplaats en kan die het makkelijkst gebruiken? Ligt de uitwijkplaats links van jou, dan is het logisch dat de tegenligger die benut. Neem op tijd gas terug en stop desnoods vóór de inrit van het vak, met genoeg ruimte om in en uit te steken. Blijf zelf op je eigen weghelft en passeer elkaar met lage snelheid. Maak duidelijk contact met de ander door snelheid en positie; knipperlichten of groot licht zijn meestal niet nodig.",
    "Een uitwijkplaats is er om kortstondig te gebruiken voor het laten passeren van verkeer. Het is geen parkeerplaats en geen plek om te keren of te pauzeren. Alle bestuurders kunnen er tijdelijk gebruik van maken om elkaar langs te laten, zoals bestuurders van personenauto’s, vrachtauto’s, landbouwvoertuigen, motorfietsen, bromfietsen en fietsers. Sta er niet langer stil dan strikt nodig is en blokkeer de in- en uitrit niet, ook niet ‘even’ om een bericht te lezen.",
    "Verwar dit bord niet met borden die iets zeggen over voorrang of over het verdwijnen van een rijstrook. De pijlen op dit bord helpen je onthouden wat je doet: de rechte, dikkere pijl staat voor jouw rijrichting die rechtdoor blijft gaan; de smallere, gebogen pijl beeldt het tegemoetkomend verkeer uit dat uitwijkt naar links, dus naar de uitwijkplaats aan jouw linkerkant. Zie je in plaats hiervan een bord dat een uitwijkplaats rechts aangeeft, dan ligt die juist aan jouw kant en kun jij daar, indien nodig, zelf rechts kort inrijden om ruimte te maken."
@@ -5339,7 +5363,7 @@
   "watdoejij": "Rijd rustig en kijk ver vooruit. Let op voetgangers die naar de halte lopen of oversteken. Parkeer niet in een gemarkeerd haltevak. Zonder markering geldt 12 meter vóór en 12 meter ná het bord. Binnen de bebouwde kom moet je een lijnbus die wil wegrijden voor laten gaan. Voor laten gaan is de bus eerst laten rijden. Heel kort stilstaan voor onmiddellijk in- of uitstappen mag alleen op de halteplaats. Doe dat nooit op een busbaan, busstrook of trambaan.",
   "waarzieje": "Bij een haltekom in de berm of langs de trottoirrand in woonstraten en stadswegen. Op plekken waar de tram op of naast de rijbaan stopt, zoals bij een middenperron of langs de kant. Bij drukke ov-knooppunten, winkelcentra en aansluitingen op treinstations of P+R-terreinen. Ook langs grotere in- en uitvalswegen waar lijnbussen en trams vaak halteren.",
   "uitleg": [
-   "Dit bord markeert een plek waar lijnbussen en trams halteren. Hier stappen reizigers in en uit. De halteplaats is alleen voor deze voertuigen; andere bestuurders parkeren of wachten hier niet. Bestuurder is iedereen die een voertuig bestuurt. Houd afstand en reken op onverwachte bewegingen van reizigers.",
+   "Dit bord markeert een plek waar lijnbussen en trams halteren. Hier stappen reizigers in en uit. De halteplaats is alleen voor deze voertuigen; andere bestuurders parkeren of wachten hier niet. Houd afstand en reken op onverwachte bewegingen van reizigers.",
    "Parkeren op de halteplaats is verboden. Is er een gemarkeerd haltevak of een haltestrook, dan geldt het verbod alleen binnen die markering. Ontbreekt de markering, dan geldt het parkeerverbod 12 meter vóór en 12 meter ná het bord. Heel kort stilstaan voor onmiddellijk in- of uitstappen mag op de halteplaats. Op een busbaan, busstrook of de trambaan mag je nooit stilstaan.",
    "Binnen de bebouwde kom laat je een lijnbus die wil wegrijden voor laten gaan. Kijk dus naar de richtingaanwijzers van de bus. Pas je snelheid op tijd aan of wissel van rijstrook. Buiten de bebouwde kom hoef je de bus niet voor te laten gaan. Geef ook daar zoveel mogelijk ruimte voor doorstroming en veiligheid.",
    "Bij trams moet je extra opletten, want zij kunnen niet uitwijken. Houd de trambaan vrij en stop nooit op de rails. Ook niet in file. Rijd pas het vak of de overweg op als je zeker weet dat je door kunt. Let op voetgangers tussen halte en perron. Zij letten niet altijd op het overige verkeer.",
@@ -5384,7 +5408,7 @@
   "verwar": [
    {
     "code": "L5",
-    "verschil": "Dit bord geeft per rijstrook de toegestane rijrichting om voor te sorteren; het kondigt geen eindigende rijstrook aan."
+    "verschil": "Dit bord laat per rijstrook zien welke richtingen verderop mogelijk zijn; het kondigt geen eindigende rijstrook aan."
    },
    {
     "code": "L6",
@@ -5405,12 +5429,12 @@
   "uitleg": [
    "De pijlen tonen welke rijstroken doorlopen en welke ophoudt. De gebogen pijl laat zien vanaf welke kant je moet invoegen. Op de afbeelding stopt de linkerstrook en ga je naar rechts; er zijn ook varianten waar juist de rechterstrook stopt.",
    "Zie het bord als het startsein om je invoegactie te plannen. Check spiegels, kijk over je schouder en geef op tijd richting aan. Houd je snelheid gelijkmatig, zodat achteropkomers snappen wat je doet. Versnel of vertraag licht om ruimte te maken.",
-   "Wissel je van rijstrook, dan moet je verkeer op de doorgaande rijstrook voor laten gaan. Voor laten gaan betekent dat jij wacht. Voorrang verlenen is hetzelfde. In langzaam rijdend verkeer geldt de ritsafspraak: benut beide rijstroken tot vlak voor het einde en voeg dan om en om samen. Rij je al op de doorgaande rijstrook, laat ruimte voor precies één voertuig en houd de doorstroming erin.",
+   "Wissel je van rijstrook, dan moet je verkeer op de doorgaande rijstrook voor laten gaan. Voor laten gaan betekent dat jij wacht. In langzaam rijdend verkeer geldt de ritsafspraak: benut beide rijstroken tot vlak voor het einde en voeg dan om en om samen. Rij je al op de doorgaande rijstrook, laat ruimte voor precies één voertuig en houd de doorstroming erin.",
    "Vlak voor het einde zie je vaak markeringen die de versmalling tonen. Rijd niet over verdrijvingsvlakken of doorgetrokken strepen om laat nog te wisselen. Rem niet onnodig hard en stop alleen als het verkeer voor je al stilstaat. Houd voldoende zijdelingse afstand, vooral naast lange of brede voertuigen.",
    "Het bord kan tijdelijk zijn bij werkzaamheden of vast bij een structurele versmalling. Let ook op pijlen en teksten op het wegdek en op aanvullende borden verderop, zodat je niet wordt verrast door een extra rijstrook die sluit."
   ],
   "fouten": [
-   "Denken dat verkeer op de doorgaande rijstrook jou moet laten voorgaan. Bij rijstrookwisselen moet jij voorrang verlenen.",
+   "Denken dat verkeer op de doorgaande rijstrook jou moet laten voorgaan. Bij rijstrookwisselen moet jij het verkeer op de doorgaande rijstrook voor laten gaan.",
    "Te vroeg naar de andere rijstrook gaan, met onnodig remmen en files. In drukte juist beide stroken tot bijna het einde benutten en dan ritsen.",
    "Geen richting aangeven of de schoudercheck overslaan, met een bijna-botsing in de dode hoek.",
    "Op het laatste moment toch over een verdrijvingsvlak of doorgetrokken streep sturen om ertussen te komen."
@@ -5429,7 +5453,7 @@
     "verschil": "Hier wordt het verdwijnen van een rijstrook gemeld in plaats van alleen het aantal doorgaande rijstroken."
    }
   ],
-  "examen": "Je herkent welke rijstrook ophoudt en weet wat jij dan doet: spiegels, richting aangeven, snelheid aanpassen en invoegen. Reken op vragen over ritsen in file en wie er voorrang heeft bij het wisselen van rijstrook.",
+  "examen": "Je herkent welke rijstrook ophoudt en weet wat jij dan doet: spiegels, richting aangeven, snelheid aanpassen en invoegen. Reken op vragen over ritsen in file en wie wie voor moet laten gaan bij het wisselen van rijstrook.",
   "artikelen": []
  },
  "L6": {
@@ -5440,7 +5464,7 @@
    "De pijlen op het bord verbeelden de rijstroken. Rechtdoor wijzende pijlen zijn de doorgaande richtingen. Een uitwaaierende of schuin afbuigende pijl toont dat een strook afsplitst. Het meldt niet dat een strook stopt, maar dat deze een eigen tak vormt.",
    "Dit bord vraagt om keuze en planning. Kijk ver vooruit. Vergelijk de pijlen met je navigatie of de bestemmingen op de borden, en kies vroeg de juiste strook. Wissel vloeiend van strook: spiegels, richting, schoudercheck, en pas als de markering het toelaat. Blijf je op je doorgaande strook, dan geef je geen richting aan.",
    "Bij splitsingen staan vaak extra hulpmiddelen: pijlen op het wegdek, aankondigingen op portaalborden en een doorgetrokken streep tussen doorgaande stroken en de afslaande tak. Die doorgetrokken streep overschrijd je niet. De aftakkende strook kan beginnen als uitvoegstrook of parallelbaan. Neem op tijd gas terug als je die tak volgt, maar rem niet plots op de doorgaande rijbaan.",
-   "Mis je de bedoelde tak, forceer dan geen late beweging. Ga niet over een doorgetrokken streep of vluchtsstrook en snij geen verkeer af op de afslaande strook. Rijd veilig rechtdoor en kies de volgende keeroptie of een alternatieve route. Een rustige, voorspelbare lijn weegt zwaarder dan koste wat kost die afslag."
+   "Mis je de bedoelde tak, forceer dan geen late beweging. Ga niet over een doorgetrokken streep of vluchtstrook en snij geen verkeer af op de afslaande strook. Rijd veilig rechtdoor en kies de volgende keeroptie of een alternatieve route. Een rustige, voorspelbare lijn weegt zwaarder dan koste wat kost die afslag."
   ],
   "fouten": [
    "Denken dat een strook stopt en abrupt invoegen, terwijl die strook juist als aparte tak doorloopt.",
@@ -5488,7 +5512,7 @@
    },
    {
     "code": "L5",
-    "verschil": "Hier houdt geen rijstrook op; het bord geeft alleen aan hoeveel stroken rechtdoor doorgaan."
+    "verschil": "Hier zie je alleen hoeveel stroken rechtdoor doorgaan; het bord zegt niet welke rijstrook ophoudt."
    },
    {
     "code": "L6",
@@ -5538,10 +5562,10 @@
   "waarzieje": "Je ziet dit bord vooral vóór kruispunten in woonwijken, buitenwegen en op bedrijventerreinen. Daar biedt één zijstraat geen doorgaande route. Het staat vaak bij bewegwijzering die de hoofdrichting doorlaat, maar de afslag laat doodlopen. De tekening toont welke zijweg het is, links of rechts, en dat de hoofdrichting doorloopt.",
   "uitleg": [
    "De pijl laat de doorgaande richting zien. Het dwars takje met rood blokje markeert de zijweg die eindigt. Dat betekent: alleen die zijweg is doodlopend. De richting met de pijl blijft open voor doorgaand verkeer.",
-   "Het is een informatief bord. Je mag de zijweg inrijden. Er gelden geen snelheids- of voorrangsregels. De boodschap is route-informatie: kies je die zijweg, dan kun je niet doorsteken en kom je uit bij het einde van de rijbaan.",
+   "Het is een informatief bord. Je mag de zijweg inrijden. Het bord zelf regelt geen snelheid of voorrang. De boodschap is route-informatie: kies je die zijweg, dan kun je niet doorsteken en kom je uit bij het einde van de rijbaan.",
    "Handig voor je routeplanning. Zoek je een adres in die zijweg, rij dan gerust in, maar verwacht dat je terug moet. Rijd je met een lange auto, bestelbus of aanhanger, denk vooraf aan de ruimte om te keren en vermijd onnodig afslaan als je alleen wilde afsnijden.",
    "Verwar dit bord niet met het bord bij de ingang van een doodlopende straat. Dat andere bord staat aan het begin van die straat. Dit bord is een vooraanduiding: het vertelt je vooraf, bij het naderen van het kruispunt, dat een bepaalde keuze geen doorsteek is.",
-   "Soms heeft een doodlopende straat aan het eind wél een doorgang voor voetgangers of fietsers. Dat staat dan apart aangegeven bij de straat zelf. Deze vooraanduiding zegt alleen dat de rijbaan voor bestuurders doodloopt. Een bestuurder is iemand die een voertuig leidt. Het bord zegt niets over kleine doorgangen voor langzaam verkeer."
+   "Soms heeft een doodlopende straat aan het eind wél een doorgang voor voetgangers of fietsers. Dat staat dan apart aangegeven bij de straat zelf. Deze vooraanduiding zegt alleen dat de rijbaan voor bestuurders doodloopt. Het bord zegt niets over kleine doorgangen voor langzaam verkeer."
   ],
   "fouten": [
    "Denken dat je de zijweg niet mag inrijden. Het is geen verbodsbord, maar informatie.",
